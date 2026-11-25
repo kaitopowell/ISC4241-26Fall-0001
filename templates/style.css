@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+.navbar {
+    display: flex; 
+}
+.nav-list{
+    display: flex; 
+    justify-content: center; 
+    list-style: none;
+}
+.nav-list li {
+    color: green;
+}
+

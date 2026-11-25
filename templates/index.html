@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sport Betting</title>
+    <link rel="stylesheet" href= "{{ url_for('static', filename='style.css') }}">
+
+    <!-- <script src="https://kit.fontawesome.com/005a876b20.js" crossorigin="anonymous"></script>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@100..900&display=swap" rel="stylesheet"> -->
+
+</head>
+<body>
+<header>
+    <h1> Project 4: Premier League Prediction Platform</h1>
+    <nav class = "navbar">
+        <ul class = "nav-list">
+            <li><a href="">Home</a></li>
+            <li><a href="">Placeholder1</a></li>
+            <li><a href="">Placeholder2</a></li>
+        </ul>
+    </nav>
+</header>    
+
+
+<!--Dropdown-->
+    <div class="dropdown">
+        <!--For same csv-->
+        <form action = "/" method="POST">
+            <label for = "homeTeam"> Chose a Home Team: </label>
+            <select id = "homeTeam" name = "homeTeam">
+                {% for index, team_name in teams.items()%}
+                <option value = "{{index}}">{{team_name}}</option>
+                {%endfor%}
+            </select>    
+        
+            <label for = "awayTeam"> Chose an Away Team:  </label>
+            <select id = "awayTeam" name = "awayTeam">
+                {% for index, team_name in teams.items()%}
+                <option value = "{{index}}">{{team_name}}</option>
+                {%endfor%}
+            </select>
+            <br><br>
+
+            <button type = "submit">Submit</button>
+            <br><br>
+        <!--for separate csvs-->
+            <label for = "homeTeam_home"> Chose a Home Team:  </label>
+            <select id = "homeTeam_home" name = "homeTeam_home">
+                {% for index, team_name in home_teams_dropdown.items()%}
+                <option value = "{{index}}">{{team_name}}</option>
+                {%endfor%}
+            </select>    
+        
+            <label for = "awayTeam_away"> Chose an Away Team:  </label>
+            <select id = "awayTeam_away" name = "awayTeam_away">
+                {% for index, team_name in away_teams_dropdown.items()%}
+                <option value = "{{index}}">{{team_name}}</option>
+                {%endfor%}
+            </select>
+            <br><br>
+
+            <button type = "submit">Submit</button>
+
+    
+        </form>
+    </div>
+    <div class="prediction_result">
+    {% if prediction %}
+    <h2>Prediction: {{ prediction}}, {{ prediction_label}} </h2>
+    {% endif %}
+    {% if prediction_split %}
+    <h2>Prediction Split: {{ prediction_split}}, {{prediction_label_split}}</h2>
+    {% endif %}
+    </div>
+    <script src="app.js"></script>
+
+</body>
+</html>

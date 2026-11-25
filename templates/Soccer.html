@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+
+<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+<meta charset="UTF-8">
+<link rel="stylesheet" href="style.css">
+<!--<link rel = "stylesheet" href="../static/style.css">-->
+
+
+<style>
+
+    .box-container {
+        /* display: flex; 
+        flex-wrap: wrap; */
+        gap: 5px;
+        display:grid;  
+        grid-template-columns:  1fr 3fr;
+
+
+        margin-left: 210px;
+        margin-right: 230px; 
+    }
+
+    .box-item {
+        display:flex; 
+        background-color: tan;
+        /* width: 45%;  */
+        height: 100px;
+        justify-content: center;
+        text-align: center; 
+    }
+
+
+    .box-item:first-child {
+        grid-column:span 2; 
+        align-items: center;
+    }
+    .box-item:nth-child(2) {
+    grid-column:span 2;
+        align-items: center;
+        height: 800px;
+}
+    /* .box-item:nth-child(3) {
+        
+    } */
+    .box-item:last-child {
+        grid-column: span 2; 
+    }
+    /* .box-item:last-child {
+        grid-column:span 2;
+        align-items: center;
+        height: 800px;
+    } */
+
+    table {
+        width: 400px;
+        margin-right: 60px;
+        background-color: whitesmoke;
+        border: 10px;
+        border-color: black;
+
+    }
+
+    #words2 {
+        align-items: center;
+        margin-left: 50px;
+        margin-top: 200px; 
+        height: 800px; 
+        width: 600px;
+        margin-right: 60px;
+        overflow: hidden;
+        word-wrap: break-word; 
+    }
+
+ </style>
+<!-- <link rel = "stylesheet" href="{{ url_for('static', filename='style.css') }}"> -->
+</head>
+
+<body>
+    <nav class="navbar">
+        <div class="navbar__container">
+            <a href="/" id="navbar__logo">10 Commanders
+            </a>
+            <div class="navbar__toggle" id="mobile-menu">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+            </div>
+            <ul class="navbar__menu">
+                <li class="navbar__item">
+                    <a href="index.html" class="navbar__links">
+                    Home
+                    </a>
+                </li>
+                <li class="navbar__item">
+                    <a href="Basketball.html" class="navbar__links">
+                        Basketball
+                    </a>
+                </li>
+                <li class="navbar__item">
+                    <a href="Football.html" class="navbar__links">
+                        Football
+                    </a>
+                </li>
+                <li class="navbar__item">
+                    <a href="Soccer.html" class="navbar__links">
+                        Soccer
+                    </a>
+                </li>
+                <li class="navbar__item">
+                    <a href="Hockey.html" class="navbar__links">
+                        Hockey
+                    </a>
+                </li>
+                <li class="navbar__btn">
+                    <a href="submissions.html" class="button">
+                        Submissions
+                    </a>
+                </li>
+            
+            </ul>
+        </div>
+    </nav>
+<header>
+
+<h1>Project 4 Website Page 2: PREMIER LEAGUE PREDICTIONS!</h1>
+
+
+
+<!-- <div class = "container"> -->
+
+<!-- <div class = "slide" id = "slide1"></div>
+<div class = "slide" id = "slide2"></div> -->
+
+<!-- </div> -->
+
+</header>
+
+
+
+<div class = "box-container">
+    <div class = "box-item">
+        <p>This has some content </p> 
+    </div>
+    <div class = "box-item">
+            <div id = "words2">
+                <p>
+                TTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+                </p>
+            </div>
+
+                <div id = tble>
+                    <table border = 1, id = table>
+                        <tr>
+                            <th colspan="5">
+                                PREMIER LEAGUE TABLE
+                            </th>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr><tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                        <tr>
+                            <td> Team </td>
+                            <td> Table Standing </td>
+                            <td>Points</td>
+                            <td>MISC</td>
+                            <td>MISC</td>
+                        </tr>
+                    </table>
+
+                </div>
+    </div>
+    <div class = "box-item">
+        <p>This has some content </p> 
+    </div>
+    
+</div>
+
+<script src = "static/logic.js"></script>
+</body>
+</html> 
+
+
+
