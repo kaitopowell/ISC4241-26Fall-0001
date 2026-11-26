@@ -1,0 +1,2 @@
+# Preserve downloaded source bytes (including CRLF) for recorded SHA-256 checksums.
+data/expanded/E0_*.csv -text whitespace=cr-at-eol

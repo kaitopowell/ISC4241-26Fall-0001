@@ -1,0 +1,9 @@
+{
+  "selected_minus_original_recipe": 0.013333333333333334,
+  "paired_week_block_95": [
+    -0.013274924684616832,
+    0.0430136509868707
+  ],
+  "resamples": 2000,
+  "note": "Conditional approximate interval; between-week/team dependence and model selection uncertainty not fully represented."
+}

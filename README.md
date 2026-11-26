@@ -4,6 +4,12 @@
 
 Start with [the measured results](reports/RESULTS.md), [the executed notebook](Final_Project.ipynb), or download/open [the standalone HTML report](reports/final_report.html). The HTML contains its figures and works offline. This branch replaces the assessed analysis with a reproducible historical experiment; the original notebooks and Flask site remain as legacy material.
 
+## Accuracy improvement follow-up
+
+After the request to improve 56.5% accuracy, we expanded to eleven seasons and evaluated 42 configurations with longer form and historical shots. On a **new 2024–25 season**, the selected model achieved **53.9%**, versus **52.5%** for the original recipe refitted on the same data and **41.1%** for the prior baseline. The paired gain is small and its uncertainty interval includes zero. The earlier 56.5% was on a different season; this is not evidence of a large improvement.
+
+Read [the follow-up findings](reports/expanded/RESULTS.md), [the executed follow-up notebook](Accuracy_Improvement.ipynb), or [the reproduction guide](experiments/README.md). The original experiment and existing draw-refinement analysis are preserved. The follow-up changes the primary objective to accuracy explicitly and uses a fresh evaluation season after the original test had already been seen.
+
 ## What is included
 
 - Audited extraction of three complete TheSportsDB seasons already cached in the original notebook; no API credentials or database needed.

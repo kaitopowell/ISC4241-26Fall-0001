@@ -1,0 +1,376 @@
+match_id,date,home,away,outcome,predicted,log_loss
+2024-2025_Man United_Fulham,2024-08-16,Man United,Fulham,H,H,0.7482703798664457
+2024-2025_Arsenal_Wolves,2024-08-17,Arsenal,Wolves,H,H,0.19919721689454892
+2024-2025_Everton_Brighton,2024-08-17,Everton,Brighton,A,A,0.9784909295827506
+2024-2025_Newcastle_Southampton,2024-08-17,Newcastle,Southampton,H,H,0.36868844745978124
+2024-2025_Nott'm Forest_Bournemouth,2024-08-17,Nott'm Forest,Bournemouth,D,H,1.4592919107848807
+2024-2025_West Ham_Aston Villa,2024-08-17,West Ham,Aston Villa,A,A,0.7941871481928564
+2024-2025_Brentford_Crystal Palace,2024-08-18,Brentford,Crystal Palace,H,A,1.0557115359731903
+2024-2025_Chelsea_Man City,2024-08-18,Chelsea,Man City,A,A,0.4492005955333707
+2024-2025_Leicester_Tottenham,2024-08-19,Leicester,Tottenham,D,A,1.4932761754789103
+2024-2025_Aston Villa_Arsenal,2024-08-24,Aston Villa,Arsenal,A,A,0.5789092117002025
+2024-2025_Brighton_Man United,2024-08-24,Brighton,Man United,H,H,0.7568257381797208
+2024-2025_Crystal Palace_West Ham,2024-08-24,Crystal Palace,West Ham,A,H,1.6950322733022998
+2024-2025_Fulham_Leicester,2024-08-24,Fulham,Leicester,H,H,0.5925716203818501
+2024-2025_Southampton_Nott'm Forest,2024-08-24,Southampton,Nott'm Forest,A,A,0.8623125099630383
+2024-2025_Tottenham_Everton,2024-08-24,Tottenham,Everton,H,H,0.40753146967431103
+2024-2025_Bournemouth_Newcastle,2024-08-25,Bournemouth,Newcastle,D,A,1.4362676781579122
+2024-2025_Liverpool_Brentford,2024-08-25,Liverpool,Brentford,H,H,0.25006521393603515
+2024-2025_Wolves_Chelsea,2024-08-25,Wolves,Chelsea,A,A,0.7250504933153844
+2024-2025_Arsenal_Brighton,2024-08-31,Arsenal,Brighton,D,H,1.8728505260813664
+2024-2025_Brentford_Southampton,2024-08-31,Brentford,Southampton,H,H,0.6006456111169636
+2024-2025_Everton_Bournemouth,2024-08-31,Everton,Bournemouth,A,H,1.0362925581965585
+2024-2025_Leicester_Aston Villa,2024-08-31,Leicester,Aston Villa,A,A,0.6608524487584582
+2024-2025_Nott'm Forest_Wolves,2024-08-31,Nott'm Forest,Wolves,D,H,1.56417771140391
+2024-2025_West Ham_Man City,2024-08-31,West Ham,Man City,A,A,0.31074588834998157
+2024-2025_Chelsea_Crystal Palace,2024-09-01,Chelsea,Crystal Palace,D,H,1.3911888924936813
+2024-2025_Man United_Liverpool,2024-09-01,Man United,Liverpool,A,A,0.47094230507235135
+2024-2025_Newcastle_Tottenham,2024-09-01,Newcastle,Tottenham,H,H,0.7984616991043559
+2024-2025_Aston Villa_Everton,2024-09-14,Aston Villa,Everton,H,H,0.4774785050254759
+2024-2025_Bournemouth_Chelsea,2024-09-14,Bournemouth,Chelsea,A,H,0.9836874561276083
+2024-2025_Crystal Palace_Leicester,2024-09-14,Crystal Palace,Leicester,D,H,1.711649493672556
+2024-2025_Fulham_West Ham,2024-09-14,Fulham,West Ham,D,H,1.5486541689129127
+2024-2025_Liverpool_Nott'm Forest,2024-09-14,Liverpool,Nott'm Forest,A,H,2.92539474832931
+2024-2025_Man City_Brentford,2024-09-14,Man City,Brentford,H,H,0.1745000261970295
+2024-2025_Southampton_Man United,2024-09-14,Southampton,Man United,A,A,0.5959073035521506
+2024-2025_Tottenham_Arsenal,2024-09-15,Tottenham,Arsenal,A,A,0.6673225211257815
+2024-2025_Wolves_Newcastle,2024-09-15,Wolves,Newcastle,A,A,0.6632077196787923
+2024-2025_Aston Villa_Wolves,2024-09-21,Aston Villa,Wolves,H,H,0.4190763433580506
+2024-2025_Crystal Palace_Man United,2024-09-21,Crystal Palace,Man United,D,H,1.707046456433577
+2024-2025_Fulham_Newcastle,2024-09-21,Fulham,Newcastle,H,A,1.071659813377962
+2024-2025_Leicester_Everton,2024-09-21,Leicester,Everton,D,H,1.363794786346083
+2024-2025_Liverpool_Bournemouth,2024-09-21,Liverpool,Bournemouth,H,H,0.33075878538494935
+2024-2025_Tottenham_Brentford,2024-09-21,Tottenham,Brentford,H,H,0.48076857515368226
+2024-2025_West Ham_Chelsea,2024-09-21,West Ham,Chelsea,A,A,0.7928572118697559
+2024-2025_Brighton_Nott'm Forest,2024-09-22,Brighton,Nott'm Forest,D,H,1.3122709896464064
+2024-2025_Man City_Arsenal,2024-09-22,Man City,Arsenal,D,H,1.3341517379987864
+2024-2025_Arsenal_Leicester,2024-09-28,Arsenal,Leicester,H,H,0.20036553383465186
+2024-2025_Brentford_West Ham,2024-09-28,Brentford,West Ham,D,H,1.4991579268034132
+2024-2025_Chelsea_Brighton,2024-09-28,Chelsea,Brighton,H,H,0.6903240556166482
+2024-2025_Everton_Crystal Palace,2024-09-28,Everton,Crystal Palace,H,H,1.0153300837858232
+2024-2025_Newcastle_Man City,2024-09-28,Newcastle,Man City,D,A,1.643743137234486
+2024-2025_Nott'm Forest_Fulham,2024-09-28,Nott'm Forest,Fulham,A,H,1.0698597433970902
+2024-2025_Wolves_Liverpool,2024-09-28,Wolves,Liverpool,A,A,0.295433920925767
+2024-2025_Ipswich_Aston Villa,2024-09-29,Ipswich,Aston Villa,D,A,1.5346548517309013
+2024-2025_Man United_Tottenham,2024-09-29,Man United,Tottenham,A,A,0.9802988957317887
+2024-2025_Bournemouth_Southampton,2024-09-30,Bournemouth,Southampton,H,H,0.45029016739356426
+2024-2025_Arsenal_Southampton,2024-10-05,Arsenal,Southampton,H,H,0.15896527738188307
+2024-2025_Brentford_Wolves,2024-10-05,Brentford,Wolves,H,H,0.6436978225777211
+2024-2025_Crystal Palace_Liverpool,2024-10-05,Crystal Palace,Liverpool,A,A,0.45364043736577003
+2024-2025_Everton_Newcastle,2024-10-05,Everton,Newcastle,D,A,1.4000406055353463
+2024-2025_Leicester_Bournemouth,2024-10-05,Leicester,Bournemouth,H,A,1.2298618552872582
+2024-2025_Man City_Fulham,2024-10-05,Man City,Fulham,H,H,0.23320475849690964
+2024-2025_West Ham_Ipswich,2024-10-05,West Ham,Ipswich,H,H,0.7353872577847403
+2024-2025_Aston Villa_Man United,2024-10-06,Aston Villa,Man United,D,H,1.5472983327074312
+2024-2025_Brighton_Tottenham,2024-10-06,Brighton,Tottenham,H,A,1.0773589563170325
+2024-2025_Chelsea_Nott'm Forest,2024-10-06,Chelsea,Nott'm Forest,D,H,1.445922958994039
+2024-2025_Bournemouth_Arsenal,2024-10-19,Bournemouth,Arsenal,H,A,1.8131523489561638
+2024-2025_Fulham_Aston Villa,2024-10-19,Fulham,Aston Villa,A,H,0.995007564725388
+2024-2025_Ipswich_Everton,2024-10-19,Ipswich,Everton,A,H,1.1210854348741572
+2024-2025_Man United_Brentford,2024-10-19,Man United,Brentford,H,H,0.7469032154790782
+2024-2025_Newcastle_Brighton,2024-10-19,Newcastle,Brighton,A,H,1.2925792852595122
+2024-2025_Southampton_Leicester,2024-10-19,Southampton,Leicester,A,A,0.9610850662711995
+2024-2025_Tottenham_West Ham,2024-10-19,Tottenham,West Ham,H,H,0.4389736300251246
+2024-2025_Liverpool_Chelsea,2024-10-20,Liverpool,Chelsea,H,H,0.4402502666835478
+2024-2025_Wolves_Man City,2024-10-20,Wolves,Man City,A,A,0.2169978196236129
+2024-2025_Nott'm Forest_Crystal Palace,2024-10-21,Nott'm Forest,Crystal Palace,H,H,0.9672399652382869
+2024-2025_Leicester_Nott'm Forest,2024-10-25,Leicester,Nott'm Forest,A,A,0.9298947050407089
+2024-2025_Aston Villa_Bournemouth,2024-10-26,Aston Villa,Bournemouth,D,H,1.3886313172844746
+2024-2025_Brentford_Ipswich,2024-10-26,Brentford,Ipswich,H,H,0.6249315618241436
+2024-2025_Brighton_Wolves,2024-10-26,Brighton,Wolves,D,H,1.5702164207837894
+2024-2025_Everton_Fulham,2024-10-26,Everton,Fulham,D,H,1.313702558368234
+2024-2025_Man City_Southampton,2024-10-26,Man City,Southampton,H,H,0.09658232703289014
+2024-2025_Arsenal_Liverpool,2024-10-27,Arsenal,Liverpool,D,H,1.4813791150266584
+2024-2025_Chelsea_Newcastle,2024-10-27,Chelsea,Newcastle,H,H,0.6718614969210143
+2024-2025_Crystal Palace_Tottenham,2024-10-27,Crystal Palace,Tottenham,H,A,1.0030111544847395
+2024-2025_West Ham_Man United,2024-10-27,West Ham,Man United,H,H,0.9780414162660706
+2024-2025_Bournemouth_Man City,2024-11-02,Bournemouth,Man City,H,A,2.1760136808121304
+2024-2025_Ipswich_Leicester,2024-11-02,Ipswich,Leicester,D,H,1.2642468408473055
+2024-2025_Liverpool_Brighton,2024-11-02,Liverpool,Brighton,H,H,0.3687114875462932
+2024-2025_Newcastle_Arsenal,2024-11-02,Newcastle,Arsenal,H,A,1.3422721943143612
+2024-2025_Nott'm Forest_West Ham,2024-11-02,Nott'm Forest,West Ham,H,H,0.753844849370984
+2024-2025_Southampton_Everton,2024-11-02,Southampton,Everton,H,A,1.2733509419591378
+2024-2025_Wolves_Crystal Palace,2024-11-02,Wolves,Crystal Palace,D,A,1.2260082962487031
+2024-2025_Man United_Chelsea,2024-11-03,Man United,Chelsea,D,A,1.28286424411152
+2024-2025_Tottenham_Aston Villa,2024-11-03,Tottenham,Aston Villa,H,H,0.625496086172563
+2024-2025_Fulham_Brentford,2024-11-04,Fulham,Brentford,H,H,0.6557950693068686
+2024-2025_Brentford_Bournemouth,2024-11-09,Brentford,Bournemouth,H,H,0.8900027481569494
+2024-2025_Brighton_Man City,2024-11-09,Brighton,Man City,H,A,2.23506289446489
+2024-2025_Crystal Palace_Fulham,2024-11-09,Crystal Palace,Fulham,A,H,1.1240995006119232
+2024-2025_Liverpool_Aston Villa,2024-11-09,Liverpool,Aston Villa,H,H,0.3742138276985605
+2024-2025_West Ham_Everton,2024-11-09,West Ham,Everton,D,H,1.2167520661576312
+2024-2025_Wolves_Southampton,2024-11-09,Wolves,Southampton,H,H,0.6676772968117546
+2024-2025_Chelsea_Arsenal,2024-11-10,Chelsea,Arsenal,D,A,1.4708890484613641
+2024-2025_Man United_Leicester,2024-11-10,Man United,Leicester,H,H,0.5530069175784519
+2024-2025_Nott'm Forest_Newcastle,2024-11-10,Nott'm Forest,Newcastle,A,A,0.9620463253068077
+2024-2025_Tottenham_Ipswich,2024-11-10,Tottenham,Ipswich,A,H,2.3756848177509515
+2024-2025_Arsenal_Nott'm Forest,2024-11-23,Arsenal,Nott'm Forest,H,H,0.36959597359908036
+2024-2025_Aston Villa_Crystal Palace,2024-11-23,Aston Villa,Crystal Palace,D,H,1.322493224362646
+2024-2025_Bournemouth_Brighton,2024-11-23,Bournemouth,Brighton,A,H,1.047158168680328
+2024-2025_Everton_Brentford,2024-11-23,Everton,Brentford,D,H,1.4027151433355411
+2024-2025_Fulham_Wolves,2024-11-23,Fulham,Wolves,A,H,1.8216581293932579
+2024-2025_Leicester_Chelsea,2024-11-23,Leicester,Chelsea,A,A,0.5981251476157438
+2024-2025_Man City_Tottenham,2024-11-23,Man City,Tottenham,A,H,2.4483637277753907
+2024-2025_Ipswich_Man United,2024-11-24,Ipswich,Man United,D,A,1.422013546377351
+2024-2025_Southampton_Liverpool,2024-11-24,Southampton,Liverpool,A,A,0.20743624495914556
+2024-2025_Newcastle_West Ham,2024-11-25,Newcastle,West Ham,A,H,1.7869172487288374
+2024-2025_Brighton_Southampton,2024-11-29,Brighton,Southampton,D,H,1.615745031272076
+2024-2025_Brentford_Leicester,2024-11-30,Brentford,Leicester,H,H,0.6013175520965701
+2024-2025_Crystal Palace_Newcastle,2024-11-30,Crystal Palace,Newcastle,D,H,1.4856630169092415
+2024-2025_Nott'm Forest_Ipswich,2024-11-30,Nott'm Forest,Ipswich,H,H,0.6310685925035376
+2024-2025_West Ham_Arsenal,2024-11-30,West Ham,Arsenal,A,A,0.5174821013328925
+2024-2025_Wolves_Bournemouth,2024-11-30,Wolves,Bournemouth,A,A,0.9008901865419522
+2024-2025_Chelsea_Aston Villa,2024-12-01,Chelsea,Aston Villa,H,H,0.5754506389006098
+2024-2025_Liverpool_Man City,2024-12-01,Liverpool,Man City,H,A,1.0494234540880187
+2024-2025_Man United_Everton,2024-12-01,Man United,Everton,H,H,0.5682153443196019
+2024-2025_Tottenham_Fulham,2024-12-01,Tottenham,Fulham,D,H,1.4770326612560998
+2024-2025_Ipswich_Crystal Palace,2024-12-03,Ipswich,Crystal Palace,A,A,0.8521003083689511
+2024-2025_Leicester_West Ham,2024-12-03,Leicester,West Ham,H,A,1.0045796347861335
+2024-2025_Arsenal_Man United,2024-12-04,Arsenal,Man United,H,H,0.42789741768773065
+2024-2025_Aston Villa_Brentford,2024-12-04,Aston Villa,Brentford,H,H,0.5452910639848318
+2024-2025_Everton_Wolves,2024-12-04,Everton,Wolves,H,H,0.6602230211758208
+2024-2025_Man City_Nott'm Forest,2024-12-04,Man City,Nott'm Forest,H,H,0.2462935290650806
+2024-2025_Newcastle_Liverpool,2024-12-04,Newcastle,Liverpool,D,A,1.523306207897914
+2024-2025_Southampton_Chelsea,2024-12-04,Southampton,Chelsea,A,A,0.36757098665695026
+2024-2025_Bournemouth_Tottenham,2024-12-05,Bournemouth,Tottenham,H,A,1.0201587423826979
+2024-2025_Fulham_Brighton,2024-12-05,Fulham,Brighton,H,H,0.9474597325931029
+2024-2025_Aston Villa_Southampton,2024-12-07,Aston Villa,Southampton,H,H,0.27559548379170645
+2024-2025_Brentford_Newcastle,2024-12-07,Brentford,Newcastle,H,A,1.0161179923641057
+2024-2025_Crystal Palace_Man City,2024-12-07,Crystal Palace,Man City,D,A,1.7491354160636443
+2024-2025_Man United_Nott'm Forest,2024-12-07,Man United,Nott'm Forest,A,H,1.5485936920032737
+2024-2025_Fulham_Arsenal,2024-12-08,Fulham,Arsenal,D,A,1.5487277207948489
+2024-2025_Ipswich_Bournemouth,2024-12-08,Ipswich,Bournemouth,A,A,0.7439601943155578
+2024-2025_Leicester_Brighton,2024-12-08,Leicester,Brighton,D,A,1.4514675289758385
+2024-2025_Tottenham_Chelsea,2024-12-08,Tottenham,Chelsea,A,H,1.0377445596080588
+2024-2025_West Ham_Wolves,2024-12-09,West Ham,Wolves,H,H,0.6582405826344062
+2024-2025_Arsenal_Everton,2024-12-14,Arsenal,Everton,D,H,1.7478296611464088
+2024-2025_Liverpool_Fulham,2024-12-14,Liverpool,Fulham,D,H,1.5411041316540215
+2024-2025_Newcastle_Leicester,2024-12-14,Newcastle,Leicester,H,H,0.4139182744879729
+2024-2025_Nott'm Forest_Aston Villa,2024-12-14,Nott'm Forest,Aston Villa,H,A,1.0146792418079293
+2024-2025_Wolves_Ipswich,2024-12-14,Wolves,Ipswich,A,H,1.2764205679039151
+2024-2025_Brighton_Crystal Palace,2024-12-15,Brighton,Crystal Palace,A,H,1.365851346207229
+2024-2025_Chelsea_Brentford,2024-12-15,Chelsea,Brentford,H,H,0.3778745864394958
+2024-2025_Man City_Man United,2024-12-15,Man City,Man United,A,H,2.4631263510698345
+2024-2025_Southampton_Tottenham,2024-12-15,Southampton,Tottenham,A,A,0.4034424089838032
+2024-2025_Bournemouth_West Ham,2024-12-16,Bournemouth,West Ham,D,H,1.630995127550148
+2024-2025_Aston Villa_Man City,2024-12-21,Aston Villa,Man City,H,A,1.5438521537516292
+2024-2025_Brentford_Nott'm Forest,2024-12-21,Brentford,Nott'm Forest,A,H,1.0416834323730977
+2024-2025_Crystal Palace_Arsenal,2024-12-21,Crystal Palace,Arsenal,A,A,0.6446253795750717
+2024-2025_Ipswich_Newcastle,2024-12-21,Ipswich,Newcastle,A,A,0.6517202936515843
+2024-2025_West Ham_Brighton,2024-12-21,West Ham,Brighton,D,A,1.2377820020432044
+2024-2025_Everton_Chelsea,2024-12-22,Everton,Chelsea,D,A,1.4699373425349285
+2024-2025_Fulham_Southampton,2024-12-22,Fulham,Southampton,D,H,1.7950844774099506
+2024-2025_Leicester_Wolves,2024-12-22,Leicester,Wolves,A,H,1.0904378521553193
+2024-2025_Man United_Bournemouth,2024-12-22,Man United,Bournemouth,A,H,1.3114706146562658
+2024-2025_Tottenham_Liverpool,2024-12-22,Tottenham,Liverpool,A,A,0.6770039532632559
+2024-2025_Bournemouth_Crystal Palace,2024-12-26,Bournemouth,Crystal Palace,D,H,1.2633042782961563
+2024-2025_Chelsea_Fulham,2024-12-26,Chelsea,Fulham,A,H,1.7075211781973185
+2024-2025_Liverpool_Leicester,2024-12-26,Liverpool,Leicester,H,H,0.1936188749255022
+2024-2025_Man City_Everton,2024-12-26,Man City,Everton,D,H,1.7882051174755202
+2024-2025_Newcastle_Aston Villa,2024-12-26,Newcastle,Aston Villa,H,H,0.73821504862436
+2024-2025_Nott'm Forest_Tottenham,2024-12-26,Nott'm Forest,Tottenham,H,A,1.15398454526793
+2024-2025_Southampton_West Ham,2024-12-26,Southampton,West Ham,A,A,0.574690780841786
+2024-2025_Wolves_Man United,2024-12-26,Wolves,Man United,H,A,1.3368985691763895
+2024-2025_Arsenal_Ipswich,2024-12-27,Arsenal,Ipswich,H,H,0.25319591486589726
+2024-2025_Brighton_Brentford,2024-12-27,Brighton,Brentford,D,H,1.586819955746035
+2024-2025_Crystal Palace_Southampton,2024-12-29,Crystal Palace,Southampton,H,H,0.3143814477140869
+2024-2025_Everton_Nott'm Forest,2024-12-29,Everton,Nott'm Forest,A,A,0.9722343552034984
+2024-2025_Fulham_Bournemouth,2024-12-29,Fulham,Bournemouth,D,H,1.3385210094735316
+2024-2025_Leicester_Man City,2024-12-29,Leicester,Man City,A,A,0.2590813732502597
+2024-2025_Tottenham_Wolves,2024-12-29,Tottenham,Wolves,D,H,1.6474122884444662
+2024-2025_West Ham_Liverpool,2024-12-29,West Ham,Liverpool,A,A,0.42963921990572196
+2024-2025_Aston Villa_Brighton,2024-12-30,Aston Villa,Brighton,D,H,1.3267408562585152
+2024-2025_Ipswich_Chelsea,2024-12-30,Ipswich,Chelsea,H,A,2.0082163161379203
+2024-2025_Man United_Newcastle,2024-12-30,Man United,Newcastle,A,H,1.0646118257924884
+2024-2025_Brentford_Arsenal,2025-01-01,Brentford,Arsenal,A,A,0.4613487685031719
+2024-2025_Aston Villa_Leicester,2025-01-04,Aston Villa,Leicester,H,H,0.3620891765370472
+2024-2025_Bournemouth_Everton,2025-01-04,Bournemouth,Everton,H,H,0.5778316436120549
+2024-2025_Brighton_Arsenal,2025-01-04,Brighton,Arsenal,D,A,1.4319282458083111
+2024-2025_Crystal Palace_Chelsea,2025-01-04,Crystal Palace,Chelsea,D,A,1.3276247245400352
+2024-2025_Man City_West Ham,2025-01-04,Man City,West Ham,H,H,0.2591543960547956
+2024-2025_Southampton_Brentford,2025-01-04,Southampton,Brentford,A,A,0.705703540710355
+2024-2025_Tottenham_Newcastle,2025-01-04,Tottenham,Newcastle,A,H,1.1501580019053512
+2024-2025_Fulham_Ipswich,2025-01-05,Fulham,Ipswich,D,H,1.5373417769206446
+2024-2025_Liverpool_Man United,2025-01-05,Liverpool,Man United,D,H,1.5613044453711413
+2024-2025_Wolves_Nott'm Forest,2025-01-06,Wolves,Nott'm Forest,A,A,0.8686650910524952
+2024-2025_Brentford_Man City,2025-01-14,Brentford,Man City,D,A,1.8334464517392122
+2024-2025_Chelsea_Bournemouth,2025-01-14,Chelsea,Bournemouth,D,H,1.3323216951441466
+2024-2025_Nott'm Forest_Liverpool,2025-01-14,Nott'm Forest,Liverpool,D,A,1.528252681934341
+2024-2025_West Ham_Fulham,2025-01-14,West Ham,Fulham,H,A,1.1482768633025655
+2024-2025_Arsenal_Tottenham,2025-01-15,Arsenal,Tottenham,H,H,0.5083700661919915
+2024-2025_Everton_Aston Villa,2025-01-15,Everton,Aston Villa,A,A,0.7835617008098378
+2024-2025_Leicester_Crystal Palace,2025-01-15,Leicester,Crystal Palace,A,A,0.6661853794646052
+2024-2025_Newcastle_Wolves,2025-01-15,Newcastle,Wolves,H,H,0.4824293014592569
+2024-2025_Ipswich_Brighton,2025-01-16,Ipswich,Brighton,A,A,0.6731951456159591
+2024-2025_Man United_Southampton,2025-01-16,Man United,Southampton,H,H,0.2762953768888893
+2024-2025_Arsenal_Aston Villa,2025-01-18,Arsenal,Aston Villa,D,H,1.5292409831398903
+2024-2025_Brentford_Liverpool,2025-01-18,Brentford,Liverpool,A,A,0.3655571227472664
+2024-2025_Leicester_Fulham,2025-01-18,Leicester,Fulham,A,A,0.6278356030947287
+2024-2025_Newcastle_Bournemouth,2025-01-18,Newcastle,Bournemouth,A,H,1.4281535141037522
+2024-2025_West Ham_Crystal Palace,2025-01-18,West Ham,Crystal Palace,A,H,1.0616829375877717
+2024-2025_Everton_Tottenham,2025-01-19,Everton,Tottenham,H,A,1.184883190622445
+2024-2025_Ipswich_Man City,2025-01-19,Ipswich,Man City,A,A,0.3087163912982397
+2024-2025_Man United_Brighton,2025-01-19,Man United,Brighton,A,H,1.1648585430917724
+2024-2025_Nott'm Forest_Southampton,2025-01-19,Nott'm Forest,Southampton,H,H,0.28125031247362914
+2024-2025_Chelsea_Wolves,2025-01-20,Chelsea,Wolves,H,H,0.41282271143547933
+2024-2025_Bournemouth_Nott'm Forest,2025-01-25,Bournemouth,Nott'm Forest,H,H,0.7937298622228648
+2024-2025_Brighton_Everton,2025-01-25,Brighton,Everton,A,H,1.7746737473873957
+2024-2025_Liverpool_Ipswich,2025-01-25,Liverpool,Ipswich,H,H,0.2294598477316134
+2024-2025_Man City_Chelsea,2025-01-25,Man City,Chelsea,H,H,0.6186337693476316
+2024-2025_Southampton_Newcastle,2025-01-25,Southampton,Newcastle,A,A,0.3410669611355844
+2024-2025_Wolves_Arsenal,2025-01-25,Wolves,Arsenal,A,A,0.41440286439310525
+2024-2025_Aston Villa_West Ham,2025-01-26,Aston Villa,West Ham,D,H,1.6426463982970567
+2024-2025_Crystal Palace_Brentford,2025-01-26,Crystal Palace,Brentford,A,H,1.599214313823817
+2024-2025_Fulham_Man United,2025-01-26,Fulham,Man United,A,H,1.1801988616032038
+2024-2025_Tottenham_Leicester,2025-01-26,Tottenham,Leicester,A,H,2.147007939009325
+2024-2025_Bournemouth_Liverpool,2025-02-01,Bournemouth,Liverpool,A,A,0.5544275546571878
+2024-2025_Everton_Leicester,2025-02-01,Everton,Leicester,H,H,0.5222021236408463
+2024-2025_Ipswich_Southampton,2025-02-01,Ipswich,Southampton,A,H,1.6708538354567075
+2024-2025_Newcastle_Fulham,2025-02-01,Newcastle,Fulham,A,H,1.4205277138925712
+2024-2025_Nott'm Forest_Brighton,2025-02-01,Nott'm Forest,Brighton,H,H,0.997215186865626
+2024-2025_Wolves_Aston Villa,2025-02-01,Wolves,Aston Villa,H,A,1.2893744434669565
+2024-2025_Arsenal_Man City,2025-02-02,Arsenal,Man City,H,H,0.8285048594772485
+2024-2025_Brentford_Tottenham,2025-02-02,Brentford,Tottenham,A,A,0.8903659244435683
+2024-2025_Man United_Crystal Palace,2025-02-02,Man United,Crystal Palace,A,H,1.3146126622462049
+2024-2025_Chelsea_West Ham,2025-02-03,Chelsea,West Ham,H,H,0.3789882884893797
+2024-2025_Everton_Liverpool,2025-02-12,Everton,Liverpool,D,A,1.8276254138160088
+2024-2025_Brighton_Chelsea,2025-02-14,Brighton,Chelsea,H,A,1.2020947571866474
+2024-2025_Aston Villa_Ipswich,2025-02-15,Aston Villa,Ipswich,D,H,1.528604992739635
+2024-2025_Crystal Palace_Everton,2025-02-15,Crystal Palace,Everton,A,H,1.2956906161198927
+2024-2025_Fulham_Nott'm Forest,2025-02-15,Fulham,Nott'm Forest,H,H,0.7452801831589734
+2024-2025_Leicester_Arsenal,2025-02-15,Leicester,Arsenal,A,A,0.29595594396987374
+2024-2025_Man City_Newcastle,2025-02-15,Man City,Newcastle,H,H,0.5728349966339782
+2024-2025_Southampton_Bournemouth,2025-02-15,Southampton,Bournemouth,A,A,0.39897079090869303
+2024-2025_West Ham_Brentford,2025-02-15,West Ham,Brentford,A,H,1.3852952857299883
+2024-2025_Liverpool_Wolves,2025-02-16,Liverpool,Wolves,H,H,0.30324963508887687
+2024-2025_Tottenham_Man United,2025-02-16,Tottenham,Man United,H,H,0.800237395363152
+2024-2025_Aston Villa_Liverpool,2025-02-19,Aston Villa,Liverpool,D,A,1.4582741095995246
+2024-2025_Leicester_Brentford,2025-02-21,Leicester,Brentford,A,A,0.85823845606797
+2024-2025_Arsenal_West Ham,2025-02-22,Arsenal,West Ham,A,H,2.7321535084311526
+2024-2025_Aston Villa_Chelsea,2025-02-22,Aston Villa,Chelsea,H,H,0.9776593368837776
+2024-2025_Bournemouth_Wolves,2025-02-22,Bournemouth,Wolves,A,H,1.7674094245074836
+2024-2025_Everton_Man United,2025-02-22,Everton,Man United,D,H,1.5971434245763718
+2024-2025_Fulham_Crystal Palace,2025-02-22,Fulham,Crystal Palace,A,H,1.3065200958796583
+2024-2025_Ipswich_Tottenham,2025-02-22,Ipswich,Tottenham,A,A,0.6510540797575145
+2024-2025_Southampton_Brighton,2025-02-22,Southampton,Brighton,A,A,0.4161865550470156
+2024-2025_Man City_Liverpool,2025-02-23,Man City,Liverpool,A,A,0.9866934500351185
+2024-2025_Newcastle_Nott'm Forest,2025-02-23,Newcastle,Nott'm Forest,H,H,0.6319208132237151
+2024-2025_Brighton_Bournemouth,2025-02-25,Brighton,Bournemouth,H,H,0.8978623763347039
+2024-2025_Chelsea_Southampton,2025-02-25,Chelsea,Southampton,H,H,0.18705945494163717
+2024-2025_Crystal Palace_Aston Villa,2025-02-25,Crystal Palace,Aston Villa,H,H,0.9325265169057577
+2024-2025_Wolves_Fulham,2025-02-25,Wolves,Fulham,A,A,0.7894045956381743
+2024-2025_Brentford_Everton,2025-02-26,Brentford,Everton,D,H,1.3618003124269495
+2024-2025_Liverpool_Newcastle,2025-02-26,Liverpool,Newcastle,H,H,0.45449449396150027
+2024-2025_Man United_Ipswich,2025-02-26,Man United,Ipswich,H,H,0.42845497167919006
+2024-2025_Nott'm Forest_Arsenal,2025-02-26,Nott'm Forest,Arsenal,D,A,1.4436231402071817
+2024-2025_Tottenham_Man City,2025-02-26,Tottenham,Man City,A,A,0.5727523280933947
+2024-2025_West Ham_Leicester,2025-02-27,West Ham,Leicester,H,H,0.5915137316341212
+2024-2025_Brentford_Aston Villa,2025-03-08,Brentford,Aston Villa,A,A,0.8924347607043276
+2024-2025_Brighton_Fulham,2025-03-08,Brighton,Fulham,H,H,0.8976278354099132
+2024-2025_Crystal Palace_Ipswich,2025-03-08,Crystal Palace,Ipswich,H,H,0.47530881250282886
+2024-2025_Liverpool_Southampton,2025-03-08,Liverpool,Southampton,H,H,0.1257187175582894
+2024-2025_Nott'm Forest_Man City,2025-03-08,Nott'm Forest,Man City,H,A,1.3564910800512222
+2024-2025_Wolves_Everton,2025-03-08,Wolves,Everton,D,H,1.3634964313907278
+2024-2025_Chelsea_Leicester,2025-03-09,Chelsea,Leicester,H,H,0.24848082510800726
+2024-2025_Man United_Arsenal,2025-03-09,Man United,Arsenal,D,A,1.4163596028866043
+2024-2025_Tottenham_Bournemouth,2025-03-09,Tottenham,Bournemouth,D,A,1.2231110051548744
+2024-2025_West Ham_Newcastle,2025-03-10,West Ham,Newcastle,A,A,0.7581577635078288
+2024-2025_Bournemouth_Brentford,2025-03-15,Bournemouth,Brentford,A,H,1.5202019684295462
+2024-2025_Everton_West Ham,2025-03-15,Everton,West Ham,D,H,1.6708504441198198
+2024-2025_Ipswich_Nott'm Forest,2025-03-15,Ipswich,Nott'm Forest,A,A,0.6756836173478041
+2024-2025_Man City_Brighton,2025-03-15,Man City,Brighton,D,H,1.3341702564154718
+2024-2025_Southampton_Wolves,2025-03-15,Southampton,Wolves,A,A,0.5931532443815009
+2024-2025_Arsenal_Chelsea,2025-03-16,Arsenal,Chelsea,H,H,0.5711345435554095
+2024-2025_Fulham_Tottenham,2025-03-16,Fulham,Tottenham,H,H,0.7316331465655556
+2024-2025_Leicester_Man United,2025-03-16,Leicester,Man United,A,A,0.60504967601152
+2024-2025_Arsenal_Fulham,2025-04-01,Arsenal,Fulham,H,H,0.48798841408587434
+2024-2025_Nott'm Forest_Man United,2025-04-01,Nott'm Forest,Man United,H,H,0.7738667331182545
+2024-2025_Wolves_West Ham,2025-04-01,Wolves,West Ham,H,H,0.7478130147388917
+2024-2025_Bournemouth_Ipswich,2025-04-02,Bournemouth,Ipswich,A,H,1.8943421790677157
+2024-2025_Brighton_Aston Villa,2025-04-02,Brighton,Aston Villa,A,H,1.3578184164432106
+2024-2025_Liverpool_Everton,2025-04-02,Liverpool,Everton,H,H,0.2782961263561741
+2024-2025_Man City_Leicester,2025-04-02,Man City,Leicester,H,H,0.22557636892269955
+2024-2025_Newcastle_Brentford,2025-04-02,Newcastle,Brentford,H,H,0.5166314437820827
+2024-2025_Southampton_Crystal Palace,2025-04-02,Southampton,Crystal Palace,D,A,1.554187581424151
+2024-2025_Chelsea_Tottenham,2025-04-03,Chelsea,Tottenham,H,H,0.4741423028907194
+2024-2025_Aston Villa_Nott'm Forest,2025-04-05,Aston Villa,Nott'm Forest,H,H,0.6857273618879789
+2024-2025_Crystal Palace_Brighton,2025-04-05,Crystal Palace,Brighton,H,H,0.9809498746627698
+2024-2025_Everton_Arsenal,2025-04-05,Everton,Arsenal,D,A,1.592289409145897
+2024-2025_Ipswich_Wolves,2025-04-05,Ipswich,Wolves,A,A,0.8716800642158169
+2024-2025_West Ham_Bournemouth,2025-04-05,West Ham,Bournemouth,D,A,1.227129816914287
+2024-2025_Brentford_Chelsea,2025-04-06,Brentford,Chelsea,D,A,1.4818822255652957
+2024-2025_Fulham_Liverpool,2025-04-06,Fulham,Liverpool,H,A,1.9070047207534504
+2024-2025_Man United_Man City,2025-04-06,Man United,Man City,D,A,1.5766417896503475
+2024-2025_Tottenham_Southampton,2025-04-06,Tottenham,Southampton,H,H,0.3721702672995609
+2024-2025_Leicester_Newcastle,2025-04-07,Leicester,Newcastle,A,A,0.42946646660824966
+2024-2025_Arsenal_Brentford,2025-04-12,Arsenal,Brentford,D,H,1.75153674312773
+2024-2025_Brighton_Leicester,2025-04-12,Brighton,Leicester,D,H,1.7650650796497944
+2024-2025_Man City_Crystal Palace,2025-04-12,Man City,Crystal Palace,H,H,0.5636830519094429
+2024-2025_Nott'm Forest_Everton,2025-04-12,Nott'm Forest,Everton,A,H,1.4940185140670463
+2024-2025_Southampton_Aston Villa,2025-04-12,Southampton,Aston Villa,A,A,0.38503287222966937
+2024-2025_Chelsea_Ipswich,2025-04-13,Chelsea,Ipswich,D,H,1.787319145780059
+2024-2025_Liverpool_West Ham,2025-04-13,Liverpool,West Ham,H,H,0.241534946010196
+2024-2025_Newcastle_Man United,2025-04-13,Newcastle,Man United,H,H,0.5981205551150015
+2024-2025_Wolves_Tottenham,2025-04-13,Wolves,Tottenham,H,H,0.8803398111617925
+2024-2025_Bournemouth_Fulham,2025-04-14,Bournemouth,Fulham,H,H,0.9750614426127481
+2024-2025_Newcastle_Crystal Palace,2025-04-16,Newcastle,Crystal Palace,H,H,0.6130863419535968
+2024-2025_Aston Villa_Newcastle,2025-04-19,Aston Villa,Newcastle,H,H,0.8986192534673261
+2024-2025_Brentford_Brighton,2025-04-19,Brentford,Brighton,H,A,1.3244949082366013
+2024-2025_Crystal Palace_Bournemouth,2025-04-19,Crystal Palace,Bournemouth,D,H,1.2212820827028874
+2024-2025_Everton_Man City,2025-04-19,Everton,Man City,A,A,0.5653609869110131
+2024-2025_West Ham_Southampton,2025-04-19,West Ham,Southampton,D,H,1.5363208479066321
+2024-2025_Fulham_Chelsea,2025-04-20,Fulham,Chelsea,A,A,0.8765332088686576
+2024-2025_Ipswich_Arsenal,2025-04-20,Ipswich,Arsenal,A,A,0.30548721896233283
+2024-2025_Leicester_Liverpool,2025-04-20,Leicester,Liverpool,A,A,0.20286417717613736
+2024-2025_Man United_Wolves,2025-04-20,Man United,Wolves,A,H,1.4194777291488379
+2024-2025_Tottenham_Nott'm Forest,2025-04-21,Tottenham,Nott'm Forest,A,H,1.1225855367479598
+2024-2025_Man City_Aston Villa,2025-04-22,Man City,Aston Villa,H,H,0.4758871768404548
+2024-2025_Arsenal_Crystal Palace,2025-04-23,Arsenal,Crystal Palace,D,H,1.5999018162525587
+2024-2025_Brighton_West Ham,2025-04-26,Brighton,West Ham,H,H,0.5399788441172754
+2024-2025_Chelsea_Everton,2025-04-26,Chelsea,Everton,H,H,0.3932831579934429
+2024-2025_Newcastle_Ipswich,2025-04-26,Newcastle,Ipswich,H,H,0.24022457924907137
+2024-2025_Southampton_Fulham,2025-04-26,Southampton,Fulham,A,A,0.4586512168358642
+2024-2025_Wolves_Leicester,2025-04-26,Wolves,Leicester,H,H,0.3798456688287555
+2024-2025_Bournemouth_Man United,2025-04-27,Bournemouth,Man United,D,H,1.3874584283878568
+2024-2025_Liverpool_Tottenham,2025-04-27,Liverpool,Tottenham,H,H,0.29180169541407325
+2024-2025_Nott'm Forest_Brentford,2025-05-01,Nott'm Forest,Brentford,A,H,1.3767410131221816
+2024-2025_Man City_Wolves,2025-05-02,Man City,Wolves,H,H,0.3936000736519705
+2024-2025_Arsenal_Bournemouth,2025-05-03,Arsenal,Bournemouth,A,H,1.9545721998280008
+2024-2025_Aston Villa_Fulham,2025-05-03,Aston Villa,Fulham,H,H,0.7188662318797862
+2024-2025_Everton_Ipswich,2025-05-03,Everton,Ipswich,D,H,1.6891091552819368
+2024-2025_Leicester_Southampton,2025-05-03,Leicester,Southampton,H,H,0.8075282418736296
+2024-2025_Brentford_Man United,2025-05-04,Brentford,Man United,H,A,1.0959642853546414
+2024-2025_Brighton_Newcastle,2025-05-04,Brighton,Newcastle,D,A,1.3212235742809633
+2024-2025_Chelsea_Liverpool,2025-05-04,Chelsea,Liverpool,H,A,1.3209778016188578
+2024-2025_West Ham_Tottenham,2025-05-04,West Ham,Tottenham,D,A,1.3937706770805356
+2024-2025_Crystal Palace_Nott'm Forest,2025-05-05,Crystal Palace,Nott'm Forest,D,H,1.3715337642304428
+2024-2025_Bournemouth_Aston Villa,2025-05-10,Bournemouth,Aston Villa,A,H,1.0057597824127729
+2024-2025_Fulham_Everton,2025-05-10,Fulham,Everton,A,H,1.5670362034797716
+2024-2025_Ipswich_Brentford,2025-05-10,Ipswich,Brentford,A,A,0.6644434546443059
+2024-2025_Southampton_Man City,2025-05-10,Southampton,Man City,D,A,1.9435807264226486
+2024-2025_Wolves_Brighton,2025-05-10,Wolves,Brighton,A,A,0.9254976827075502
+2024-2025_Liverpool_Arsenal,2025-05-11,Liverpool,Arsenal,D,H,1.3020359986651193
+2024-2025_Man United_West Ham,2025-05-11,Man United,West Ham,A,H,1.6120559171841582
+2024-2025_Newcastle_Chelsea,2025-05-11,Newcastle,Chelsea,H,H,0.6492422643082609
+2024-2025_Nott'm Forest_Leicester,2025-05-11,Nott'm Forest,Leicester,D,H,1.6295098764953353
+2024-2025_Tottenham_Crystal Palace,2025-05-11,Tottenham,Crystal Palace,A,H,1.0243526213311205
+2024-2025_Aston Villa_Tottenham,2025-05-16,Aston Villa,Tottenham,H,H,0.4693145726807324
+2024-2025_Chelsea_Man United,2025-05-16,Chelsea,Man United,H,H,0.5158694587911382
+2024-2025_Arsenal_Newcastle,2025-05-18,Arsenal,Newcastle,H,H,0.5967444410087556
+2024-2025_Brentford_Fulham,2025-05-18,Brentford,Fulham,A,A,0.9770557875121113
+2024-2025_Everton_Southampton,2025-05-18,Everton,Southampton,H,H,0.35144987510775916
+2024-2025_Leicester_Ipswich,2025-05-18,Leicester,Ipswich,H,H,0.9345730462762791
+2024-2025_West Ham_Nott'm Forest,2025-05-18,West Ham,Nott'm Forest,A,A,0.9654910842681299
+2024-2025_Brighton_Liverpool,2025-05-19,Brighton,Liverpool,H,A,1.5650020019958284
+2024-2025_Crystal Palace_Wolves,2025-05-20,Crystal Palace,Wolves,H,H,0.7541868315900899
+2024-2025_Man City_Bournemouth,2025-05-20,Man City,Bournemouth,H,H,0.44446887797037815
+2024-2025_Bournemouth_Leicester,2025-05-25,Bournemouth,Leicester,H,H,0.4347723762102317
+2024-2025_Fulham_Man City,2025-05-25,Fulham,Man City,A,A,0.6499673375790018
+2024-2025_Ipswich_West Ham,2025-05-25,Ipswich,West Ham,A,A,0.8203917080880472
+2024-2025_Liverpool_Crystal Palace,2025-05-25,Liverpool,Crystal Palace,D,H,1.5603361562449842
+2024-2025_Man United_Aston Villa,2025-05-25,Man United,Aston Villa,H,A,1.121360552730733
+2024-2025_Newcastle_Everton,2025-05-25,Newcastle,Everton,A,H,1.9166460066362416
+2024-2025_Nott'm Forest_Chelsea,2025-05-25,Nott'm Forest,Chelsea,A,A,0.8188048204925568
+2024-2025_Southampton_Arsenal,2025-05-25,Southampton,Arsenal,A,A,0.21365226889447386
+2024-2025_Tottenham_Brighton,2025-05-25,Tottenham,Brighton,A,A,0.7516872076525848
+2024-2025_Wolves_Brentford,2025-05-25,Wolves,Brentford,D,H,1.3893062081028935

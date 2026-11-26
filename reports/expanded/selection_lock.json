@@ -1,0 +1,20 @@
+{
+  "selected": "logistic_shots_pruned_C0.1",
+  "criterion": "highest pooled chronological OOF accuracy; tie: lower log loss",
+  "development_seasons": "2016-2017 through 2023-2024",
+  "warmup_seasons": "2014-2015 and 2015-2016",
+  "test_season": "2024-2025",
+  "development_n": 2985,
+  "candidates": 42,
+  "fingerprint": "266685663c86722be245eaffcec61310e2e0d0619fe900fce0f4b0b3e7d5a0c9",
+  "features": [
+    "ga20_diff",
+    "elo_diff",
+    "rest_diff",
+    "venue_gf_diff",
+    "venue_ga_diff",
+    "shots20_diff",
+    "shots_against20_diff"
+  ],
+  "note": "Follow-up initiated after seeing original 2023-24 test. It is now development data. 2024-25 is new evaluation, never used for selection. Accuracy is the revised objective requested by the user."
+}

@@ -1,0 +1,1685 @@
+match_id,date,home,away,outcome,predicted,log_loss
+2019-2020_Arsenal_Chelsea,2019-12-29,Arsenal,Chelsea,A,H,1.1141761784375446
+2019-2020_Liverpool_Wolves,2019-12-29,Liverpool,Wolves,H,H,0.2897716702481952
+2019-2020_Man City_Sheffield United,2019-12-29,Man City,Sheffield United,H,H,0.31303010473367704
+2019-2020_Arsenal_Man United,2020-01-01,Arsenal,Man United,H,A,0.9756455923503969
+2019-2020_Brighton_Chelsea,2020-01-01,Brighton,Chelsea,D,A,1.5330144605195546
+2019-2020_Burnley_Aston Villa,2020-01-01,Burnley,Aston Villa,A,H,1.7281684457117488
+2019-2020_Man City_Everton,2020-01-01,Man City,Everton,H,H,0.34518323314883254
+2019-2020_Newcastle_Leicester,2020-01-01,Newcastle,Leicester,A,A,0.8873707577389315
+2019-2020_Norwich_Crystal Palace,2020-01-01,Norwich,Crystal Palace,D,A,1.4428766330879756
+2019-2020_Southampton_Tottenham,2020-01-01,Southampton,Tottenham,H,A,1.1917975195120316
+2019-2020_Watford_Wolves,2020-01-01,Watford,Wolves,H,A,1.0432834209436315
+2019-2020_West Ham_Bournemouth,2020-01-01,West Ham,Bournemouth,H,H,0.672046410768343
+2019-2020_Liverpool_Sheffield United,2020-01-02,Liverpool,Sheffield United,H,H,0.2343549893770681
+2019-2020_Sheffield United_West Ham,2020-01-10,Sheffield United,West Ham,H,H,0.7359139233565569
+2019-2020_Chelsea_Burnley,2020-01-11,Chelsea,Burnley,H,H,0.437527128362595
+2019-2020_Crystal Palace_Arsenal,2020-01-11,Crystal Palace,Arsenal,D,H,1.4430818103918481
+2019-2020_Everton_Brighton,2020-01-11,Everton,Brighton,H,H,0.6035914890463904
+2019-2020_Leicester_Southampton,2020-01-11,Leicester,Southampton,A,H,1.692791144636853
+2019-2020_Man United_Norwich,2020-01-11,Man United,Norwich,H,H,0.3736863983566842
+2019-2020_Tottenham_Liverpool,2020-01-11,Tottenham,Liverpool,A,A,0.48959752897257725
+2019-2020_Wolves_Newcastle,2020-01-11,Wolves,Newcastle,D,H,1.5059898510963194
+2019-2020_Aston Villa_Man City,2020-01-12,Aston Villa,Man City,A,A,0.2572018940935874
+2019-2020_Bournemouth_Watford,2020-01-12,Bournemouth,Watford,A,H,1.0164990267974612
+2019-2020_Arsenal_Sheffield United,2020-01-18,Arsenal,Sheffield United,D,H,1.4966869039085784
+2019-2020_Brighton_Aston Villa,2020-01-18,Brighton,Aston Villa,D,H,1.5914179921309095
+2019-2020_Man City_Crystal Palace,2020-01-18,Man City,Crystal Palace,D,H,1.7216821041622308
+2019-2020_Newcastle_Chelsea,2020-01-18,Newcastle,Chelsea,H,A,1.2554094529436612
+2019-2020_Norwich_Bournemouth,2020-01-18,Norwich,Bournemouth,H,H,0.7889119334120273
+2019-2020_Southampton_Wolves,2020-01-18,Southampton,Wolves,A,H,1.1617351777029055
+2019-2020_Watford_Tottenham,2020-01-18,Watford,Tottenham,D,H,1.468165541444525
+2019-2020_West Ham_Everton,2020-01-18,West Ham,Everton,D,H,1.4409700878520921
+2019-2020_Burnley_Leicester,2020-01-19,Burnley,Leicester,H,A,1.2066146321181408
+2019-2020_Liverpool_Man United,2020-01-19,Liverpool,Man United,H,H,0.3749205233992658
+2019-2020_Aston Villa_Watford,2020-01-21,Aston Villa,Watford,H,A,1.2169328296395652
+2019-2020_Bournemouth_Brighton,2020-01-21,Bournemouth,Brighton,H,H,0.9305849447069116
+2019-2020_Chelsea_Arsenal,2020-01-21,Chelsea,Arsenal,D,H,1.403631260545242
+2019-2020_Crystal Palace_Southampton,2020-01-21,Crystal Palace,Southampton,A,H,1.362644657635363
+2019-2020_Everton_Newcastle,2020-01-21,Everton,Newcastle,D,H,1.4872994794885164
+2019-2020_Sheffield United_Man City,2020-01-21,Sheffield United,Man City,A,A,0.43462337214367625
+2019-2020_Leicester_West Ham,2020-01-22,Leicester,West Ham,H,H,0.5861141085352242
+2019-2020_Man United_Burnley,2020-01-22,Man United,Burnley,A,H,2.11192594834777
+2019-2020_Tottenham_Norwich,2020-01-22,Tottenham,Norwich,H,H,0.40630284519281934
+2019-2020_Wolves_Liverpool,2020-01-23,Wolves,Liverpool,A,A,0.48678773069425824
+2019-2020_West Ham_Liverpool,2020-01-29,West Ham,Liverpool,A,A,0.3460834321190337
+2019-2020_Bournemouth_Aston Villa,2020-02-01,Bournemouth,Aston Villa,H,H,0.6749143557376523
+2019-2020_Crystal Palace_Sheffield United,2020-02-01,Crystal Palace,Sheffield United,A,H,1.3093369970756024
+2019-2020_Leicester_Chelsea,2020-02-01,Leicester,Chelsea,D,H,1.4030052648486602
+2019-2020_Liverpool_Southampton,2020-02-01,Liverpool,Southampton,H,H,0.26043029095604014
+2019-2020_Man United_Wolves,2020-02-01,Man United,Wolves,D,H,1.43117085838919
+2019-2020_Newcastle_Norwich,2020-02-01,Newcastle,Norwich,D,H,1.4892220582075295
+2019-2020_Watford_Everton,2020-02-01,Watford,Everton,A,H,1.1300771050247866
+2019-2020_West Ham_Brighton,2020-02-01,West Ham,Brighton,D,H,1.389593404544918
+2019-2020_Burnley_Arsenal,2020-02-02,Burnley,Arsenal,D,A,1.3639807544876206
+2019-2020_Tottenham_Man City,2020-02-02,Tottenham,Man City,H,A,1.5374459659377886
+2019-2020_Brighton_Watford,2020-02-08,Brighton,Watford,D,H,1.4151484136433932
+2019-2020_Everton_Crystal Palace,2020-02-08,Everton,Crystal Palace,H,H,0.6034093912554098
+2019-2020_Sheffield United_Bournemouth,2020-02-09,Sheffield United,Bournemouth,H,H,0.5582179376852062
+2019-2020_Wolves_Leicester,2020-02-14,Wolves,Leicester,D,H,1.4074110473471035
+2019-2020_Norwich_Liverpool,2020-02-15,Norwich,Liverpool,A,A,0.20631487397252354
+2019-2020_Southampton_Burnley,2020-02-15,Southampton,Burnley,A,H,1.3788396127170928
+2019-2020_Arsenal_Newcastle,2020-02-16,Arsenal,Newcastle,H,H,0.5544522203934649
+2019-2020_Aston Villa_Tottenham,2020-02-16,Aston Villa,Tottenham,A,A,0.680862265893644
+2019-2020_Chelsea_Man United,2020-02-17,Chelsea,Man United,A,H,1.4813681832906558
+2019-2020_Man City_West Ham,2020-02-19,Man City,West Ham,H,H,0.2572209650924266
+2019-2020_Burnley_Bournemouth,2020-02-22,Burnley,Bournemouth,H,H,0.6010853050291469
+2019-2020_Chelsea_Tottenham,2020-02-22,Chelsea,Tottenham,H,H,0.7718958463441393
+2019-2020_Crystal Palace_Newcastle,2020-02-22,Crystal Palace,Newcastle,H,H,0.7642112113973106
+2019-2020_Leicester_Man City,2020-02-22,Leicester,Man City,A,A,0.6430168356260679
+2019-2020_Sheffield United_Brighton,2020-02-22,Sheffield United,Brighton,D,H,1.4578710022137458
+2019-2020_Southampton_Aston Villa,2020-02-22,Southampton,Aston Villa,H,H,0.5144085900502032
+2019-2020_Arsenal_Everton,2020-02-23,Arsenal,Everton,H,H,0.6813930041975018
+2019-2020_Man United_Watford,2020-02-23,Man United,Watford,H,H,0.48986085824794656
+2019-2020_Wolves_Norwich,2020-02-23,Wolves,Norwich,H,H,0.39844266818751495
+2019-2020_Liverpool_West Ham,2020-02-24,Liverpool,West Ham,H,H,0.18938660332131668
+2019-2020_Norwich_Leicester,2020-02-28,Norwich,Leicester,H,A,1.4149460078587466
+2019-2020_Bournemouth_Chelsea,2020-02-29,Bournemouth,Chelsea,D,A,1.457896122147855
+2019-2020_Brighton_Crystal Palace,2020-02-29,Brighton,Crystal Palace,A,H,1.1219188491834102
+2019-2020_Newcastle_Burnley,2020-02-29,Newcastle,Burnley,D,H,1.3890424155288008
+2019-2020_Watford_Liverpool,2020-02-29,Watford,Liverpool,H,A,2.456936310841326
+2019-2020_West Ham_Southampton,2020-02-29,West Ham,Southampton,H,H,0.8530637152448071
+2019-2020_Everton_Man United,2020-03-01,Everton,Man United,D,H,1.402835241344519
+2019-2020_Tottenham_Wolves,2020-03-01,Tottenham,Wolves,A,H,1.4220786904154847
+2019-2020_Arsenal_West Ham,2020-03-07,Arsenal,West Ham,H,H,0.47547728279838297
+2019-2020_Burnley_Tottenham,2020-03-07,Burnley,Tottenham,D,A,1.5132991476345037
+2019-2020_Crystal Palace_Watford,2020-03-07,Crystal Palace,Watford,H,H,0.7124396150559349
+2019-2020_Liverpool_Bournemouth,2020-03-07,Liverpool,Bournemouth,H,H,0.22270728750753072
+2019-2020_Sheffield United_Norwich,2020-03-07,Sheffield United,Norwich,H,H,0.4479408872276642
+2019-2020_Southampton_Newcastle,2020-03-07,Southampton,Newcastle,A,H,1.3989359338418637
+2019-2020_Wolves_Brighton,2020-03-07,Wolves,Brighton,D,H,1.5348898869824634
+2019-2020_Chelsea_Everton,2020-03-08,Chelsea,Everton,H,H,0.6752470846355196
+2019-2020_Man United_Man City,2020-03-08,Man United,Man City,H,A,1.112804976646293
+2019-2020_Leicester_Aston Villa,2020-03-09,Leicester,Aston Villa,H,H,0.3885691011305905
+2019-2020_Aston Villa_Sheffield United,2020-06-17,Aston Villa,Sheffield United,D,A,1.4463344579126463
+2019-2020_Man City_Arsenal,2020-06-17,Man City,Arsenal,H,H,0.5677103623533251
+2019-2020_Norwich_Southampton,2020-06-19,Norwich,Southampton,A,H,0.9549507459523143
+2019-2020_Tottenham_Man United,2020-06-19,Tottenham,Man United,D,H,1.3576189326973662
+2019-2020_Bournemouth_Crystal Palace,2020-06-20,Bournemouth,Crystal Palace,A,H,0.9937583032477154
+2019-2020_Brighton_Arsenal,2020-06-20,Brighton,Arsenal,H,A,1.2596170593217324
+2019-2020_Watford_Leicester,2020-06-20,Watford,Leicester,D,A,1.3855771456988444
+2019-2020_West Ham_Wolves,2020-06-20,West Ham,Wolves,A,A,0.9608466487522296
+2019-2020_Aston Villa_Chelsea,2020-06-21,Aston Villa,Chelsea,A,A,0.4953976037073546
+2019-2020_Everton_Liverpool,2020-06-21,Everton,Liverpool,D,A,1.6493067211477175
+2019-2020_Newcastle_Sheffield United,2020-06-21,Newcastle,Sheffield United,H,A,0.9965816174460788
+2019-2020_Man City_Burnley,2020-06-22,Man City,Burnley,H,H,0.3720106842885628
+2019-2020_Leicester_Brighton,2020-06-23,Leicester,Brighton,D,H,1.4997355859232817
+2019-2020_Tottenham_West Ham,2020-06-23,Tottenham,West Ham,H,H,0.46918791327954695
+2019-2020_Liverpool_Crystal Palace,2020-06-24,Liverpool,Crystal Palace,H,H,0.33577706374805155
+2019-2020_Man United_Sheffield United,2020-06-24,Man United,Sheffield United,H,H,0.4785048577030319
+2019-2020_Newcastle_Aston Villa,2020-06-24,Newcastle,Aston Villa,D,H,1.5581487967974654
+2019-2020_Norwich_Everton,2020-06-24,Norwich,Everton,A,A,0.6924206148739449
+2019-2020_Wolves_Bournemouth,2020-06-24,Wolves,Bournemouth,H,H,0.3755404846278131
+2019-2020_Burnley_Watford,2020-06-25,Burnley,Watford,H,H,0.6547046244586011
+2019-2020_Chelsea_Man City,2020-06-25,Chelsea,Man City,H,A,1.174970270642255
+2019-2020_Southampton_Arsenal,2020-06-25,Southampton,Arsenal,A,A,0.897135321132305
+2019-2020_Aston Villa_Wolves,2020-06-27,Aston Villa,Wolves,A,A,0.4836912052263433
+2019-2020_Watford_Southampton,2020-06-28,Watford,Southampton,A,H,1.1478649411700226
+2019-2020_Crystal Palace_Burnley,2020-06-29,Crystal Palace,Burnley,A,H,1.3767445067386601
+2019-2020_Brighton_Man United,2020-06-30,Brighton,Man United,A,A,0.6046874577115222
+2019-2020_Arsenal_Norwich,2020-07-01,Arsenal,Norwich,H,H,0.34177444744743896
+2019-2020_Bournemouth_Newcastle,2020-07-01,Bournemouth,Newcastle,A,A,0.9191146052739856
+2019-2020_Everton_Leicester,2020-07-01,Everton,Leicester,H,H,0.8388345931419401
+2019-2020_West Ham_Chelsea,2020-07-01,West Ham,Chelsea,H,A,1.484299726094938
+2019-2020_Man City_Liverpool,2020-07-02,Man City,Liverpool,H,H,0.8731269458598838
+2019-2020_Sheffield United_Tottenham,2020-07-02,Sheffield United,Tottenham,H,A,1.024251199132993
+2019-2020_Chelsea_Watford,2020-07-04,Chelsea,Watford,H,H,0.3744340602337875
+2019-2020_Leicester_Crystal Palace,2020-07-04,Leicester,Crystal Palace,H,H,0.6105842197645289
+2019-2020_Man United_Bournemouth,2020-07-04,Man United,Bournemouth,H,H,0.29351675354726425
+2019-2020_Norwich_Brighton,2020-07-04,Norwich,Brighton,A,H,1.0031140408331838
+2019-2020_Wolves_Arsenal,2020-07-04,Wolves,Arsenal,A,H,1.2521399973842886
+2019-2020_Burnley_Sheffield United,2020-07-05,Burnley,Sheffield United,D,H,1.4334312974805
+2019-2020_Liverpool_Aston Villa,2020-07-05,Liverpool,Aston Villa,H,H,0.18805498553783156
+2019-2020_Newcastle_West Ham,2020-07-05,Newcastle,West Ham,D,H,1.53721331268538
+2019-2020_Southampton_Man City,2020-07-05,Southampton,Man City,H,A,1.8355538558547517
+2019-2020_Tottenham_Everton,2020-07-06,Tottenham,Everton,H,H,0.6354097171472264
+2019-2020_Arsenal_Leicester,2020-07-07,Arsenal,Leicester,D,H,1.3721878145410227
+2019-2020_Crystal Palace_Chelsea,2020-07-07,Crystal Palace,Chelsea,A,A,0.6845685099066714
+2019-2020_Watford_Norwich,2020-07-07,Watford,Norwich,H,H,0.5515422445800924
+2019-2020_Brighton_Liverpool,2020-07-08,Brighton,Liverpool,A,A,0.3345880880434482
+2019-2020_Man City_Newcastle,2020-07-08,Man City,Newcastle,H,H,0.34982811337425423
+2019-2020_Sheffield United_Wolves,2020-07-08,Sheffield United,Wolves,H,H,0.8798913809867303
+2019-2020_West Ham_Burnley,2020-07-08,West Ham,Burnley,A,H,1.114324352041302
+2019-2020_Aston Villa_Man United,2020-07-09,Aston Villa,Man United,A,A,0.34626423091326675
+2019-2020_Bournemouth_Tottenham,2020-07-09,Bournemouth,Tottenham,D,A,1.450606659066579
+2019-2020_Everton_Southampton,2020-07-09,Everton,Southampton,D,H,1.3813531673715707
+2019-2020_Brighton_Man City,2020-07-11,Brighton,Man City,A,A,0.3654560102432637
+2019-2020_Liverpool_Burnley,2020-07-11,Liverpool,Burnley,D,H,1.7826760724330997
+2019-2020_Norwich_West Ham,2020-07-11,Norwich,West Ham,A,A,0.8339464304578339
+2019-2020_Sheffield United_Chelsea,2020-07-11,Sheffield United,Chelsea,H,A,1.1371596771911983
+2019-2020_Watford_Newcastle,2020-07-11,Watford,Newcastle,H,A,1.0382495984732794
+2019-2020_Aston Villa_Crystal Palace,2020-07-12,Aston Villa,Crystal Palace,H,A,1.1575344873554647
+2019-2020_Bournemouth_Leicester,2020-07-12,Bournemouth,Leicester,H,A,1.2922442332414055
+2019-2020_Tottenham_Arsenal,2020-07-12,Tottenham,Arsenal,H,H,0.8887271785709216
+2019-2020_Wolves_Everton,2020-07-12,Wolves,Everton,H,H,0.6954492366578219
+2019-2020_Man United_Southampton,2020-07-13,Man United,Southampton,D,H,1.6050186694637705
+2019-2020_Chelsea_Norwich,2020-07-14,Chelsea,Norwich,H,H,0.2561496306060602
+2019-2020_Arsenal_Liverpool,2020-07-15,Arsenal,Liverpool,H,A,1.321874500755806
+2019-2020_Burnley_Wolves,2020-07-15,Burnley,Wolves,D,H,1.4373866524421977
+2019-2020_Man City_Bournemouth,2020-07-15,Man City,Bournemouth,H,H,0.20254970154819385
+2019-2020_Newcastle_Tottenham,2020-07-15,Newcastle,Tottenham,A,A,0.9662772819645054
+2019-2020_Crystal Palace_Man United,2020-07-16,Crystal Palace,Man United,A,A,0.5236652450256422
+2019-2020_Everton_Aston Villa,2020-07-16,Everton,Aston Villa,D,H,1.5236925904935523
+2019-2020_Leicester_Sheffield United,2020-07-16,Leicester,Sheffield United,H,H,0.810346028683599
+2019-2020_Southampton_Brighton,2020-07-16,Southampton,Brighton,D,H,1.5544364053313438
+2019-2020_West Ham_Watford,2020-07-17,West Ham,Watford,H,H,0.6218092728237609
+2019-2020_Norwich_Burnley,2020-07-18,Norwich,Burnley,A,A,0.6121235190219166
+2019-2020_Bournemouth_Southampton,2020-07-19,Bournemouth,Southampton,A,A,0.9824699173382456
+2019-2020_Tottenham_Leicester,2020-07-19,Tottenham,Leicester,H,H,0.6606719801780783
+2019-2020_Brighton_Newcastle,2020-07-20,Brighton,Newcastle,D,H,1.400163625154719
+2019-2020_Sheffield United_Everton,2020-07-20,Sheffield United,Everton,A,H,1.5193715430583945
+2019-2020_Wolves_Crystal Palace,2020-07-20,Wolves,Crystal Palace,H,H,0.4813009847437236
+2019-2020_Aston Villa_Arsenal,2020-07-21,Aston Villa,Arsenal,H,A,1.6354654838717424
+2019-2020_Watford_Man City,2020-07-21,Watford,Man City,A,A,0.3588691772967032
+2019-2020_Liverpool_Chelsea,2020-07-22,Liverpool,Chelsea,H,H,0.44558216749855095
+2019-2020_Man United_West Ham,2020-07-22,Man United,West Ham,D,H,1.5521399957391162
+2019-2020_Arsenal_Watford,2020-07-26,Arsenal,Watford,H,H,0.422877001526626
+2019-2020_Burnley_Brighton,2020-07-26,Burnley,Brighton,A,H,1.7571747443717856
+2019-2020_Chelsea_Wolves,2020-07-26,Chelsea,Wolves,H,H,0.6591412002109811
+2019-2020_Crystal Palace_Tottenham,2020-07-26,Crystal Palace,Tottenham,D,A,1.4878152746007731
+2019-2020_Everton_Bournemouth,2020-07-26,Everton,Bournemouth,A,H,1.6888420262237238
+2019-2020_Leicester_Man United,2020-07-26,Leicester,Man United,A,A,0.8251034337475307
+2019-2020_Man City_Norwich,2020-07-26,Man City,Norwich,H,H,0.1441292028339731
+2019-2020_Newcastle_Liverpool,2020-07-26,Newcastle,Liverpool,A,A,0.34154536463375396
+2019-2020_Southampton_Sheffield United,2020-07-26,Southampton,Sheffield United,H,H,0.756227346261763
+2019-2020_West Ham_Aston Villa,2020-07-26,West Ham,Aston Villa,D,H,1.5295929322375443
+2020-2021_Crystal Palace_Southampton,2020-09-12,Crystal Palace,Southampton,H,A,0.9949841752300249
+2020-2021_Fulham_Arsenal,2020-09-12,Fulham,Arsenal,A,A,0.6979940678225537
+2020-2021_West Ham_Newcastle,2020-09-12,West Ham,Newcastle,A,H,1.5337143933083213
+2020-2021_Tottenham_Everton,2020-09-13,Tottenham,Everton,A,H,1.8102284109888909
+2020-2021_West Brom_Leicester,2020-09-13,West Brom,Leicester,A,H,0.9840091641887843
+2020-2021_Brighton_Chelsea,2020-09-14,Brighton,Chelsea,A,A,0.6889855463915758
+2020-2021_Sheffield United_Wolves,2020-09-14,Sheffield United,Wolves,A,H,1.0884429790632013
+2020-2021_Arsenal_West Ham,2020-09-19,Arsenal,West Ham,H,H,0.5164926378494639
+2020-2021_Everton_West Brom,2020-09-19,Everton,West Brom,H,H,0.504544367152161
+2020-2021_Man United_Crystal Palace,2020-09-19,Man United,Crystal Palace,A,H,2.1641422947470788
+2020-2021_Chelsea_Liverpool,2020-09-20,Chelsea,Liverpool,A,A,0.678450776972645
+2020-2021_Leicester_Burnley,2020-09-20,Leicester,Burnley,H,H,0.7121975126112912
+2020-2021_Newcastle_Brighton,2020-09-20,Newcastle,Brighton,A,H,1.4374030495045653
+2020-2021_Southampton_Tottenham,2020-09-20,Southampton,Tottenham,A,H,0.9691819985008326
+2020-2021_Aston Villa_Sheffield United,2020-09-21,Aston Villa,Sheffield United,H,A,1.053304016788009
+2020-2021_Wolves_Man City,2020-09-21,Wolves,Man City,A,A,0.5597654543379211
+2020-2021_Brighton_Man United,2020-09-26,Brighton,Man United,A,A,0.8037253184284049
+2020-2021_Burnley_Southampton,2020-09-26,Burnley,Southampton,A,H,1.3177877165263996
+2020-2021_Crystal Palace_Everton,2020-09-26,Crystal Palace,Everton,A,H,1.0246989273311191
+2020-2021_West Brom_Chelsea,2020-09-26,West Brom,Chelsea,D,A,1.5506109685832508
+2020-2021_Man City_Leicester,2020-09-27,Man City,Leicester,A,H,2.5955449588097252
+2020-2021_Tottenham_Newcastle,2020-09-27,Tottenham,Newcastle,D,H,1.553944950503085
+2020-2021_West Ham_Wolves,2020-09-27,West Ham,Wolves,H,A,1.0434082109524536
+2020-2021_Fulham_Aston Villa,2020-09-28,Fulham,Aston Villa,A,H,1.1199521323285622
+2020-2021_Liverpool_Arsenal,2020-09-28,Liverpool,Arsenal,H,H,0.36441554852501273
+2020-2021_Chelsea_Crystal Palace,2020-10-03,Chelsea,Crystal Palace,H,H,0.4779685281072248
+2020-2021_Everton_Brighton,2020-10-03,Everton,Brighton,H,H,0.5438903005640864
+2020-2021_Newcastle_Burnley,2020-10-03,Newcastle,Burnley,H,H,0.8100153595851092
+2020-2021_Arsenal_Sheffield United,2020-10-04,Arsenal,Sheffield United,H,H,0.454464027856874
+2020-2021_Aston Villa_Liverpool,2020-10-04,Aston Villa,Liverpool,H,A,2.3940972200023647
+2020-2021_Leicester_West Ham,2020-10-04,Leicester,West Ham,A,H,1.8498686379901246
+2020-2021_Man United_Tottenham,2020-10-04,Man United,Tottenham,A,H,1.3919296430296488
+2020-2021_Southampton_West Brom,2020-10-04,Southampton,West Brom,H,H,0.49450868376512597
+2020-2021_Wolves_Fulham,2020-10-04,Wolves,Fulham,H,H,0.3824323952691029
+2020-2021_Chelsea_Southampton,2020-10-17,Chelsea,Southampton,D,H,1.5208375832231282
+2020-2021_Everton_Liverpool,2020-10-17,Everton,Liverpool,D,A,1.5640422291518616
+2020-2021_Man City_Arsenal,2020-10-17,Man City,Arsenal,H,H,0.4301196789059226
+2020-2021_Newcastle_Man United,2020-10-17,Newcastle,Man United,A,A,0.8737566181538362
+2020-2021_Crystal Palace_Brighton,2020-10-18,Crystal Palace,Brighton,D,H,1.4360693441516346
+2020-2021_Leicester_Aston Villa,2020-10-18,Leicester,Aston Villa,A,H,1.7060025917098809
+2020-2021_Sheffield United_Fulham,2020-10-18,Sheffield United,Fulham,D,H,1.5467645821604366
+2020-2021_Tottenham_West Ham,2020-10-18,Tottenham,West Ham,D,H,1.5050624547780849
+2020-2021_West Brom_Burnley,2020-10-19,West Brom,Burnley,D,A,1.3862879204875551
+2020-2021_Aston Villa_Leeds,2020-10-23,Aston Villa,Leeds,A,H,1.2447415547707636
+2020-2021_Fulham_Crystal Palace,2020-10-24,Fulham,Crystal Palace,A,A,0.8730426596203538
+2020-2021_Liverpool_Sheffield United,2020-10-24,Liverpool,Sheffield United,H,H,0.26796044741788566
+2020-2021_Man United_Chelsea,2020-10-24,Man United,Chelsea,D,H,1.329527442896559
+2020-2021_West Ham_Man City,2020-10-24,West Ham,Man City,D,A,1.5690648310561315
+2020-2021_Arsenal_Leicester,2020-10-25,Arsenal,Leicester,A,H,1.3615759888180496
+2020-2021_Southampton_Everton,2020-10-25,Southampton,Everton,H,A,0.9760405271956104
+2020-2021_Wolves_Newcastle,2020-10-25,Wolves,Newcastle,D,H,1.4257466725463601
+2020-2021_Brighton_West Brom,2020-10-26,Brighton,West Brom,D,H,1.4542279795306285
+2020-2021_Burnley_Tottenham,2020-10-26,Burnley,Tottenham,A,A,0.6893219180905648
+2020-2021_Wolves_Crystal Palace,2020-10-30,Wolves,Crystal Palace,H,H,0.6119637303389712
+2020-2021_Burnley_Chelsea,2020-10-31,Burnley,Chelsea,A,A,0.7301880039440982
+2020-2021_Liverpool_West Ham,2020-10-31,Liverpool,West Ham,H,H,0.3474766945977339
+2020-2021_Sheffield United_Man City,2020-10-31,Sheffield United,Man City,A,A,0.4837433387373739
+2020-2021_Aston Villa_Southampton,2020-11-01,Aston Villa,Southampton,A,H,1.0277597709965036
+2020-2021_Man United_Arsenal,2020-11-01,Man United,Arsenal,A,H,1.5313273141493668
+2020-2021_Newcastle_Everton,2020-11-01,Newcastle,Everton,H,A,1.050442950923374
+2020-2021_Tottenham_Brighton,2020-11-01,Tottenham,Brighton,H,H,0.39019444744734777
+2020-2021_Fulham_West Brom,2020-11-02,Fulham,West Brom,H,H,0.8514518836469102
+2020-2021_Leeds_Leicester,2020-11-02,Leeds,Leicester,A,H,1.104238416695905
+2020-2021_Brighton_Burnley,2020-11-06,Brighton,Burnley,D,H,1.3825079287631714
+2020-2021_Southampton_Newcastle,2020-11-06,Southampton,Newcastle,H,H,0.5936367691432133
+2020-2021_Chelsea_Sheffield United,2020-11-07,Chelsea,Sheffield United,H,H,0.3683426187502444
+2020-2021_Crystal Palace_Leeds,2020-11-07,Crystal Palace,Leeds,H,H,0.8489891767547446
+2020-2021_Everton_Man United,2020-11-07,Everton,Man United,A,H,1.0957752044992863
+2020-2021_West Ham_Fulham,2020-11-07,West Ham,Fulham,H,H,0.43196548066266754
+2020-2021_Arsenal_Aston Villa,2020-11-08,Arsenal,Aston Villa,A,H,1.6284769025295747
+2020-2021_Leicester_Wolves,2020-11-08,Leicester,Wolves,H,H,0.6819502121332601
+2020-2021_Man City_Liverpool,2020-11-08,Man City,Liverpool,D,H,1.4915648237628998
+2020-2021_West Brom_Tottenham,2020-11-08,West Brom,Tottenham,A,A,0.4958775034057837
+2020-2021_Aston Villa_Brighton,2020-11-21,Aston Villa,Brighton,A,H,1.566540572094762
+2020-2021_Man United_West Brom,2020-11-21,Man United,West Brom,H,H,0.344508992000743
+2020-2021_Newcastle_Chelsea,2020-11-21,Newcastle,Chelsea,A,A,0.6886362666935081
+2020-2021_Tottenham_Man City,2020-11-21,Tottenham,Man City,H,H,0.8952421383807125
+2020-2021_Fulham_Everton,2020-11-22,Fulham,Everton,A,A,0.7363027833647586
+2020-2021_Leeds_Arsenal,2020-11-22,Leeds,Arsenal,D,H,1.394412780888064
+2020-2021_Liverpool_Leicester,2020-11-22,Liverpool,Leicester,H,H,0.38308691700286224
+2020-2021_Sheffield United_West Ham,2020-11-22,Sheffield United,West Ham,A,H,1.0195210870564924
+2020-2021_Burnley_Crystal Palace,2020-11-23,Burnley,Crystal Palace,H,H,0.8515967365524076
+2020-2021_Wolves_Southampton,2020-11-23,Wolves,Southampton,D,H,1.469810932522091
+2020-2021_Crystal Palace_Newcastle,2020-11-27,Crystal Palace,Newcastle,A,H,1.4434778198407632
+2020-2021_Brighton_Liverpool,2020-11-28,Brighton,Liverpool,D,A,1.8074519397635238
+2020-2021_Everton_Leeds,2020-11-28,Everton,Leeds,A,H,1.5267558095905829
+2020-2021_Man City_Burnley,2020-11-28,Man City,Burnley,H,H,0.3414498738920521
+2020-2021_West Brom_Sheffield United,2020-11-28,West Brom,Sheffield United,H,H,0.9022331607117671
+2020-2021_Arsenal_Wolves,2020-11-29,Arsenal,Wolves,A,H,1.1734016262392848
+2020-2021_Chelsea_Tottenham,2020-11-29,Chelsea,Tottenham,D,H,1.458808540517508
+2020-2021_Southampton_Man United,2020-11-29,Southampton,Man United,A,H,1.1422065868679476
+2020-2021_Leicester_Fulham,2020-11-30,Leicester,Fulham,A,H,2.1366098364854462
+2020-2021_West Ham_Aston Villa,2020-11-30,West Ham,Aston Villa,H,H,0.565986017776722
+2020-2021_Burnley_Everton,2020-12-05,Burnley,Everton,D,H,1.4075399404199624
+2020-2021_Chelsea_Leeds,2020-12-05,Chelsea,Leeds,H,H,0.4180243165425141
+2020-2021_Man City_Fulham,2020-12-05,Man City,Fulham,H,H,0.2430191253178605
+2020-2021_West Ham_Man United,2020-12-05,West Ham,Man United,A,A,0.8922096072178051
+2020-2021_Liverpool_Wolves,2020-12-06,Liverpool,Wolves,H,H,0.37231672301801777
+2020-2021_Sheffield United_Leicester,2020-12-06,Sheffield United,Leicester,A,A,0.7778975524199205
+2020-2021_Tottenham_Arsenal,2020-12-06,Tottenham,Arsenal,H,H,0.535017736939601
+2020-2021_West Brom_Crystal Palace,2020-12-06,West Brom,Crystal Palace,A,A,0.9529291801602681
+2020-2021_Brighton_Southampton,2020-12-07,Brighton,Southampton,A,A,0.8844881029022148
+2020-2021_Leeds_West Ham,2020-12-11,Leeds,West Ham,A,H,1.1633177299864241
+2020-2021_Everton_Chelsea,2020-12-12,Everton,Chelsea,H,A,1.2231846699484694
+2020-2021_Man United_Man City,2020-12-12,Man United,Man City,D,H,1.3492805144110862
+2020-2021_Newcastle_West Brom,2020-12-12,Newcastle,West Brom,H,H,0.5050648290903402
+2020-2021_Wolves_Aston Villa,2020-12-12,Wolves,Aston Villa,A,H,1.911983304443461
+2020-2021_Arsenal_Burnley,2020-12-13,Arsenal,Burnley,A,H,1.5934262722830603
+2020-2021_Crystal Palace_Tottenham,2020-12-13,Crystal Palace,Tottenham,D,A,1.4361136379065722
+2020-2021_Fulham_Liverpool,2020-12-13,Fulham,Liverpool,D,A,1.8931336420820406
+2020-2021_Leicester_Brighton,2020-12-13,Leicester,Brighton,H,H,0.5292967445378202
+2020-2021_Southampton_Sheffield United,2020-12-13,Southampton,Sheffield United,H,H,0.44038074807864497
+2020-2021_Man City_West Brom,2020-12-15,Man City,West Brom,D,H,1.9304103343548165
+2020-2021_Wolves_Chelsea,2020-12-15,Wolves,Chelsea,H,A,1.0735664586379505
+2020-2021_Arsenal_Southampton,2020-12-16,Arsenal,Southampton,D,H,1.4582610683791388
+2020-2021_Fulham_Brighton,2020-12-16,Fulham,Brighton,D,H,1.3903775790501338
+2020-2021_Leeds_Newcastle,2020-12-16,Leeds,Newcastle,H,H,0.8172570109607982
+2020-2021_Leicester_Everton,2020-12-16,Leicester,Everton,A,H,1.4453524454990803
+2020-2021_Liverpool_Tottenham,2020-12-16,Liverpool,Tottenham,H,H,0.4246246273083764
+2020-2021_West Ham_Crystal Palace,2020-12-16,West Ham,Crystal Palace,D,H,1.3541815256039387
+2020-2021_Aston Villa_Burnley,2020-12-17,Aston Villa,Burnley,D,H,1.3940876926986354
+2020-2021_Sheffield United_Man United,2020-12-17,Sheffield United,Man United,A,A,0.5043155232513763
+2020-2021_Crystal Palace_Liverpool,2020-12-19,Crystal Palace,Liverpool,A,A,0.4216085664596532
+2020-2021_Everton_Arsenal,2020-12-19,Everton,Arsenal,H,H,0.6449190952184869
+2020-2021_Newcastle_Fulham,2020-12-19,Newcastle,Fulham,D,H,1.3928728995911883
+2020-2021_Southampton_Man City,2020-12-19,Southampton,Man City,A,A,0.793786085642218
+2020-2021_Brighton_Sheffield United,2020-12-20,Brighton,Sheffield United,D,H,1.4287341117791994
+2020-2021_Man United_Leeds,2020-12-20,Man United,Leeds,H,H,0.4468640109524559
+2020-2021_Tottenham_Leicester,2020-12-20,Tottenham,Leicester,A,H,1.607523553949348
+2020-2021_West Brom_Aston Villa,2020-12-20,West Brom,Aston Villa,A,H,1.0457596347381788
+2020-2021_Burnley_Wolves,2020-12-21,Burnley,Wolves,H,H,0.9237126255960691
+2020-2021_Chelsea_West Ham,2020-12-21,Chelsea,West Ham,H,H,0.5293270993109292
+2020-2021_Arsenal_Chelsea,2020-12-26,Arsenal,Chelsea,H,A,1.078884514713607
+2020-2021_Aston Villa_Crystal Palace,2020-12-26,Aston Villa,Crystal Palace,H,H,0.7718420704349125
+2020-2021_Fulham_Southampton,2020-12-26,Fulham,Southampton,D,A,1.498820181836486
+2020-2021_Leicester_Man United,2020-12-26,Leicester,Man United,D,A,1.4737575242886325
+2020-2021_Man City_Newcastle,2020-12-26,Man City,Newcastle,H,H,0.30166785111781563
+2020-2021_Sheffield United_Everton,2020-12-26,Sheffield United,Everton,A,A,0.792553852986898
+2020-2021_Leeds_Burnley,2020-12-27,Leeds,Burnley,H,H,0.7168152591531595
+2020-2021_Liverpool_West Brom,2020-12-27,Liverpool,West Brom,D,H,2.16364468068288
+2020-2021_West Ham_Brighton,2020-12-27,West Ham,Brighton,D,H,1.353553192219068
+2020-2021_Wolves_Tottenham,2020-12-27,Wolves,Tottenham,D,H,1.315810589738109
+2020-2021_Chelsea_Aston Villa,2020-12-28,Chelsea,Aston Villa,D,H,1.474726063443599
+2020-2021_Crystal Palace_Leicester,2020-12-28,Crystal Palace,Leicester,D,A,1.3917894580225505
+2020-2021_Brighton_Arsenal,2020-12-29,Brighton,Arsenal,A,A,0.9514705756869419
+2020-2021_Burnley_Sheffield United,2020-12-29,Burnley,Sheffield United,H,H,0.5471996837382233
+2020-2021_Man United_Wolves,2020-12-29,Man United,Wolves,H,H,0.43553815869880375
+2020-2021_Southampton_West Ham,2020-12-29,Southampton,West Ham,D,H,1.4852713083849682
+2020-2021_West Brom_Leeds,2020-12-29,West Brom,Leeds,A,A,0.7872944557732521
+2020-2021_Newcastle_Liverpool,2020-12-30,Newcastle,Liverpool,D,A,1.6957766486232275
+2020-2021_Everton_West Ham,2021-01-01,Everton,West Ham,A,H,1.5588231626786415
+2020-2021_Man United_Aston Villa,2021-01-01,Man United,Aston Villa,H,H,0.401005214161536
+2020-2021_Brighton_Wolves,2021-01-02,Brighton,Wolves,D,A,1.4219251316510195
+2020-2021_Crystal Palace_Sheffield United,2021-01-02,Crystal Palace,Sheffield United,H,H,0.672086831912871
+2020-2021_Tottenham_Leeds,2021-01-02,Tottenham,Leeds,H,H,0.6583040556792414
+2020-2021_West Brom_Arsenal,2021-01-02,West Brom,Arsenal,A,A,0.6699484563873894
+2020-2021_Chelsea_Man City,2021-01-03,Chelsea,Man City,A,A,0.852693359657079
+2020-2021_Newcastle_Leicester,2021-01-03,Newcastle,Leicester,A,A,0.9261115346385078
+2020-2021_Southampton_Liverpool,2021-01-04,Southampton,Liverpool,H,A,1.6876980036091516
+2020-2021_Burnley_Man United,2021-01-12,Burnley,Man United,A,A,0.5822496461386103
+2020-2021_Sheffield United_Newcastle,2021-01-12,Sheffield United,Newcastle,H,H,0.9433271831010637
+2020-2021_Wolves_Everton,2021-01-12,Wolves,Everton,A,H,1.2360540981187345
+2020-2021_Man City_Brighton,2021-01-13,Man City,Brighton,H,H,0.302194902946146
+2020-2021_Tottenham_Fulham,2021-01-13,Tottenham,Fulham,D,H,1.587708482191021
+2020-2021_Arsenal_Crystal Palace,2021-01-14,Arsenal,Crystal Palace,D,H,1.5361620413183408
+2020-2021_Fulham_Chelsea,2021-01-16,Fulham,Chelsea,A,A,0.6702442524148458
+2020-2021_Leeds_Brighton,2021-01-16,Leeds,Brighton,A,H,1.6315146604238364
+2020-2021_Leicester_Southampton,2021-01-16,Leicester,Southampton,H,H,0.6658784430640421
+2020-2021_West Ham_Burnley,2021-01-16,West Ham,Burnley,H,H,0.7311270641344588
+2020-2021_Wolves_West Brom,2021-01-16,Wolves,West Brom,A,H,2.1435008083148266
+2020-2021_Liverpool_Man United,2021-01-17,Liverpool,Man United,D,H,1.5586508897658402
+2020-2021_Man City_Crystal Palace,2021-01-17,Man City,Crystal Palace,H,H,0.28692201810442364
+2020-2021_Sheffield United_Tottenham,2021-01-17,Sheffield United,Tottenham,A,A,0.6244832600250376
+2020-2021_Arsenal_Newcastle,2021-01-18,Arsenal,Newcastle,H,H,0.4903066644583716
+2020-2021_Leicester_Chelsea,2021-01-19,Leicester,Chelsea,H,H,0.7552057080045349
+2020-2021_West Ham_West Brom,2021-01-19,West Ham,West Brom,H,H,0.456790367370234
+2020-2021_Fulham_Man United,2021-01-20,Fulham,Man United,A,A,0.45648847689737143
+2020-2021_Man City_Aston Villa,2021-01-20,Man City,Aston Villa,H,H,0.29994007615466955
+2020-2021_Liverpool_Burnley,2021-01-21,Liverpool,Burnley,A,H,2.5609193034114734
+2020-2021_Aston Villa_Newcastle,2021-01-23,Aston Villa,Newcastle,H,H,0.6475937220009141
+2020-2021_Crystal Palace_West Ham,2021-01-26,Crystal Palace,West Ham,A,A,0.96808617353852
+2020-2021_Newcastle_Leeds,2021-01-26,Newcastle,Leeds,A,H,0.9810084033273603
+2020-2021_Southampton_Arsenal,2021-01-26,Southampton,Arsenal,A,A,0.8764966418317279
+2020-2021_West Brom_Man City,2021-01-26,West Brom,Man City,A,A,0.30284021809942197
+2020-2021_Brighton_Fulham,2021-01-27,Brighton,Fulham,D,H,1.407810264416397
+2020-2021_Burnley_Aston Villa,2021-01-27,Burnley,Aston Villa,H,H,0.749346624212783
+2020-2021_Chelsea_Wolves,2021-01-27,Chelsea,Wolves,D,H,1.3880895142946992
+2020-2021_Everton_Leicester,2021-01-27,Everton,Leicester,D,H,1.3944753290689151
+2020-2021_Man United_Sheffield United,2021-01-27,Man United,Sheffield United,A,H,2.5437281864475314
+2020-2021_Tottenham_Liverpool,2021-01-28,Tottenham,Liverpool,A,H,1.0548508539042993
+2020-2021_Arsenal_Man United,2021-01-30,Arsenal,Man United,D,H,1.3980696352962303
+2020-2021_Crystal Palace_Wolves,2021-01-30,Crystal Palace,Wolves,H,H,0.9271932313778236
+2020-2021_Everton_Newcastle,2021-01-30,Everton,Newcastle,A,H,1.8986607761544338
+2020-2021_Man City_Sheffield United,2021-01-30,Man City,Sheffield United,H,H,0.2115759698090929
+2020-2021_Southampton_Aston Villa,2021-01-30,Southampton,Aston Villa,A,H,1.4125594617309838
+2020-2021_West Brom_Fulham,2021-01-30,West Brom,Fulham,D,H,1.2195976566789715
+2020-2021_Brighton_Tottenham,2021-01-31,Brighton,Tottenham,H,A,1.3310483692482031
+2020-2021_Chelsea_Burnley,2021-01-31,Chelsea,Burnley,H,H,0.6317597712897239
+2020-2021_Leicester_Leeds,2021-01-31,Leicester,Leeds,A,H,1.6036244913173259
+2020-2021_West Ham_Liverpool,2021-01-31,West Ham,Liverpool,A,A,0.7754375374902277
+2020-2021_Man United_Southampton,2021-02-02,Man United,Southampton,H,H,0.4714582468516194
+2020-2021_Newcastle_Crystal Palace,2021-02-02,Newcastle,Crystal Palace,A,H,1.1069599570027284
+2020-2021_Sheffield United_West Brom,2021-02-02,Sheffield United,West Brom,H,H,0.6521088473766357
+2020-2021_Wolves_Arsenal,2021-02-02,Wolves,Arsenal,H,A,1.0344949794218736
+2020-2021_Aston Villa_West Ham,2021-02-03,Aston Villa,West Ham,A,A,0.9545681030367537
+2020-2021_Burnley_Man City,2021-02-03,Burnley,Man City,A,A,0.4383338102751599
+2020-2021_Fulham_Leicester,2021-02-03,Fulham,Leicester,A,A,0.6222042705712508
+2020-2021_Leeds_Everton,2021-02-03,Leeds,Everton,A,H,1.3263273989503144
+2020-2021_Liverpool_Brighton,2021-02-03,Liverpool,Brighton,A,H,2.4763087986530032
+2020-2021_Tottenham_Chelsea,2021-02-04,Tottenham,Chelsea,A,H,1.379824719011225
+2020-2021_Aston Villa_Arsenal,2021-02-06,Aston Villa,Arsenal,H,A,1.106481080036985
+2020-2021_Burnley_Brighton,2021-02-06,Burnley,Brighton,D,H,1.372550954666404
+2020-2021_Fulham_West Ham,2021-02-06,Fulham,West Ham,D,A,1.5935140219808757
+2020-2021_Man United_Everton,2021-02-06,Man United,Everton,D,H,1.5713480209942017
+2020-2021_Newcastle_Southampton,2021-02-06,Newcastle,Southampton,H,H,0.8298664332014364
+2020-2021_Liverpool_Man City,2021-02-07,Liverpool,Man City,A,A,0.9308949190535043
+2020-2021_Sheffield United_Chelsea,2021-02-07,Sheffield United,Chelsea,A,A,0.7807206651113588
+2020-2021_Tottenham_West Brom,2021-02-07,Tottenham,West Brom,H,H,0.3889668443407428
+2020-2021_Wolves_Leicester,2021-02-07,Wolves,Leicester,D,A,1.4265851167051402
+2020-2021_Leeds_Crystal Palace,2021-02-08,Leeds,Crystal Palace,H,H,0.7179045428345854
+2020-2021_Brighton_Aston Villa,2021-02-13,Brighton,Aston Villa,D,H,1.452825933863196
+2020-2021_Crystal Palace_Burnley,2021-02-13,Crystal Palace,Burnley,A,H,1.203492402092188
+2020-2021_Leicester_Liverpool,2021-02-13,Leicester,Liverpool,H,A,1.1300232848342864
+2020-2021_Man City_Tottenham,2021-02-13,Man City,Tottenham,H,H,0.35810039832532975
+2020-2021_Arsenal_Leeds,2021-02-14,Arsenal,Leeds,H,H,0.6737114938322925
+2020-2021_Everton_Fulham,2021-02-14,Everton,Fulham,A,H,2.1018723204972387
+2020-2021_Southampton_Wolves,2021-02-14,Southampton,Wolves,A,H,1.0999049042886488
+2020-2021_West Brom_Man United,2021-02-14,West Brom,Man United,D,A,1.6897098966495192
+2020-2021_Chelsea_Newcastle,2021-02-15,Chelsea,Newcastle,H,H,0.47917362504168
+2020-2021_West Ham_Sheffield United,2021-02-15,West Ham,Sheffield United,H,H,0.5039940322507054
+2020-2021_Burnley_Fulham,2021-02-17,Burnley,Fulham,D,H,1.4199697382122394
+2020-2021_Everton_Man City,2021-02-17,Everton,Man City,A,A,0.4620730827042504
+2020-2021_Wolves_Leeds,2021-02-19,Wolves,Leeds,H,H,0.7533587710183444
+2020-2021_Burnley_West Brom,2021-02-20,Burnley,West Brom,D,H,1.535579194487134
+2020-2021_Fulham_Sheffield United,2021-02-20,Fulham,Sheffield United,H,H,0.7476888818334846
+2020-2021_Liverpool_Everton,2021-02-20,Liverpool,Everton,A,H,1.9651645827462778
+2020-2021_Southampton_Chelsea,2021-02-20,Southampton,Chelsea,D,A,1.382053772890516
+2020-2021_Arsenal_Man City,2021-02-21,Arsenal,Man City,A,A,0.5291739724614267
+2020-2021_Aston Villa_Leicester,2021-02-21,Aston Villa,Leicester,A,A,0.8249957676433313
+2020-2021_Man United_Newcastle,2021-02-21,Man United,Newcastle,H,H,0.328913221299716
+2020-2021_West Ham_Tottenham,2021-02-21,West Ham,Tottenham,H,H,0.7131785428252356
+2020-2021_Brighton_Crystal Palace,2021-02-22,Brighton,Crystal Palace,A,H,1.2437466392775798
+2020-2021_Leeds_Southampton,2021-02-23,Leeds,Southampton,H,H,0.6498760268313382
+2020-2021_Leeds_Aston Villa,2021-02-27,Leeds,Aston Villa,A,H,1.5343109778084778
+2020-2021_Man City_West Ham,2021-02-27,Man City,West Ham,H,H,0.34521663038242073
+2020-2021_Newcastle_Wolves,2021-02-27,Newcastle,Wolves,D,H,1.350105562658733
+2020-2021_West Brom_Brighton,2021-02-27,West Brom,Brighton,H,A,1.000699537443033
+2020-2021_Chelsea_Man United,2021-02-28,Chelsea,Man United,D,A,1.368245941061223
+2020-2021_Crystal Palace_Fulham,2021-02-28,Crystal Palace,Fulham,D,H,1.351677539919342
+2020-2021_Leicester_Arsenal,2021-02-28,Leicester,Arsenal,A,H,1.5466033388741396
+2020-2021_Sheffield United_Liverpool,2021-02-28,Sheffield United,Liverpool,A,A,0.49789185972927247
+2020-2021_Tottenham_Burnley,2021-02-28,Tottenham,Burnley,H,H,0.6611398434257942
+2020-2021_Everton_Southampton,2021-03-01,Everton,Southampton,H,H,0.5207618297117839
+2020-2021_Man City_Wolves,2021-03-02,Man City,Wolves,H,H,0.31887835701777356
+2020-2021_Burnley_Leicester,2021-03-03,Burnley,Leicester,D,A,1.4545496341879514
+2020-2021_Crystal Palace_Man United,2021-03-03,Crystal Palace,Man United,D,A,1.5152401566162703
+2020-2021_Sheffield United_Aston Villa,2021-03-03,Sheffield United,Aston Villa,H,H,0.9644168779144142
+2020-2021_Fulham_Tottenham,2021-03-04,Fulham,Tottenham,A,A,0.7283946595587517
+2020-2021_Liverpool_Chelsea,2021-03-04,Liverpool,Chelsea,A,H,1.4417045339389467
+2020-2021_West Brom_Everton,2021-03-04,West Brom,Everton,A,A,0.6627349636524931
+2020-2021_Aston Villa_Wolves,2021-03-06,Aston Villa,Wolves,D,A,1.420025529376803
+2020-2021_Brighton_Leicester,2021-03-06,Brighton,Leicester,A,A,0.7411566890212693
+2020-2021_Burnley_Arsenal,2021-03-06,Burnley,Arsenal,D,A,1.4215062468163506
+2020-2021_Sheffield United_Southampton,2021-03-06,Sheffield United,Southampton,A,H,1.0248287506400418
+2020-2021_Liverpool_Fulham,2021-03-07,Liverpool,Fulham,A,H,2.2913153003093494
+2020-2021_Man City_Man United,2021-03-07,Man City,Man United,A,H,2.020997090785142
+2020-2021_Tottenham_Crystal Palace,2021-03-07,Tottenham,Crystal Palace,H,H,0.48037861496379275
+2020-2021_West Brom_Newcastle,2021-03-07,West Brom,Newcastle,D,H,1.4340348786689212
+2020-2021_Chelsea_Everton,2021-03-08,Chelsea,Everton,H,H,0.5989374248703391
+2020-2021_West Ham_Leeds,2021-03-08,West Ham,Leeds,H,H,0.5969416459375363
+2020-2021_Man City_Southampton,2021-03-10,Man City,Southampton,H,H,0.2891587370485651
+2020-2021_Newcastle_Aston Villa,2021-03-12,Newcastle,Aston Villa,D,H,1.3432228636577845
+2020-2021_Crystal Palace_West Brom,2021-03-13,Crystal Palace,West Brom,H,H,0.6040658579212859
+2020-2021_Everton_Burnley,2021-03-13,Everton,Burnley,A,H,1.6113445911022741
+2020-2021_Fulham_Man City,2021-03-13,Fulham,Man City,A,A,0.30914264411255693
+2020-2021_Leeds_Chelsea,2021-03-13,Leeds,Chelsea,D,A,1.416185846817993
+2020-2021_Arsenal_Tottenham,2021-03-14,Arsenal,Tottenham,H,H,0.8662288718561305
+2020-2021_Leicester_Sheffield United,2021-03-14,Leicester,Sheffield United,H,H,0.35775724475373005
+2020-2021_Man United_West Ham,2021-03-14,Man United,West Ham,H,H,0.5686475114113445
+2020-2021_Southampton_Brighton,2021-03-14,Southampton,Brighton,A,H,1.4772264820174572
+2020-2021_Wolves_Liverpool,2021-03-15,Wolves,Liverpool,A,A,0.9139429358628371
+2020-2021_Fulham_Leeds,2021-03-19,Fulham,Leeds,A,H,1.0522314625064153
+2020-2021_Brighton_Newcastle,2021-03-20,Brighton,Newcastle,H,H,0.7103585839642081
+2020-2021_Aston Villa_Tottenham,2021-03-21,Aston Villa,Tottenham,A,A,0.6825192834007013
+2020-2021_West Ham_Arsenal,2021-03-21,West Ham,Arsenal,D,H,1.4121848909795616
+2020-2021_Arsenal_Liverpool,2021-04-03,Arsenal,Liverpool,A,H,1.0922726453501317
+2020-2021_Chelsea_West Brom,2021-04-03,Chelsea,West Brom,A,H,2.3989364506946242
+2020-2021_Leeds_Sheffield United,2021-04-03,Leeds,Sheffield United,H,H,0.49236898293420645
+2020-2021_Leicester_Man City,2021-04-03,Leicester,Man City,A,A,0.6767965635990277
+2020-2021_Aston Villa_Fulham,2021-04-04,Aston Villa,Fulham,H,H,0.6657274961654536
+2020-2021_Man United_Brighton,2021-04-04,Man United,Brighton,H,H,0.40872784877345947
+2020-2021_Newcastle_Tottenham,2021-04-04,Newcastle,Tottenham,D,A,1.563121103865475
+2020-2021_Southampton_Burnley,2021-04-04,Southampton,Burnley,H,H,0.8484416336087038
+2020-2021_Everton_Crystal Palace,2021-04-05,Everton,Crystal Palace,D,H,1.42064747670931
+2020-2021_Wolves_West Ham,2021-04-05,Wolves,West Ham,A,H,1.0399288177023407
+2020-2021_Fulham_Wolves,2021-04-09,Fulham,Wolves,A,A,0.8976881064377357
+2020-2021_Crystal Palace_Chelsea,2021-04-10,Crystal Palace,Chelsea,A,A,0.8189392143367727
+2020-2021_Liverpool_Aston Villa,2021-04-10,Liverpool,Aston Villa,H,H,0.3691718569518
+2020-2021_Man City_Leeds,2021-04-10,Man City,Leeds,A,H,2.832737439257056
+2020-2021_Burnley_Newcastle,2021-04-11,Burnley,Newcastle,A,H,1.4401763519814157
+2020-2021_Sheffield United_Arsenal,2021-04-11,Sheffield United,Arsenal,A,A,0.6129041631308945
+2020-2021_Tottenham_Man United,2021-04-11,Tottenham,Man United,A,H,1.0626260226573634
+2020-2021_West Ham_Leicester,2021-04-11,West Ham,Leicester,H,H,0.8720989204127323
+2020-2021_Brighton_Everton,2021-04-12,Brighton,Everton,D,H,1.4001317558736355
+2020-2021_West Brom_Southampton,2021-04-12,West Brom,Southampton,H,A,0.9761869677404166
+2020-2021_Everton_Tottenham,2021-04-16,Everton,Tottenham,D,A,1.4547808503069621
+2020-2021_Newcastle_West Ham,2021-04-17,Newcastle,West Ham,H,A,1.2024891260807182
+2020-2021_Wolves_Sheffield United,2021-04-17,Wolves,Sheffield United,H,H,0.45564011717177405
+2020-2021_Arsenal_Fulham,2021-04-18,Arsenal,Fulham,D,H,1.5960175507553476
+2020-2021_Man United_Burnley,2021-04-18,Man United,Burnley,H,H,0.4051920530104172
+2020-2021_Leeds_Liverpool,2021-04-19,Leeds,Liverpool,D,A,1.4161458470479793
+2020-2021_Chelsea_Brighton,2021-04-20,Chelsea,Brighton,D,H,1.5041200930686414
+2020-2021_Aston Villa_Man City,2021-04-21,Aston Villa,Man City,A,A,0.400785676528679
+2020-2021_Tottenham_Southampton,2021-04-21,Tottenham,Southampton,H,H,0.5310319241762999
+2020-2021_Leicester_West Brom,2021-04-22,Leicester,West Brom,H,H,0.4588958917524833
+2020-2021_Arsenal_Everton,2021-04-23,Arsenal,Everton,A,H,1.4384009376790499
+2020-2021_Liverpool_Newcastle,2021-04-24,Liverpool,Newcastle,D,H,1.658427940357262
+2020-2021_Sheffield United_Brighton,2021-04-24,Sheffield United,Brighton,H,A,1.241115051374243
+2020-2021_West Ham_Chelsea,2021-04-24,West Ham,Chelsea,A,H,1.070532376876515
+2020-2021_Aston Villa_West Brom,2021-04-25,Aston Villa,West Brom,D,H,1.4240573696740106
+2020-2021_Leeds_Man United,2021-04-25,Leeds,Man United,D,A,1.4928072935168084
+2020-2021_Wolves_Burnley,2021-04-25,Wolves,Burnley,A,H,1.3352264317747744
+2020-2021_Leicester_Crystal Palace,2021-04-26,Leicester,Crystal Palace,H,H,0.4556859428087302
+2020-2021_Southampton_Leicester,2021-04-30,Southampton,Leicester,D,A,1.411069085330293
+2020-2021_Brighton_Leeds,2021-05-01,Brighton,Leeds,H,A,0.9672061967971282
+2020-2021_Chelsea_Fulham,2021-05-01,Chelsea,Fulham,H,H,0.35712403207208854
+2020-2021_Crystal Palace_Man City,2021-05-01,Crystal Palace,Man City,A,A,0.3881911544909208
+2020-2021_Everton_Aston Villa,2021-05-01,Everton,Aston Villa,A,H,1.5283679455829215
+2020-2021_Newcastle_Arsenal,2021-05-02,Newcastle,Arsenal,A,A,0.9896242159432893
+2020-2021_Tottenham_Sheffield United,2021-05-02,Tottenham,Sheffield United,H,H,0.34869670890120597
+2020-2021_Burnley_West Ham,2021-05-03,Burnley,West Ham,A,H,1.0295533887276982
+2020-2021_West Brom_Wolves,2021-05-03,West Brom,Wolves,D,H,1.418124875351365
+2020-2021_Leicester_Newcastle,2021-05-07,Leicester,Newcastle,A,H,1.6613084225988954
+2020-2021_Leeds_Tottenham,2021-05-08,Leeds,Tottenham,H,A,1.0861333133048583
+2020-2021_Liverpool_Southampton,2021-05-08,Liverpool,Southampton,H,H,0.35663138060142013
+2020-2021_Man City_Chelsea,2021-05-08,Man City,Chelsea,A,H,1.7817679517430978
+2020-2021_Sheffield United_Crystal Palace,2021-05-08,Sheffield United,Crystal Palace,A,A,0.9343621326278573
+2020-2021_Arsenal_West Brom,2021-05-09,Arsenal,West Brom,H,H,0.5330752112470395
+2020-2021_Aston Villa_Man United,2021-05-09,Aston Villa,Man United,A,A,0.6340516601998225
+2020-2021_West Ham_Everton,2021-05-09,West Ham,Everton,A,H,1.3959743961437077
+2020-2021_Wolves_Brighton,2021-05-09,Wolves,Brighton,H,H,0.714915986170876
+2020-2021_Fulham_Burnley,2021-05-10,Fulham,Burnley,A,A,0.8300541827677054
+2020-2021_Man United_Leicester,2021-05-11,Man United,Leicester,A,H,1.6856532692105148
+2020-2021_Southampton_Crystal Palace,2021-05-11,Southampton,Crystal Palace,H,H,0.8208667742691812
+2020-2021_Chelsea_Arsenal,2021-05-12,Chelsea,Arsenal,A,H,1.4791160234865712
+2020-2021_Aston Villa_Everton,2021-05-13,Aston Villa,Everton,D,A,1.3564085131217105
+2020-2021_Man United_Liverpool,2021-05-13,Man United,Liverpool,A,H,1.2003438277934424
+2020-2021_Newcastle_Man City,2021-05-14,Newcastle,Man City,A,A,0.5488560580153874
+2020-2021_Brighton_West Ham,2021-05-15,Brighton,West Ham,D,A,1.499715379317005
+2020-2021_Burnley_Leeds,2021-05-15,Burnley,Leeds,A,H,1.1867709377024902
+2020-2021_Southampton_Fulham,2021-05-15,Southampton,Fulham,H,H,0.583709584081717
+2020-2021_Crystal Palace_Aston Villa,2021-05-16,Crystal Palace,Aston Villa,H,H,0.8238249580371465
+2020-2021_Everton_Sheffield United,2021-05-16,Everton,Sheffield United,A,H,2.0365435754345964
+2020-2021_Tottenham_Wolves,2021-05-16,Tottenham,Wolves,H,H,0.5985349136261143
+2020-2021_West Brom_Liverpool,2021-05-16,West Brom,Liverpool,A,A,0.4434200599415718
+2020-2021_Brighton_Man City,2021-05-18,Brighton,Man City,H,A,1.8206045995156082
+2020-2021_Chelsea_Leicester,2021-05-18,Chelsea,Leicester,H,H,0.7349429633537209
+2020-2021_Man United_Fulham,2021-05-18,Man United,Fulham,D,H,1.7518246111942064
+2020-2021_Southampton_Leeds,2021-05-18,Southampton,Leeds,A,H,1.0297699435963976
+2020-2021_Burnley_Liverpool,2021-05-19,Burnley,Liverpool,A,A,0.5969384939812534
+2020-2021_Crystal Palace_Arsenal,2021-05-19,Crystal Palace,Arsenal,A,A,0.8828800423220805
+2020-2021_Everton_Wolves,2021-05-19,Everton,Wolves,H,H,0.7051985913007628
+2020-2021_Newcastle_Sheffield United,2021-05-19,Newcastle,Sheffield United,H,H,0.523838471862819
+2020-2021_Tottenham_Aston Villa,2021-05-19,Tottenham,Aston Villa,A,H,1.8465277252714718
+2020-2021_West Brom_West Ham,2021-05-19,West Brom,West Ham,A,A,0.7769628820375191
+2020-2021_Arsenal_Brighton,2021-05-23,Arsenal,Brighton,H,H,0.5302327607619816
+2020-2021_Aston Villa_Chelsea,2021-05-23,Aston Villa,Chelsea,H,A,1.2936271967048052
+2020-2021_Fulham_Newcastle,2021-05-23,Fulham,Newcastle,A,A,0.8143495226862122
+2020-2021_Leeds_West Brom,2021-05-23,Leeds,West Brom,H,H,0.41925359936723383
+2020-2021_Leicester_Tottenham,2021-05-23,Leicester,Tottenham,A,H,1.1646260120792133
+2020-2021_Liverpool_Crystal Palace,2021-05-23,Liverpool,Crystal Palace,H,H,0.3124444209667129
+2020-2021_Man City_Everton,2021-05-23,Man City,Everton,H,H,0.3931657032804264
+2020-2021_Sheffield United_Burnley,2021-05-23,Sheffield United,Burnley,H,A,1.0942442066299023
+2020-2021_West Ham_Southampton,2021-05-23,West Ham,Southampton,H,H,0.6120024972084487
+2020-2021_Wolves_Man United,2021-05-23,Wolves,Man United,A,A,0.7248376263167967
+2021-2022_Burnley_Brighton,2021-08-14,Burnley,Brighton,A,H,1.0578058981420673
+2021-2022_Chelsea_Crystal Palace,2021-08-14,Chelsea,Crystal Palace,H,H,0.45325761688692096
+2021-2022_Everton_Southampton,2021-08-14,Everton,Southampton,H,H,0.6651198472202471
+2021-2022_Leicester_Wolves,2021-08-14,Leicester,Wolves,H,H,0.6263437178539656
+2021-2022_Man United_Leeds,2021-08-14,Man United,Leeds,H,H,0.6351527584442682
+2021-2022_Norwich_Liverpool,2021-08-14,Norwich,Liverpool,A,A,0.2538334874896149
+2021-2022_Watford_Aston Villa,2021-08-14,Watford,Aston Villa,H,H,0.9584430703796128
+2021-2022_Newcastle_West Ham,2021-08-15,Newcastle,West Ham,A,H,1.0029835653742425
+2021-2022_Tottenham_Man City,2021-08-15,Tottenham,Man City,H,A,1.2793965086482595
+2021-2022_Aston Villa_Newcastle,2021-08-21,Aston Villa,Newcastle,H,H,0.84783598843993
+2021-2022_Brighton_Watford,2021-08-21,Brighton,Watford,H,H,0.6498033794805942
+2021-2022_Leeds_Everton,2021-08-21,Leeds,Everton,D,H,1.4094614157130265
+2021-2022_Liverpool_Burnley,2021-08-21,Liverpool,Burnley,H,H,0.25719195547184825
+2021-2022_Man City_Norwich,2021-08-21,Man City,Norwich,H,H,0.15071566009589704
+2021-2022_Arsenal_Chelsea,2021-08-22,Arsenal,Chelsea,A,H,1.0992956312489104
+2021-2022_Southampton_Man United,2021-08-22,Southampton,Man United,D,A,1.4789330408752166
+2021-2022_Wolves_Tottenham,2021-08-22,Wolves,Tottenham,A,A,0.7762795102925037
+2021-2022_West Ham_Leicester,2021-08-23,West Ham,Leicester,H,H,0.6880068739275496
+2021-2022_Brighton_Everton,2021-08-28,Brighton,Everton,A,H,1.1081812141315768
+2021-2022_Liverpool_Chelsea,2021-08-28,Liverpool,Chelsea,D,H,1.475982326393076
+2021-2022_Man City_Arsenal,2021-08-28,Man City,Arsenal,H,H,0.3738783193297964
+2021-2022_Newcastle_Southampton,2021-08-28,Newcastle,Southampton,D,H,1.4055076100183033
+2021-2022_Norwich_Leicester,2021-08-28,Norwich,Leicester,A,A,0.4708120540606178
+2021-2022_West Ham_Crystal Palace,2021-08-28,West Ham,Crystal Palace,D,H,1.6056705836350809
+2021-2022_Burnley_Leeds,2021-08-29,Burnley,Leeds,D,A,1.4606553830829911
+2021-2022_Tottenham_Watford,2021-08-29,Tottenham,Watford,H,H,0.38332820373151166
+2021-2022_Wolves_Man United,2021-08-29,Wolves,Man United,A,A,0.5539596316990523
+2021-2022_Arsenal_Norwich,2021-09-11,Arsenal,Norwich,H,H,0.3032431672580967
+2021-2022_Chelsea_Aston Villa,2021-09-11,Chelsea,Aston Villa,H,H,0.46257588776435504
+2021-2022_Crystal Palace_Tottenham,2021-09-11,Crystal Palace,Tottenham,H,A,1.3444031118687882
+2021-2022_Leicester_Man City,2021-09-11,Leicester,Man City,A,A,0.558978589522973
+2021-2022_Man United_Newcastle,2021-09-11,Man United,Newcastle,H,H,0.37450933838270173
+2021-2022_Southampton_West Ham,2021-09-11,Southampton,West Ham,D,A,1.4993484384231048
+2021-2022_Watford_Wolves,2021-09-11,Watford,Wolves,A,H,1.1232974214500517
+2021-2022_Leeds_Liverpool,2021-09-12,Leeds,Liverpool,A,A,0.6782434236117388
+2021-2022_Everton_Burnley,2021-09-13,Everton,Burnley,H,H,0.5106162524534005
+2021-2022_Newcastle_Leeds,2021-09-17,Newcastle,Leeds,D,H,1.4067663652490283
+2021-2022_Aston Villa_Everton,2021-09-18,Aston Villa,Everton,H,A,1.0531407837782032
+2021-2022_Burnley_Arsenal,2021-09-18,Burnley,Arsenal,A,A,0.845891751281368
+2021-2022_Liverpool_Crystal Palace,2021-09-18,Liverpool,Crystal Palace,H,H,0.31043484070876914
+2021-2022_Man City_Southampton,2021-09-18,Man City,Southampton,D,H,1.9340579284791994
+2021-2022_Norwich_Watford,2021-09-18,Norwich,Watford,A,A,0.8010423123735665
+2021-2022_Brighton_Leicester,2021-09-19,Brighton,Leicester,H,H,0.9346657812327513
+2021-2022_Tottenham_Chelsea,2021-09-19,Tottenham,Chelsea,A,A,0.9758936533952677
+2021-2022_West Ham_Man United,2021-09-19,West Ham,Man United,A,A,0.8969303095136978
+2021-2022_Brentford_Liverpool,2021-09-25,Brentford,Liverpool,D,A,1.5753541501795416
+2021-2022_Chelsea_Man City,2021-09-25,Chelsea,Man City,A,H,0.989411423819943
+2021-2022_Everton_Norwich,2021-09-25,Everton,Norwich,H,H,0.2819232943011915
+2021-2022_Leeds_West Ham,2021-09-25,Leeds,West Ham,A,A,0.9330015796947032
+2021-2022_Leicester_Burnley,2021-09-25,Leicester,Burnley,D,H,1.452149452321876
+2021-2022_Man United_Aston Villa,2021-09-25,Man United,Aston Villa,A,H,2.153183923744835
+2021-2022_Watford_Newcastle,2021-09-25,Watford,Newcastle,D,H,1.4102954218043415
+2021-2022_Arsenal_Tottenham,2021-09-26,Arsenal,Tottenham,H,H,0.8423034841731668
+2021-2022_Southampton_Wolves,2021-09-26,Southampton,Wolves,A,H,1.229642997765752
+2021-2022_Crystal Palace_Brighton,2021-09-27,Crystal Palace,Brighton,D,H,1.435481055998981
+2021-2022_Brighton_Arsenal,2021-10-02,Brighton,Arsenal,D,H,1.4574615791153394
+2021-2022_Burnley_Norwich,2021-10-02,Burnley,Norwich,D,H,1.5995323779279247
+2021-2022_Chelsea_Southampton,2021-10-02,Chelsea,Southampton,H,H,0.3916346734278414
+2021-2022_Leeds_Watford,2021-10-02,Leeds,Watford,H,H,0.5829889084866505
+2021-2022_Man United_Everton,2021-10-02,Man United,Everton,D,H,1.5005057643963517
+2021-2022_Wolves_Newcastle,2021-10-02,Wolves,Newcastle,H,H,0.7248764723664296
+2021-2022_Crystal Palace_Leicester,2021-10-03,Crystal Palace,Leicester,D,H,1.450338789563142
+2021-2022_Liverpool_Man City,2021-10-03,Liverpool,Man City,D,H,1.3755192721927871
+2021-2022_Tottenham_Aston Villa,2021-10-03,Tottenham,Aston Villa,H,H,0.7425275730441168
+2021-2022_West Ham_Brentford,2021-10-03,West Ham,Brentford,A,H,1.5439134297032964
+2021-2022_Aston Villa_Wolves,2021-10-16,Aston Villa,Wolves,A,H,1.2096166524248892
+2021-2022_Brentford_Chelsea,2021-10-16,Brentford,Chelsea,A,A,0.7625104707103508
+2021-2022_Leicester_Man United,2021-10-16,Leicester,Man United,H,A,1.1190640395080644
+2021-2022_Man City_Burnley,2021-10-16,Man City,Burnley,H,H,0.26122332744201515
+2021-2022_Norwich_Brighton,2021-10-16,Norwich,Brighton,D,A,1.4770829762321356
+2021-2022_Southampton_Leeds,2021-10-16,Southampton,Leeds,H,H,0.9520761070449275
+2021-2022_Watford_Liverpool,2021-10-16,Watford,Liverpool,A,A,0.4023237796805203
+2021-2022_Everton_West Ham,2021-10-17,Everton,West Ham,A,H,1.288772366883445
+2021-2022_Newcastle_Tottenham,2021-10-17,Newcastle,Tottenham,A,A,0.8820930566527339
+2021-2022_Arsenal_Crystal Palace,2021-10-18,Arsenal,Crystal Palace,D,H,1.4188757588819687
+2021-2022_Arsenal_Aston Villa,2021-10-22,Arsenal,Aston Villa,H,H,0.5488008225007914
+2021-2022_Brighton_Man City,2021-10-23,Brighton,Man City,A,A,0.5422114417731514
+2021-2022_Chelsea_Norwich,2021-10-23,Chelsea,Norwich,H,H,0.22255172094442724
+2021-2022_Crystal Palace_Newcastle,2021-10-23,Crystal Palace,Newcastle,D,H,1.4477744623740976
+2021-2022_Everton_Watford,2021-10-23,Everton,Watford,A,H,1.780450874047644
+2021-2022_Leeds_Wolves,2021-10-23,Leeds,Wolves,D,H,1.4524653358073347
+2021-2022_Southampton_Burnley,2021-10-23,Southampton,Burnley,D,H,1.4477246902191714
+2021-2022_Brentford_Leicester,2021-10-24,Brentford,Leicester,A,H,1.0038188576345393
+2021-2022_Man United_Liverpool,2021-10-24,Man United,Liverpool,A,A,0.8314752699033298
+2021-2022_West Ham_Tottenham,2021-10-24,West Ham,Tottenham,H,H,0.7698237383778924
+2021-2022_Burnley_Brentford,2021-10-30,Burnley,Brentford,H,A,0.986531103828616
+2021-2022_Leicester_Arsenal,2021-10-30,Leicester,Arsenal,A,H,1.1833123843821116
+2021-2022_Liverpool_Brighton,2021-10-30,Liverpool,Brighton,D,H,1.7891075680582507
+2021-2022_Man City_Crystal Palace,2021-10-30,Man City,Crystal Palace,A,H,2.4878343651012167
+2021-2022_Newcastle_Chelsea,2021-10-30,Newcastle,Chelsea,A,A,0.5029952151060048
+2021-2022_Tottenham_Man United,2021-10-30,Tottenham,Man United,A,H,1.073858351086213
+2021-2022_Watford_Southampton,2021-10-30,Watford,Southampton,A,H,1.2194120701493254
+2021-2022_Aston Villa_West Ham,2021-10-31,Aston Villa,West Ham,A,A,0.9354036267109939
+2021-2022_Norwich_Leeds,2021-10-31,Norwich,Leeds,A,A,0.6032392306026302
+2021-2022_Wolves_Everton,2021-11-01,Wolves,Everton,H,H,0.7985515671107838
+2021-2022_Southampton_Aston Villa,2021-11-05,Southampton,Aston Villa,H,H,0.7333403165524285
+2021-2022_Brentford_Norwich,2021-11-06,Brentford,Norwich,A,H,2.056422522560396
+2021-2022_Brighton_Newcastle,2021-11-06,Brighton,Newcastle,D,H,1.4760430302635892
+2021-2022_Chelsea_Burnley,2021-11-06,Chelsea,Burnley,D,H,1.6846793801940745
+2021-2022_Crystal Palace_Wolves,2021-11-06,Crystal Palace,Wolves,H,H,0.8251003456810114
+2021-2022_Man United_Man City,2021-11-06,Man United,Man City,A,A,0.8139639119834834
+2021-2022_Arsenal_Watford,2021-11-07,Arsenal,Watford,H,H,0.3899513435423961
+2021-2022_Everton_Tottenham,2021-11-07,Everton,Tottenham,D,H,1.4392972389469014
+2021-2022_Leeds_Leicester,2021-11-07,Leeds,Leicester,D,H,1.4478069818963517
+2021-2022_West Ham_Liverpool,2021-11-07,West Ham,Liverpool,H,A,1.3878138881190958
+2021-2022_Aston Villa_Brighton,2021-11-20,Aston Villa,Brighton,H,H,0.9772427026898878
+2021-2022_Burnley_Crystal Palace,2021-11-20,Burnley,Crystal Palace,D,A,1.4158923844157199
+2021-2022_Leicester_Chelsea,2021-11-20,Leicester,Chelsea,A,A,0.7351529226930567
+2021-2022_Liverpool_Arsenal,2021-11-20,Liverpool,Arsenal,H,H,0.5005414445245503
+2021-2022_Newcastle_Brentford,2021-11-20,Newcastle,Brentford,D,H,1.41982740951396
+2021-2022_Norwich_Southampton,2021-11-20,Norwich,Southampton,H,A,1.3848993729757464
+2021-2022_Watford_Man United,2021-11-20,Watford,Man United,H,A,1.4772445041901783
+2021-2022_Wolves_West Ham,2021-11-20,Wolves,West Ham,H,A,1.0850782385408946
+2021-2022_Man City_Everton,2021-11-21,Man City,Everton,H,H,0.3467566747755147
+2021-2022_Tottenham_Leeds,2021-11-21,Tottenham,Leeds,H,H,0.7247995371373769
+2021-2022_Arsenal_Newcastle,2021-11-27,Arsenal,Newcastle,H,H,0.5009634128985497
+2021-2022_Brighton_Leeds,2021-11-27,Brighton,Leeds,D,H,1.3941270328929818
+2021-2022_Crystal Palace_Aston Villa,2021-11-27,Crystal Palace,Aston Villa,A,H,1.4521361086720934
+2021-2022_Liverpool_Southampton,2021-11-27,Liverpool,Southampton,H,H,0.2832186183287774
+2021-2022_Norwich_Wolves,2021-11-27,Norwich,Wolves,D,A,1.4567498494360782
+2021-2022_Brentford_Everton,2021-11-28,Brentford,Everton,H,H,0.8598157490436653
+2021-2022_Chelsea_Man United,2021-11-28,Chelsea,Man United,D,H,1.635628888069023
+2021-2022_Leicester_Watford,2021-11-28,Leicester,Watford,H,H,0.5672406539830921
+2021-2022_Man City_West Ham,2021-11-28,Man City,West Ham,H,H,0.45084982662686773
+2021-2022_Leeds_Crystal Palace,2021-11-30,Leeds,Crystal Palace,H,H,0.7772893434256128
+2021-2022_Newcastle_Norwich,2021-11-30,Newcastle,Norwich,D,H,1.5499575016627116
+2021-2022_Aston Villa_Man City,2021-12-01,Aston Villa,Man City,A,A,0.434032427570447
+2021-2022_Everton_Liverpool,2021-12-01,Everton,Liverpool,A,A,0.42834997293393495
+2021-2022_Southampton_Leicester,2021-12-01,Southampton,Leicester,D,A,1.4243588783820118
+2021-2022_Watford_Chelsea,2021-12-01,Watford,Chelsea,A,A,0.48408107330159106
+2021-2022_West Ham_Brighton,2021-12-01,West Ham,Brighton,D,H,1.461479017503658
+2021-2022_Wolves_Burnley,2021-12-01,Wolves,Burnley,D,H,1.448909472986133
+2021-2022_Man United_Arsenal,2021-12-02,Man United,Arsenal,H,H,0.8339141766228546
+2021-2022_Tottenham_Brentford,2021-12-02,Tottenham,Brentford,H,H,0.5803310882959895
+2021-2022_Newcastle_Burnley,2021-12-04,Newcastle,Burnley,H,H,0.9495402045479445
+2021-2022_Southampton_Brighton,2021-12-04,Southampton,Brighton,D,H,1.3372415033428984
+2021-2022_Watford_Man City,2021-12-04,Watford,Man City,A,A,0.3769834623611633
+2021-2022_West Ham_Chelsea,2021-12-04,West Ham,Chelsea,H,A,1.1113270139123608
+2021-2022_Wolves_Liverpool,2021-12-04,Wolves,Liverpool,A,A,0.46974650012302993
+2021-2022_Aston Villa_Leicester,2021-12-05,Aston Villa,Leicester,H,A,1.0208988378784671
+2021-2022_Leeds_Brentford,2021-12-05,Leeds,Brentford,D,H,1.490858233157224
+2021-2022_Man United_Crystal Palace,2021-12-05,Man United,Crystal Palace,H,H,0.5353591514139908
+2021-2022_Tottenham_Norwich,2021-12-05,Tottenham,Norwich,H,H,0.40127368122364343
+2021-2022_Everton_Arsenal,2021-12-06,Everton,Arsenal,H,A,1.1262404055941329
+2021-2022_Brentford_Watford,2021-12-10,Brentford,Watford,H,H,0.6605522501557227
+2021-2022_Arsenal_Southampton,2021-12-11,Arsenal,Southampton,H,H,0.5709835601470022
+2021-2022_Chelsea_Leeds,2021-12-11,Chelsea,Leeds,H,H,0.49354256779136213
+2021-2022_Liverpool_Aston Villa,2021-12-11,Liverpool,Aston Villa,H,H,0.3126258197976033
+2021-2022_Man City_Wolves,2021-12-11,Man City,Wolves,H,H,0.31799447880351134
+2021-2022_Norwich_Man United,2021-12-11,Norwich,Man United,A,A,0.4652508482130936
+2021-2022_Burnley_West Ham,2021-12-12,Burnley,West Ham,D,A,1.4737719283678963
+2021-2022_Crystal Palace_Everton,2021-12-12,Crystal Palace,Everton,H,H,0.8002368207055635
+2021-2022_Leicester_Newcastle,2021-12-12,Leicester,Newcastle,H,H,0.6036751235325146
+2021-2022_Man City_Leeds,2021-12-14,Man City,Leeds,H,H,0.3398131544511435
+2021-2022_Norwich_Aston Villa,2021-12-14,Norwich,Aston Villa,A,A,0.6958516921562612
+2021-2022_Arsenal_West Ham,2021-12-15,Arsenal,West Ham,H,H,0.8061899353580156
+2021-2022_Brighton_Wolves,2021-12-15,Brighton,Wolves,A,H,1.2066379298339713
+2021-2022_Crystal Palace_Southampton,2021-12-15,Crystal Palace,Southampton,D,H,1.4644179532715125
+2021-2022_Chelsea_Everton,2021-12-16,Chelsea,Everton,D,H,1.6318549434539298
+2021-2022_Liverpool_Newcastle,2021-12-16,Liverpool,Newcastle,H,H,0.24162222660035787
+2021-2022_Leeds_Arsenal,2021-12-18,Leeds,Arsenal,A,A,0.784495295880131
+2021-2022_Newcastle_Man City,2021-12-19,Newcastle,Man City,A,A,0.2936611928301951
+2021-2022_Tottenham_Liverpool,2021-12-19,Tottenham,Liverpool,D,A,1.4784853194939291
+2021-2022_Wolves_Chelsea,2021-12-19,Wolves,Chelsea,D,A,1.5388146936638638
+2021-2022_Aston Villa_Chelsea,2021-12-26,Aston Villa,Chelsea,A,A,0.7313684555815372
+2021-2022_Brighton_Brentford,2021-12-26,Brighton,Brentford,H,H,0.8394864227262884
+2021-2022_Man City_Leicester,2021-12-26,Man City,Leicester,H,H,0.34067516186697255
+2021-2022_Norwich_Arsenal,2021-12-26,Norwich,Arsenal,A,A,0.38898675608342165
+2021-2022_Tottenham_Crystal Palace,2021-12-26,Tottenham,Crystal Palace,H,H,0.5363776205319727
+2021-2022_West Ham_Southampton,2021-12-26,West Ham,Southampton,A,H,1.6550415694415999
+2021-2022_Newcastle_Man United,2021-12-27,Newcastle,Man United,D,A,1.5192045163367525
+2021-2022_Crystal Palace_Norwich,2021-12-28,Crystal Palace,Norwich,H,H,0.4256480725995608
+2021-2022_Leicester_Liverpool,2021-12-28,Leicester,Liverpool,H,A,1.3885525236216956
+2021-2022_Southampton_Tottenham,2021-12-28,Southampton,Tottenham,D,A,1.430762356314968
+2021-2022_Watford_West Ham,2021-12-28,Watford,West Ham,A,A,0.8147858676631483
+2021-2022_Brentford_Man City,2021-12-29,Brentford,Man City,A,A,0.30237314363415596
+2021-2022_Chelsea_Brighton,2021-12-29,Chelsea,Brighton,D,H,1.4908830754487215
+2021-2022_Man United_Burnley,2021-12-30,Man United,Burnley,H,H,0.4756720126585488
+2021-2022_Arsenal_Man City,2022-01-01,Arsenal,Man City,A,A,0.6610915769736702
+2021-2022_Crystal Palace_West Ham,2022-01-01,Crystal Palace,West Ham,A,A,0.8996761106177481
+2021-2022_Watford_Tottenham,2022-01-01,Watford,Tottenham,A,A,0.538263041284422
+2021-2022_Brentford_Aston Villa,2022-01-02,Brentford,Aston Villa,H,H,0.8787938438741627
+2021-2022_Chelsea_Liverpool,2022-01-02,Chelsea,Liverpool,D,H,1.4173542551485365
+2021-2022_Everton_Brighton,2022-01-02,Everton,Brighton,A,H,1.2061805869625968
+2021-2022_Leeds_Burnley,2022-01-02,Leeds,Burnley,H,H,0.7535018888004188
+2021-2022_Man United_Wolves,2022-01-03,Man United,Wolves,A,H,1.7379110401365518
+2021-2022_Southampton_Brentford,2022-01-11,Southampton,Brentford,H,H,0.768532167521037
+2021-2022_West Ham_Norwich,2022-01-12,West Ham,Norwich,H,H,0.2669177678123326
+2021-2022_Brighton_Crystal Palace,2022-01-14,Brighton,Crystal Palace,D,H,1.4665671273331278
+2021-2022_Aston Villa_Man United,2022-01-15,Aston Villa,Man United,D,A,1.4234905277103143
+2021-2022_Man City_Chelsea,2022-01-15,Man City,Chelsea,H,H,0.4337320074506514
+2021-2022_Newcastle_Watford,2022-01-15,Newcastle,Watford,D,H,1.3985095032377486
+2021-2022_Norwich_Everton,2022-01-15,Norwich,Everton,H,A,1.5906533310495514
+2021-2022_Wolves_Southampton,2022-01-15,Wolves,Southampton,H,H,0.7110453477424381
+2021-2022_Liverpool_Brentford,2022-01-16,Liverpool,Brentford,H,H,0.3071504028832035
+2021-2022_West Ham_Leeds,2022-01-16,West Ham,Leeds,A,H,1.5726835282986487
+2021-2022_Brighton_Chelsea,2022-01-18,Brighton,Chelsea,D,A,1.4110336518840167
+2021-2022_Brentford_Man United,2022-01-19,Brentford,Man United,A,A,0.634399603615428
+2021-2022_Leicester_Tottenham,2022-01-19,Leicester,Tottenham,A,H,1.0212016548912666
+2021-2022_Watford_Norwich,2022-01-21,Watford,Norwich,A,H,1.527642109044992
+2021-2022_Brentford_Wolves,2022-01-22,Brentford,Wolves,A,A,0.8355573703281391
+2021-2022_Everton_Aston Villa,2022-01-22,Everton,Aston Villa,A,H,1.2062622927216617
+2021-2022_Leeds_Newcastle,2022-01-22,Leeds,Newcastle,A,H,1.5591186811902598
+2021-2022_Man United_West Ham,2022-01-22,Man United,West Ham,H,H,0.6760987002227393
+2021-2022_Southampton_Man City,2022-01-22,Southampton,Man City,D,A,1.6591958465739016
+2021-2022_Arsenal_Burnley,2022-01-23,Arsenal,Burnley,D,H,1.622536404846602
+2021-2022_Chelsea_Tottenham,2022-01-23,Chelsea,Tottenham,H,H,0.7308365794661554
+2021-2022_Crystal Palace_Liverpool,2022-01-23,Crystal Palace,Liverpool,A,A,0.5289720713383308
+2021-2022_Leicester_Brighton,2022-01-23,Leicester,Brighton,D,H,1.358488011584194
+2021-2022_Burnley_Watford,2022-02-05,Burnley,Watford,D,H,1.4914396842702797
+2021-2022_Burnley_Man United,2022-02-08,Burnley,Man United,D,A,1.5797111012951193
+2021-2022_Newcastle_Everton,2022-02-08,Newcastle,Everton,H,H,0.8862952567229476
+2021-2022_West Ham_Watford,2022-02-08,West Ham,Watford,H,H,0.37250942650030067
+2021-2022_Aston Villa_Leeds,2022-02-09,Aston Villa,Leeds,D,H,1.514171934226238
+2021-2022_Man City_Brentford,2022-02-09,Man City,Brentford,H,H,0.22481396304991844
+2021-2022_Norwich_Crystal Palace,2022-02-09,Norwich,Crystal Palace,D,A,1.4029973266358193
+2021-2022_Tottenham_Southampton,2022-02-09,Tottenham,Southampton,A,H,1.5627909794049866
+2021-2022_Liverpool_Leicester,2022-02-10,Liverpool,Leicester,H,H,0.43667841182971007
+2021-2022_Wolves_Arsenal,2022-02-10,Wolves,Arsenal,A,A,0.918801816450026
+2021-2022_Brentford_Crystal Palace,2022-02-12,Brentford,Crystal Palace,D,A,1.3584517504560478
+2021-2022_Everton_Leeds,2022-02-12,Everton,Leeds,H,H,0.9482128598114664
+2021-2022_Man United_Southampton,2022-02-12,Man United,Southampton,D,H,1.5269416734488845
+2021-2022_Norwich_Man City,2022-02-12,Norwich,Man City,A,A,0.2728452884270272
+2021-2022_Watford_Brighton,2022-02-12,Watford,Brighton,A,A,0.6812976595275992
+2021-2022_Burnley_Liverpool,2022-02-13,Burnley,Liverpool,A,A,0.4148837321129185
+2021-2022_Leicester_West Ham,2022-02-13,Leicester,West Ham,D,H,1.3802434572849418
+2021-2022_Newcastle_Aston Villa,2022-02-13,Newcastle,Aston Villa,H,H,0.8863375255748919
+2021-2022_Tottenham_Wolves,2022-02-13,Tottenham,Wolves,A,H,1.3303711636288214
+2021-2022_Man United_Brighton,2022-02-15,Man United,Brighton,H,H,0.568017006243872
+2021-2022_Arsenal_Brentford,2022-02-19,Arsenal,Brentford,H,H,0.3663168201643006
+2021-2022_Aston Villa_Watford,2022-02-19,Aston Villa,Watford,A,H,1.692653291527437
+2021-2022_Brighton_Burnley,2022-02-19,Brighton,Burnley,A,H,1.4883500539717558
+2021-2022_Crystal Palace_Chelsea,2022-02-19,Crystal Palace,Chelsea,A,A,0.6248450462360683
+2021-2022_Liverpool_Norwich,2022-02-19,Liverpool,Norwich,H,H,0.20132267065536752
+2021-2022_Man City_Tottenham,2022-02-19,Man City,Tottenham,A,H,2.226047942875456
+2021-2022_Southampton_Everton,2022-02-19,Southampton,Everton,H,H,0.683061458832716
+2021-2022_West Ham_Newcastle,2022-02-19,West Ham,Newcastle,D,H,1.4502598320637894
+2021-2022_Leeds_Man United,2022-02-20,Leeds,Man United,A,A,0.7739638898587017
+2021-2022_Wolves_Leicester,2022-02-20,Wolves,Leicester,H,H,0.7348357186570122
+2021-2022_Burnley_Tottenham,2022-02-23,Burnley,Tottenham,H,A,1.085832243238456
+2021-2022_Liverpool_Leeds,2022-02-23,Liverpool,Leeds,H,H,0.30408475326041057
+2021-2022_Watford_Crystal Palace,2022-02-23,Watford,Crystal Palace,A,A,0.9073827261218258
+2021-2022_Arsenal_Wolves,2022-02-24,Arsenal,Wolves,H,H,0.6475677598782161
+2021-2022_Southampton_Norwich,2022-02-25,Southampton,Norwich,H,H,0.43917761757417856
+2021-2022_Brentford_Newcastle,2022-02-26,Brentford,Newcastle,A,A,0.969400152716624
+2021-2022_Brighton_Aston Villa,2022-02-26,Brighton,Aston Villa,A,H,1.2409147546731736
+2021-2022_Crystal Palace_Burnley,2022-02-26,Crystal Palace,Burnley,D,H,1.3901338979194138
+2021-2022_Everton_Man City,2022-02-26,Everton,Man City,A,A,0.39450437231337315
+2021-2022_Leeds_Tottenham,2022-02-26,Leeds,Tottenham,A,A,0.8570573145346564
+2021-2022_Man United_Watford,2022-02-26,Man United,Watford,D,H,1.7626652263147689
+2021-2022_West Ham_Wolves,2022-02-27,West Ham,Wolves,H,H,0.7585544112880825
+2021-2022_Burnley_Leicester,2022-03-01,Burnley,Leicester,A,H,1.0033076156960674
+2021-2022_Aston Villa_Southampton,2022-03-05,Aston Villa,Southampton,H,H,0.9588842088544303
+2021-2022_Burnley_Chelsea,2022-03-05,Burnley,Chelsea,A,A,0.5962142533700135
+2021-2022_Leicester_Leeds,2022-03-05,Leicester,Leeds,H,H,0.5126176039279075
+2021-2022_Liverpool_West Ham,2022-03-05,Liverpool,West Ham,H,H,0.3890193388295769
+2021-2022_Newcastle_Brighton,2022-03-05,Newcastle,Brighton,H,H,0.6966832556344134
+2021-2022_Norwich_Brentford,2022-03-05,Norwich,Brentford,A,A,0.9337621504645152
+2021-2022_Wolves_Crystal Palace,2022-03-05,Wolves,Crystal Palace,A,H,1.3743071986308282
+2021-2022_Man City_Man United,2022-03-06,Man City,Man United,H,H,0.5112393536319575
+2021-2022_Watford_Arsenal,2022-03-06,Watford,Arsenal,A,A,0.5189017583924079
+2021-2022_Tottenham_Everton,2022-03-07,Tottenham,Everton,H,H,0.50944251012099
+2021-2022_Leeds_Aston Villa,2022-03-10,Leeds,Aston Villa,A,A,0.836350440033907
+2021-2022_Norwich_Chelsea,2022-03-10,Norwich,Chelsea,A,A,0.3151157747279653
+2021-2022_Southampton_Newcastle,2022-03-10,Southampton,Newcastle,A,H,1.1703603174303274
+2021-2022_Wolves_Watford,2022-03-10,Wolves,Watford,H,H,0.47002414296302875
+2021-2022_Brentford_Burnley,2022-03-12,Brentford,Burnley,H,H,0.8229826781240767
+2021-2022_Brighton_Liverpool,2022-03-12,Brighton,Liverpool,A,A,0.38549710854355324
+2021-2022_Man United_Tottenham,2022-03-12,Man United,Tottenham,H,H,0.7824301714538393
+2021-2022_Arsenal_Leicester,2022-03-13,Arsenal,Leicester,H,H,0.6312080859262498
+2021-2022_Chelsea_Newcastle,2022-03-13,Chelsea,Newcastle,H,H,0.4277267486260056
+2021-2022_Everton_Wolves,2022-03-13,Everton,Wolves,A,A,0.8463031184176779
+2021-2022_Leeds_Norwich,2022-03-13,Leeds,Norwich,H,H,0.5697611699367202
+2021-2022_Southampton_Watford,2022-03-13,Southampton,Watford,A,H,1.7360301371723803
+2021-2022_West Ham_Aston Villa,2022-03-13,West Ham,Aston Villa,H,H,0.6866048943787026
+2021-2022_Crystal Palace_Man City,2022-03-14,Crystal Palace,Man City,D,A,1.6529707278829118
+2021-2022_Arsenal_Liverpool,2022-03-16,Arsenal,Liverpool,A,A,0.7465746179461374
+2021-2022_Brighton_Tottenham,2022-03-16,Brighton,Tottenham,A,A,0.6081676482635904
+2021-2022_Everton_Newcastle,2022-03-17,Everton,Newcastle,H,A,1.0576380749298917
+2021-2022_Wolves_Leeds,2022-03-18,Wolves,Leeds,A,H,1.7680928197571915
+2021-2022_Aston Villa_Arsenal,2022-03-19,Aston Villa,Arsenal,A,A,0.8956190706920708
+2021-2022_Leicester_Brentford,2022-03-20,Leicester,Brentford,H,H,0.6176738849546043
+2021-2022_Tottenham_West Ham,2022-03-20,Tottenham,West Ham,H,H,0.6654787773603672
+2021-2022_Brighton_Norwich,2022-04-02,Brighton,Norwich,D,H,1.5162422145372978
+2021-2022_Burnley_Man City,2022-04-02,Burnley,Man City,A,A,0.31649160727093745
+2021-2022_Chelsea_Brentford,2022-04-02,Chelsea,Brentford,A,H,2.30079851272441
+2021-2022_Leeds_Southampton,2022-04-02,Leeds,Southampton,D,H,1.373975955374404
+2021-2022_Liverpool_Watford,2022-04-02,Liverpool,Watford,H,H,0.1818965765712623
+2021-2022_Man United_Leicester,2022-04-02,Man United,Leicester,D,H,1.4472259203000828
+2021-2022_Wolves_Aston Villa,2022-04-02,Wolves,Aston Villa,H,H,0.7660664985212126
+2021-2022_Tottenham_Newcastle,2022-04-03,Tottenham,Newcastle,H,H,0.4606426367806704
+2021-2022_West Ham_Everton,2022-04-03,West Ham,Everton,H,H,0.5039962043245364
+2021-2022_Crystal Palace_Arsenal,2022-04-04,Crystal Palace,Arsenal,H,A,1.1232461583901507
+2021-2022_Burnley_Everton,2022-04-06,Burnley,Everton,H,H,0.852168593075603
+2021-2022_Newcastle_Wolves,2022-04-08,Newcastle,Wolves,H,A,1.0677827605187369
+2021-2022_Arsenal_Brighton,2022-04-09,Arsenal,Brighton,A,H,1.8553268035402324
+2021-2022_Aston Villa_Tottenham,2022-04-09,Aston Villa,Tottenham,A,A,0.6922308665427784
+2021-2022_Everton_Man United,2022-04-09,Everton,Man United,H,A,1.5724353630419756
+2021-2022_Southampton_Chelsea,2022-04-09,Southampton,Chelsea,A,A,0.610998665987988
+2021-2022_Watford_Leeds,2022-04-09,Watford,Leeds,A,A,0.8670598472777691
+2021-2022_Brentford_West Ham,2022-04-10,Brentford,West Ham,H,A,1.0117349955128307
+2021-2022_Leicester_Crystal Palace,2022-04-10,Leicester,Crystal Palace,H,H,0.7673999424088712
+2021-2022_Man City_Liverpool,2022-04-10,Man City,Liverpool,D,H,1.403457691827453
+2021-2022_Norwich_Burnley,2022-04-10,Norwich,Burnley,H,A,1.0516899088999492
+2021-2022_Man United_Norwich,2022-04-16,Man United,Norwich,H,H,0.3190581761010614
+2021-2022_Southampton_Arsenal,2022-04-16,Southampton,Arsenal,H,A,1.2918303816986083
+2021-2022_Tottenham_Brighton,2022-04-16,Tottenham,Brighton,A,H,2.084225042139446
+2021-2022_Watford_Brentford,2022-04-16,Watford,Brentford,A,A,0.698074948729719
+2021-2022_Newcastle_Leicester,2022-04-17,Newcastle,Leicester,H,A,1.037267820598406
+2021-2022_West Ham_Burnley,2022-04-17,West Ham,Burnley,D,H,1.5302682188909043
+2021-2022_Liverpool_Man United,2022-04-19,Liverpool,Man United,H,H,0.43346556903526035
+2021-2022_Chelsea_Arsenal,2022-04-20,Chelsea,Arsenal,A,H,1.8855960548014719
+2021-2022_Everton_Leicester,2022-04-20,Everton,Leicester,D,A,1.4403969715644849
+2021-2022_Man City_Brighton,2022-04-20,Man City,Brighton,H,H,0.2591709884126209
+2021-2022_Newcastle_Crystal Palace,2022-04-20,Newcastle,Crystal Palace,H,H,0.9768338965654665
+2021-2022_Burnley_Southampton,2022-04-21,Burnley,Southampton,H,H,0.891440889069864
+2021-2022_Arsenal_Man United,2022-04-23,Arsenal,Man United,H,H,0.833246342648923
+2021-2022_Brentford_Tottenham,2022-04-23,Brentford,Tottenham,D,A,1.4142776492147853
+2021-2022_Leicester_Aston Villa,2022-04-23,Leicester,Aston Villa,D,H,1.3984468223624869
+2021-2022_Man City_Watford,2022-04-23,Man City,Watford,H,H,0.1639954150599163
+2021-2022_Norwich_Newcastle,2022-04-23,Norwich,Newcastle,A,A,0.7409312155123912
+2021-2022_Brighton_Southampton,2022-04-24,Brighton,Southampton,D,H,1.4401053992530917
+2021-2022_Burnley_Wolves,2022-04-24,Burnley,Wolves,H,A,1.1768572860627509
+2021-2022_Chelsea_West Ham,2022-04-24,Chelsea,West Ham,H,H,0.5474790795822586
+2021-2022_Liverpool_Everton,2022-04-24,Liverpool,Everton,H,H,0.2551775397412595
+2021-2022_Crystal Palace_Leeds,2022-04-25,Crystal Palace,Leeds,D,H,1.4013678170651562
+2021-2022_Man United_Chelsea,2022-04-28,Man United,Chelsea,D,A,1.4165650405373453
+2021-2022_Aston Villa_Norwich,2022-04-30,Aston Villa,Norwich,H,H,0.5384504140808108
+2021-2022_Leeds_Man City,2022-04-30,Leeds,Man City,A,A,0.43298932652523786
+2021-2022_Newcastle_Liverpool,2022-04-30,Newcastle,Liverpool,A,A,0.4734888716407869
+2021-2022_Southampton_Crystal Palace,2022-04-30,Southampton,Crystal Palace,A,H,1.047736492565002
+2021-2022_Watford_Burnley,2022-04-30,Watford,Burnley,A,A,0.7848408041819311
+2021-2022_Wolves_Brighton,2022-04-30,Wolves,Brighton,A,H,1.2946741532678896
+2021-2022_Everton_Chelsea,2022-05-01,Everton,Chelsea,H,A,1.4937311938446776
+2021-2022_Tottenham_Leicester,2022-05-01,Tottenham,Leicester,H,H,0.5928440960855047
+2021-2022_West Ham_Arsenal,2022-05-01,West Ham,Arsenal,A,A,0.9311849270007244
+2021-2022_Man United_Brentford,2022-05-02,Man United,Brentford,H,H,0.6755965250221022
+2021-2022_Brentford_Southampton,2022-05-07,Brentford,Southampton,H,H,0.6659747903743689
+2021-2022_Brighton_Man United,2022-05-07,Brighton,Man United,H,A,1.0611981338472292
+2021-2022_Burnley_Aston Villa,2022-05-07,Burnley,Aston Villa,A,H,1.2491912645474184
+2021-2022_Chelsea_Wolves,2022-05-07,Chelsea,Wolves,D,H,1.5636689115932874
+2021-2022_Crystal Palace_Watford,2022-05-07,Crystal Palace,Watford,H,H,0.4177777315762339
+2021-2022_Liverpool_Tottenham,2022-05-07,Liverpool,Tottenham,D,H,1.519804482933152
+2021-2022_Arsenal_Leeds,2022-05-08,Arsenal,Leeds,H,H,0.5091256483430051
+2021-2022_Leicester_Everton,2022-05-08,Leicester,Everton,A,H,1.4341464343914736
+2021-2022_Man City_Newcastle,2022-05-08,Man City,Newcastle,H,H,0.2799206104914396
+2021-2022_Norwich_West Ham,2022-05-08,Norwich,West Ham,A,A,0.6040022554678627
+2021-2022_Aston Villa_Liverpool,2022-05-10,Aston Villa,Liverpool,A,A,0.43566972333500315
+2021-2022_Leeds_Chelsea,2022-05-11,Leeds,Chelsea,A,A,0.7261562796563398
+2021-2022_Leicester_Norwich,2022-05-11,Leicester,Norwich,H,H,0.3627164615695857
+2021-2022_Watford_Everton,2022-05-11,Watford,Everton,D,A,1.4213019046278041
+2021-2022_Wolves_Man City,2022-05-11,Wolves,Man City,A,A,0.3337473214249278
+2021-2022_Tottenham_Arsenal,2022-05-12,Tottenham,Arsenal,H,H,0.7892301046044948
+2021-2022_Aston Villa_Crystal Palace,2022-05-15,Aston Villa,Crystal Palace,D,H,1.35739189570888
+2021-2022_Everton_Brentford,2022-05-15,Everton,Brentford,A,H,1.0975736799841782
+2021-2022_Leeds_Brighton,2022-05-15,Leeds,Brighton,D,A,1.3867686194739315
+2021-2022_Tottenham_Burnley,2022-05-15,Tottenham,Burnley,H,H,0.46917261694716983
+2021-2022_Watford_Leicester,2022-05-15,Watford,Leicester,A,A,0.63425603531287
+2021-2022_West Ham_Man City,2022-05-15,West Ham,Man City,D,A,1.7182195303354355
+2021-2022_Wolves_Norwich,2022-05-15,Wolves,Norwich,D,H,1.6271071425752848
+2021-2022_Newcastle_Arsenal,2022-05-16,Newcastle,Arsenal,H,A,1.1332646043198866
+2021-2022_Southampton_Liverpool,2022-05-17,Southampton,Liverpool,A,A,0.37103719194096085
+2021-2022_Aston Villa_Burnley,2022-05-19,Aston Villa,Burnley,D,H,1.447274865582448
+2021-2022_Chelsea_Leicester,2022-05-19,Chelsea,Leicester,D,H,1.5084165773584337
+2021-2022_Everton_Crystal Palace,2022-05-19,Everton,Crystal Palace,H,H,0.9190624757945847
+2021-2022_Arsenal_Everton,2022-05-22,Arsenal,Everton,H,H,0.5603561796311236
+2021-2022_Brentford_Leeds,2022-05-22,Brentford,Leeds,A,H,1.4360829653776006
+2021-2022_Brighton_West Ham,2022-05-22,Brighton,West Ham,H,H,0.8910696826189322
+2021-2022_Burnley_Newcastle,2022-05-22,Burnley,Newcastle,A,A,0.968176188492829
+2021-2022_Chelsea_Watford,2022-05-22,Chelsea,Watford,H,H,0.25807907301588445
+2021-2022_Crystal Palace_Man United,2022-05-22,Crystal Palace,Man United,H,A,1.0641618603944771
+2021-2022_Leicester_Southampton,2022-05-22,Leicester,Southampton,H,H,0.5245969077602897
+2021-2022_Liverpool_Wolves,2022-05-22,Liverpool,Wolves,H,H,0.2932754935599737
+2021-2022_Man City_Aston Villa,2022-05-22,Man City,Aston Villa,H,H,0.22477985057100666
+2021-2022_Norwich_Tottenham,2022-05-22,Norwich,Tottenham,A,A,0.33993257000956206
+2022-2023_Crystal Palace_Arsenal,2022-08-05,Crystal Palace,Arsenal,A,A,0.865923375548514
+2022-2023_Bournemouth_Aston Villa,2022-08-06,Bournemouth,Aston Villa,H,H,0.9666629364062778
+2022-2023_Everton_Chelsea,2022-08-06,Everton,Chelsea,A,A,0.6490400649869686
+2022-2023_Fulham_Liverpool,2022-08-06,Fulham,Liverpool,D,A,1.8592378969601122
+2022-2023_Leeds_Wolves,2022-08-06,Leeds,Wolves,H,H,0.8276214770291823
+2022-2023_Tottenham_Southampton,2022-08-06,Tottenham,Southampton,H,H,0.3387412274868695
+2022-2023_Leicester_Brentford,2022-08-07,Leicester,Brentford,D,H,1.472968528903753
+2022-2023_Man United_Brighton,2022-08-07,Man United,Brighton,A,H,1.1819984558785108
+2022-2023_West Ham_Man City,2022-08-07,West Ham,Man City,A,A,0.4203186013075212
+2022-2023_Arsenal_Leicester,2022-08-13,Arsenal,Leicester,H,H,0.7439899794627644
+2022-2023_Aston Villa_Everton,2022-08-13,Aston Villa,Everton,H,H,0.7608392053036737
+2022-2023_Brentford_Man United,2022-08-13,Brentford,Man United,H,A,1.008873991217656
+2022-2023_Brighton_Newcastle,2022-08-13,Brighton,Newcastle,D,H,1.4347273130970442
+2022-2023_Man City_Bournemouth,2022-08-13,Man City,Bournemouth,H,H,0.21351677985136377
+2022-2023_Southampton_Leeds,2022-08-13,Southampton,Leeds,D,A,1.3787272499822338
+2022-2023_Wolves_Fulham,2022-08-13,Wolves,Fulham,D,H,1.4373151131675228
+2022-2023_Chelsea_Tottenham,2022-08-14,Chelsea,Tottenham,D,H,1.4008419919384152
+2022-2023_Liverpool_Crystal Palace,2022-08-15,Liverpool,Crystal Palace,D,H,1.7086369378987778
+2022-2023_Bournemouth_Arsenal,2022-08-20,Bournemouth,Arsenal,A,A,0.5626809242270203
+2022-2023_Crystal Palace_Aston Villa,2022-08-20,Crystal Palace,Aston Villa,H,H,0.753043444012865
+2022-2023_Fulham_Brentford,2022-08-20,Fulham,Brentford,H,A,1.2597366257317049
+2022-2023_Leicester_Southampton,2022-08-20,Leicester,Southampton,A,H,1.8583842352363786
+2022-2023_Tottenham_Wolves,2022-08-20,Tottenham,Wolves,H,H,0.37441281703413676
+2022-2023_Leeds_Chelsea,2022-08-21,Leeds,Chelsea,H,A,1.3557746472077428
+2022-2023_Newcastle_Man City,2022-08-21,Newcastle,Man City,D,A,1.6322898783166786
+2022-2023_West Ham_Brighton,2022-08-21,West Ham,Brighton,A,H,1.0492301407801279
+2022-2023_Man United_Liverpool,2022-08-22,Man United,Liverpool,H,A,1.584087148777782
+2022-2023_Arsenal_Fulham,2022-08-27,Arsenal,Fulham,H,H,0.34433979619204136
+2022-2023_Brentford_Everton,2022-08-27,Brentford,Everton,D,H,1.4389497279483165
+2022-2023_Brighton_Leeds,2022-08-27,Brighton,Leeds,H,H,0.7188125783132405
+2022-2023_Chelsea_Leicester,2022-08-27,Chelsea,Leicester,H,H,0.6040789389365973
+2022-2023_Liverpool_Bournemouth,2022-08-27,Liverpool,Bournemouth,H,H,0.2402967757144991
+2022-2023_Man City_Crystal Palace,2022-08-27,Man City,Crystal Palace,H,H,0.2937315610396302
+2022-2023_Southampton_Man United,2022-08-27,Southampton,Man United,A,A,0.9064738996786016
+2022-2023_Aston Villa_West Ham,2022-08-28,Aston Villa,West Ham,A,H,1.097764384387986
+2022-2023_Wolves_Newcastle,2022-08-28,Wolves,Newcastle,D,A,1.4350089326501638
+2022-2023_Crystal Palace_Brentford,2022-08-30,Crystal Palace,Brentford,D,H,1.3851607529093013
+2022-2023_Fulham_Brighton,2022-08-30,Fulham,Brighton,H,A,1.318479947203742
+2022-2023_Leeds_Everton,2022-08-30,Leeds,Everton,D,H,1.431041191721915
+2022-2023_Southampton_Chelsea,2022-08-30,Southampton,Chelsea,H,A,1.4509130712881229
+2022-2023_Arsenal_Aston Villa,2022-08-31,Arsenal,Aston Villa,H,H,0.3522124138444943
+2022-2023_Bournemouth_Wolves,2022-08-31,Bournemouth,Wolves,D,A,1.3083872252739503
+2022-2023_Liverpool_Newcastle,2022-08-31,Liverpool,Newcastle,H,H,0.3528088120026834
+2022-2023_West Ham_Tottenham,2022-08-31,West Ham,Tottenham,D,A,1.494691493106315
+2022-2023_Leicester_Man United,2022-09-01,Leicester,Man United,A,H,1.0734056604147348
+2022-2023_Aston Villa_Man City,2022-09-03,Aston Villa,Man City,D,A,1.871392255637478
+2022-2023_Brentford_Leeds,2022-09-03,Brentford,Leeds,H,H,0.7954379477059002
+2022-2023_Chelsea_West Ham,2022-09-03,Chelsea,West Ham,H,H,0.570260639459308
+2022-2023_Everton_Liverpool,2022-09-03,Everton,Liverpool,D,A,1.70407911352796
+2022-2023_Newcastle_Crystal Palace,2022-09-03,Newcastle,Crystal Palace,D,H,1.4421118602944742
+2022-2023_Nott'm Forest_Bournemouth,2022-09-03,Nott'm Forest,Bournemouth,A,H,1.4933841217819945
+2022-2023_Tottenham_Fulham,2022-09-03,Tottenham,Fulham,H,H,0.36049791729620684
+2022-2023_Wolves_Southampton,2022-09-03,Wolves,Southampton,H,H,0.7346309577675654
+2022-2023_Brighton_Leicester,2022-09-04,Brighton,Leicester,H,H,0.6702603358888208
+2022-2023_Man United_Arsenal,2022-09-04,Man United,Arsenal,H,A,1.068097316115312
+2022-2023_Aston Villa_Southampton,2022-09-16,Aston Villa,Southampton,H,H,0.8137076490446321
+2022-2023_Nott'm Forest_Fulham,2022-09-16,Nott'm Forest,Fulham,A,H,1.229811024720668
+2022-2023_Newcastle_Bournemouth,2022-09-17,Newcastle,Bournemouth,D,H,1.7086303788571147
+2022-2023_Tottenham_Leicester,2022-09-17,Tottenham,Leicester,H,H,0.41901752199336145
+2022-2023_Wolves_Man City,2022-09-17,Wolves,Man City,A,A,0.3655017270620292
+2022-2023_Brentford_Arsenal,2022-09-18,Brentford,Arsenal,A,A,0.8497210195403002
+2022-2023_Everton_West Ham,2022-09-18,Everton,West Ham,H,H,0.8645911817446871
+2022-2023_Arsenal_Tottenham,2022-10-01,Arsenal,Tottenham,H,H,0.8734153429061104
+2022-2023_Bournemouth_Brentford,2022-10-01,Bournemouth,Brentford,D,A,1.360239486122937
+2022-2023_Crystal Palace_Chelsea,2022-10-01,Crystal Palace,Chelsea,A,A,0.8653167990446959
+2022-2023_Fulham_Newcastle,2022-10-01,Fulham,Newcastle,A,A,0.8378730245708773
+2022-2023_Liverpool_Brighton,2022-10-01,Liverpool,Brighton,D,H,1.6674060046033898
+2022-2023_Southampton_Everton,2022-10-01,Southampton,Everton,A,H,1.0397121662126751
+2022-2023_West Ham_Wolves,2022-10-01,West Ham,Wolves,H,H,0.7363049250620277
+2022-2023_Leeds_Aston Villa,2022-10-02,Leeds,Aston Villa,D,H,1.4172275378017898
+2022-2023_Man City_Man United,2022-10-02,Man City,Man United,H,H,0.33264001491847195
+2022-2023_Leicester_Nott'm Forest,2022-10-03,Leicester,Nott'm Forest,H,H,0.6855791964896224
+2022-2023_Bournemouth_Leicester,2022-10-08,Bournemouth,Leicester,H,A,1.046997728956092
+2022-2023_Brighton_Tottenham,2022-10-08,Brighton,Tottenham,A,A,0.9086904294560079
+2022-2023_Chelsea_Wolves,2022-10-08,Chelsea,Wolves,H,H,0.4744392085772159
+2022-2023_Man City_Southampton,2022-10-08,Man City,Southampton,H,H,0.18942423399489017
+2022-2023_Newcastle_Brentford,2022-10-08,Newcastle,Brentford,H,H,0.6436075568552284
+2022-2023_Arsenal_Liverpool,2022-10-09,Arsenal,Liverpool,H,A,1.2168071196273753
+2022-2023_Crystal Palace_Leeds,2022-10-09,Crystal Palace,Leeds,H,H,0.7567225307197474
+2022-2023_Everton_Man United,2022-10-09,Everton,Man United,A,A,0.8712222370873175
+2022-2023_West Ham_Fulham,2022-10-09,West Ham,Fulham,H,H,0.5249078580870994
+2022-2023_Nott'm Forest_Aston Villa,2022-10-10,Nott'm Forest,Aston Villa,D,A,1.317103298139826
+2022-2023_Brentford_Brighton,2022-10-14,Brentford,Brighton,H,A,1.051552675959183
+2022-2023_Fulham_Bournemouth,2022-10-15,Fulham,Bournemouth,D,A,1.3402515198834184
+2022-2023_Leicester_Crystal Palace,2022-10-15,Leicester,Crystal Palace,D,H,1.3699599465129815
+2022-2023_Tottenham_Everton,2022-10-15,Tottenham,Everton,H,H,0.44481668499230126
+2022-2023_Wolves_Nott'm Forest,2022-10-15,Wolves,Nott'm Forest,H,H,0.6627462918023117
+2022-2023_Aston Villa_Chelsea,2022-10-16,Aston Villa,Chelsea,A,A,0.6751356434928303
+2022-2023_Leeds_Arsenal,2022-10-16,Leeds,Arsenal,A,A,0.6183020416984679
+2022-2023_Liverpool_Man City,2022-10-16,Liverpool,Man City,H,A,1.0644613368678677
+2022-2023_Man United_Newcastle,2022-10-16,Man United,Newcastle,D,H,1.345390099493549
+2022-2023_Southampton_West Ham,2022-10-16,Southampton,West Ham,D,A,1.391123485171338
+2022-2023_Brighton_Nott'm Forest,2022-10-18,Brighton,Nott'm Forest,D,H,1.5144638105943795
+2022-2023_Crystal Palace_Wolves,2022-10-18,Crystal Palace,Wolves,H,H,0.6091679751600171
+2022-2023_Bournemouth_Southampton,2022-10-19,Bournemouth,Southampton,A,H,1.3450830604521142
+2022-2023_Brentford_Chelsea,2022-10-19,Brentford,Chelsea,D,A,1.4513120609386891
+2022-2023_Liverpool_West Ham,2022-10-19,Liverpool,West Ham,H,H,0.4099782860861027
+2022-2023_Man United_Tottenham,2022-10-19,Man United,Tottenham,H,A,0.992632007282853
+2022-2023_Newcastle_Everton,2022-10-19,Newcastle,Everton,H,H,0.523212299525684
+2022-2023_Fulham_Aston Villa,2022-10-20,Fulham,Aston Villa,H,A,1.0183187822612039
+2022-2023_Leicester_Leeds,2022-10-20,Leicester,Leeds,H,H,0.7540905890464434
+2022-2023_Chelsea_Man United,2022-10-22,Chelsea,Man United,D,H,1.4495063519231761
+2022-2023_Everton_Crystal Palace,2022-10-22,Everton,Crystal Palace,H,H,0.9823400977205213
+2022-2023_Man City_Brighton,2022-10-22,Man City,Brighton,H,H,0.2979015901024088
+2022-2023_Nott'm Forest_Liverpool,2022-10-22,Nott'm Forest,Liverpool,H,A,1.9535488008037754
+2022-2023_Aston Villa_Brentford,2022-10-23,Aston Villa,Brentford,H,H,0.8829449916035313
+2022-2023_Leeds_Fulham,2022-10-23,Leeds,Fulham,A,H,1.2654588365270962
+2022-2023_Southampton_Arsenal,2022-10-23,Southampton,Arsenal,D,A,1.5108732472735191
+2022-2023_Tottenham_Newcastle,2022-10-23,Tottenham,Newcastle,A,H,1.4055583305499613
+2022-2023_Wolves_Leicester,2022-10-23,Wolves,Leicester,A,A,0.9600640460336795
+2022-2023_West Ham_Bournemouth,2022-10-24,West Ham,Bournemouth,H,H,0.5968216667616062
+2022-2023_Bournemouth_Tottenham,2022-10-29,Bournemouth,Tottenham,A,A,0.6363454041685793
+2022-2023_Brentford_Wolves,2022-10-29,Brentford,Wolves,D,H,1.439353238396059
+2022-2023_Brighton_Chelsea,2022-10-29,Brighton,Chelsea,H,A,1.2899723514217727
+2022-2023_Crystal Palace_Southampton,2022-10-29,Crystal Palace,Southampton,H,H,0.6651753432335104
+2022-2023_Fulham_Everton,2022-10-29,Fulham,Everton,D,H,1.3686291183738506
+2022-2023_Leicester_Man City,2022-10-29,Leicester,Man City,A,A,0.47486072545774266
+2022-2023_Liverpool_Leeds,2022-10-29,Liverpool,Leeds,A,H,2.4102315343759986
+2022-2023_Newcastle_Aston Villa,2022-10-29,Newcastle,Aston Villa,H,H,0.5030092445570028
+2022-2023_Arsenal_Nott'm Forest,2022-10-30,Arsenal,Nott'm Forest,H,H,0.35715697350192527
+2022-2023_Man United_West Ham,2022-10-30,Man United,West Ham,H,H,0.631157299582884
+2022-2023_Everton_Leicester,2022-11-05,Everton,Leicester,A,H,1.0404782104217234
+2022-2023_Leeds_Bournemouth,2022-11-05,Leeds,Bournemouth,H,H,0.7001210494460635
+2022-2023_Man City_Fulham,2022-11-05,Man City,Fulham,H,H,0.22685566396468418
+2022-2023_Nott'm Forest_Brentford,2022-11-05,Nott'm Forest,Brentford,D,H,1.4030768667998041
+2022-2023_Wolves_Brighton,2022-11-05,Wolves,Brighton,A,A,0.879186253636915
+2022-2023_Aston Villa_Man United,2022-11-06,Aston Villa,Man United,H,A,1.4372781603498046
+2022-2023_Chelsea_Arsenal,2022-11-06,Chelsea,Arsenal,A,H,1.0150873803811449
+2022-2023_Southampton_Newcastle,2022-11-06,Southampton,Newcastle,A,A,0.6614015301146231
+2022-2023_Tottenham_Liverpool,2022-11-06,Tottenham,Liverpool,A,H,0.9837473216666422
+2022-2023_West Ham_Crystal Palace,2022-11-06,West Ham,Crystal Palace,A,H,1.2800895850076643
+2022-2023_Bournemouth_Everton,2022-11-12,Bournemouth,Everton,H,H,0.9747743934427255
+2022-2023_Liverpool_Southampton,2022-11-12,Liverpool,Southampton,H,H,0.3197208918506794
+2022-2023_Man City_Brentford,2022-11-12,Man City,Brentford,A,H,2.6599983380546735
+2022-2023_Newcastle_Chelsea,2022-11-12,Newcastle,Chelsea,H,H,0.783670245289018
+2022-2023_Nott'm Forest_Crystal Palace,2022-11-12,Nott'm Forest,Crystal Palace,H,A,1.0417427244267776
+2022-2023_Tottenham_Leeds,2022-11-12,Tottenham,Leeds,H,H,0.4801017610307073
+2022-2023_West Ham_Leicester,2022-11-12,West Ham,Leicester,A,H,1.0635964958084827
+2022-2023_Wolves_Arsenal,2022-11-12,Wolves,Arsenal,A,A,0.5045391721895406
+2022-2023_Brighton_Aston Villa,2022-11-13,Brighton,Aston Villa,A,H,1.5311672792725703
+2022-2023_Fulham_Man United,2022-11-13,Fulham,Man United,A,A,0.7079083735181085
+2022-2023_Arsenal_West Ham,2022-12-26,Arsenal,West Ham,H,H,0.37470025500151927
+2022-2023_Aston Villa_Liverpool,2022-12-26,Aston Villa,Liverpool,A,A,0.5552646150880454
+2022-2023_Brentford_Tottenham,2022-12-26,Brentford,Tottenham,D,A,1.4379520256416125
+2022-2023_Crystal Palace_Fulham,2022-12-26,Crystal Palace,Fulham,A,H,1.4260646237263201
+2022-2023_Everton_Wolves,2022-12-26,Everton,Wolves,A,H,1.296378246939541
+2022-2023_Leicester_Newcastle,2022-12-26,Leicester,Newcastle,A,H,0.9785241434515891
+2022-2023_Southampton_Brighton,2022-12-26,Southampton,Brighton,A,A,0.8166682036969084
+2022-2023_Chelsea_Bournemouth,2022-12-27,Chelsea,Bournemouth,H,H,0.44388850034565497
+2022-2023_Man United_Nott'm Forest,2022-12-27,Man United,Nott'm Forest,H,H,0.4392367254801399
+2022-2023_Leeds_Man City,2022-12-28,Leeds,Man City,A,A,0.4327749247844201
+2022-2023_Liverpool_Leicester,2022-12-30,Liverpool,Leicester,H,H,0.4200130833146422
+2022-2023_West Ham_Brentford,2022-12-30,West Ham,Brentford,A,H,1.131315002389147
+2022-2023_Bournemouth_Crystal Palace,2022-12-31,Bournemouth,Crystal Palace,A,H,0.9978854537177361
+2022-2023_Brighton_Arsenal,2022-12-31,Brighton,Arsenal,A,A,0.7076480205767108
+2022-2023_Fulham_Southampton,2022-12-31,Fulham,Southampton,H,H,0.6644518329312474
+2022-2023_Man City_Everton,2022-12-31,Man City,Everton,D,H,1.818946612138991
+2022-2023_Newcastle_Leeds,2022-12-31,Newcastle,Leeds,D,H,1.6385257291961288
+2022-2023_Wolves_Man United,2022-12-31,Wolves,Man United,A,A,0.642127488637641
+2022-2023_Nott'm Forest_Chelsea,2023-01-01,Nott'm Forest,Chelsea,D,A,1.4219577383024933
+2022-2023_Tottenham_Aston Villa,2023-01-01,Tottenham,Aston Villa,A,H,1.7847973637808827
+2022-2023_Brentford_Liverpool,2023-01-02,Brentford,Liverpool,H,A,1.4465933342528121
+2022-2023_Arsenal_Newcastle,2023-01-03,Arsenal,Newcastle,D,H,1.4353839238037644
+2022-2023_Everton_Brighton,2023-01-03,Everton,Brighton,A,A,0.8453639063080469
+2022-2023_Leicester_Fulham,2023-01-03,Leicester,Fulham,A,H,1.3741488823079946
+2022-2023_Man United_Bournemouth,2023-01-03,Man United,Bournemouth,H,H,0.371380669917535
+2022-2023_Aston Villa_Wolves,2023-01-04,Aston Villa,Wolves,D,H,1.3845219759540863
+2022-2023_Crystal Palace_Tottenham,2023-01-04,Crystal Palace,Tottenham,A,A,0.8513278508868392
+2022-2023_Leeds_West Ham,2023-01-04,Leeds,West Ham,D,H,1.395777180565206
+2022-2023_Southampton_Nott'm Forest,2023-01-04,Southampton,Nott'm Forest,A,H,1.060772620811294
+2022-2023_Chelsea_Man City,2023-01-05,Chelsea,Man City,A,A,0.6903833766619349
+2022-2023_Fulham_Chelsea,2023-01-12,Fulham,Chelsea,H,A,1.2058775370714643
+2022-2023_Aston Villa_Leeds,2023-01-13,Aston Villa,Leeds,H,H,0.715038535717736
+2022-2023_Brentford_Bournemouth,2023-01-14,Brentford,Bournemouth,H,H,0.4566770933944727
+2022-2023_Brighton_Liverpool,2023-01-14,Brighton,Liverpool,H,A,1.3015983923183694
+2022-2023_Everton_Southampton,2023-01-14,Everton,Southampton,A,H,1.3203714659179973
+2022-2023_Man United_Man City,2023-01-14,Man United,Man City,H,A,1.1784460717898826
+2022-2023_Nott'm Forest_Leicester,2023-01-14,Nott'm Forest,Leicester,H,H,0.8865444067302345
+2022-2023_Wolves_West Ham,2023-01-14,Wolves,West Ham,H,H,0.8224584270734546
+2022-2023_Chelsea_Crystal Palace,2023-01-15,Chelsea,Crystal Palace,H,H,0.5434101210849661
+2022-2023_Newcastle_Fulham,2023-01-15,Newcastle,Fulham,H,H,0.45447175443703974
+2022-2023_Tottenham_Arsenal,2023-01-15,Tottenham,Arsenal,A,A,0.9619912581014316
+2022-2023_Crystal Palace_Man United,2023-01-18,Crystal Palace,Man United,D,A,1.4554722672572842
+2022-2023_Man City_Tottenham,2023-01-19,Man City,Tottenham,H,H,0.48751986144715104
+2022-2023_Bournemouth_Nott'm Forest,2023-01-21,Bournemouth,Nott'm Forest,D,A,1.391121592662462
+2022-2023_Crystal Palace_Newcastle,2023-01-21,Crystal Palace,Newcastle,D,A,1.3762540750290613
+2022-2023_Leicester_Brighton,2023-01-21,Leicester,Brighton,D,A,1.399073457321582
+2022-2023_Liverpool_Chelsea,2023-01-21,Liverpool,Chelsea,D,H,1.4219278843540026
+2022-2023_Southampton_Aston Villa,2023-01-21,Southampton,Aston Villa,A,A,0.8745927983932255
+2022-2023_West Ham_Everton,2023-01-21,West Ham,Everton,H,H,0.6884932129346488
+2022-2023_Arsenal_Man United,2023-01-22,Arsenal,Man United,H,H,0.6674482303734973
+2022-2023_Leeds_Brentford,2023-01-22,Leeds,Brentford,D,A,1.4066636843806164
+2022-2023_Man City_Wolves,2023-01-22,Man City,Wolves,H,H,0.2835227076098994
+2022-2023_Fulham_Tottenham,2023-01-23,Fulham,Tottenham,A,A,0.8069768626369697
+2022-2023_Chelsea_Fulham,2023-02-03,Chelsea,Fulham,D,H,1.5570835437499395
+2022-2023_Aston Villa_Leicester,2023-02-04,Aston Villa,Leicester,A,H,1.3592691531162149
+2022-2023_Brentford_Southampton,2023-02-04,Brentford,Southampton,H,H,0.46608061939288176
+2022-2023_Brighton_Bournemouth,2023-02-04,Brighton,Bournemouth,H,H,0.3798188273080532
+2022-2023_Everton_Arsenal,2023-02-04,Everton,Arsenal,H,A,1.9442934132318554
+2022-2023_Man United_Crystal Palace,2023-02-04,Man United,Crystal Palace,H,H,0.4743449153234441
+2022-2023_Newcastle_West Ham,2023-02-04,Newcastle,West Ham,D,H,1.564106636515631
+2022-2023_Wolves_Liverpool,2023-02-04,Wolves,Liverpool,H,A,1.5588411879809343
+2022-2023_Nott'm Forest_Leeds,2023-02-05,Nott'm Forest,Leeds,H,H,0.7688056888648651
+2022-2023_Tottenham_Man City,2023-02-05,Tottenham,Man City,H,A,1.3748128370036024
+2022-2023_Man United_Leeds,2023-02-08,Man United,Leeds,D,H,1.558003439453912
+2022-2023_Arsenal_Brentford,2023-02-11,Arsenal,Brentford,D,H,1.4723973679037914
+2022-2023_Bournemouth_Newcastle,2023-02-11,Bournemouth,Newcastle,D,A,1.4775885029107734
+2022-2023_Crystal Palace_Brighton,2023-02-11,Crystal Palace,Brighton,D,A,1.406778685120644
+2022-2023_Fulham_Nott'm Forest,2023-02-11,Fulham,Nott'm Forest,H,H,0.8863112113085109
+2022-2023_Leicester_Tottenham,2023-02-11,Leicester,Tottenham,H,A,1.1730762079763688
+2022-2023_Southampton_Wolves,2023-02-11,Southampton,Wolves,A,A,0.9100588188492541
+2022-2023_West Ham_Chelsea,2023-02-11,West Ham,Chelsea,D,A,1.3926078401854194
+2022-2023_Leeds_Man United,2023-02-12,Leeds,Man United,A,A,0.6830734249137234
+2022-2023_Man City_Aston Villa,2023-02-12,Man City,Aston Villa,H,H,0.32725554776790755
+2022-2023_Liverpool_Everton,2023-02-13,Liverpool,Everton,H,H,0.3864298579124324
+2022-2023_Arsenal_Man City,2023-02-15,Arsenal,Man City,A,A,0.8987238703411976
+2022-2023_Aston Villa_Arsenal,2023-02-18,Aston Villa,Arsenal,A,A,0.6662463947746153
+2022-2023_Brentford_Crystal Palace,2023-02-18,Brentford,Crystal Palace,D,H,1.4428005852716992
+2022-2023_Brighton_Fulham,2023-02-18,Brighton,Fulham,A,H,1.6396548774222428
+2022-2023_Chelsea_Southampton,2023-02-18,Chelsea,Southampton,A,H,2.1238988883904404
+2022-2023_Everton_Leeds,2023-02-18,Everton,Leeds,H,H,0.9260789854966797
+2022-2023_Newcastle_Liverpool,2023-02-18,Newcastle,Liverpool,A,H,1.0297235197923664
+2022-2023_Nott'm Forest_Man City,2023-02-18,Nott'm Forest,Man City,D,A,1.6569551511980787
+2022-2023_Wolves_Bournemouth,2023-02-18,Wolves,Bournemouth,A,H,1.6066945215212922
+2022-2023_Man United_Leicester,2023-02-19,Man United,Leicester,H,H,0.5362062933519387
+2022-2023_Tottenham_West Ham,2023-02-19,Tottenham,West Ham,H,H,0.6302616236971395
+2022-2023_Fulham_Wolves,2023-02-24,Fulham,Wolves,D,H,1.4353997344300062
+2022-2023_Bournemouth_Man City,2023-02-25,Bournemouth,Man City,A,A,0.33286160142601584
+2022-2023_Crystal Palace_Liverpool,2023-02-25,Crystal Palace,Liverpool,D,A,1.5029677984097958
+2022-2023_Everton_Aston Villa,2023-02-25,Everton,Aston Villa,A,H,1.0327398446085672
+2022-2023_Leeds_Southampton,2023-02-25,Leeds,Southampton,H,H,0.6933826428071802
+2022-2023_Leicester_Arsenal,2023-02-25,Leicester,Arsenal,A,A,0.7172641348500806
+2022-2023_West Ham_Nott'm Forest,2023-02-25,West Ham,Nott'm Forest,H,H,0.8073970151032608
+2022-2023_Tottenham_Chelsea,2023-02-26,Tottenham,Chelsea,H,H,0.7681869627464667
+2022-2023_Arsenal_Everton,2023-03-01,Arsenal,Everton,H,H,0.32758111608565804
+2022-2023_Liverpool_Wolves,2023-03-01,Liverpool,Wolves,H,H,0.39778809877118837
+2022-2023_Arsenal_Bournemouth,2023-03-04,Arsenal,Bournemouth,H,H,0.30092870519940906
+2022-2023_Aston Villa_Crystal Palace,2023-03-04,Aston Villa,Crystal Palace,H,H,0.8865156524978007
+2022-2023_Brighton_West Ham,2023-03-04,Brighton,West Ham,H,H,0.6640208428811429
+2022-2023_Chelsea_Leeds,2023-03-04,Chelsea,Leeds,H,H,0.5291512953210679
+2022-2023_Man City_Newcastle,2023-03-04,Man City,Newcastle,H,H,0.42722044977877105
+2022-2023_Southampton_Leicester,2023-03-04,Southampton,Leicester,H,A,1.1796028164743813
+2022-2023_Wolves_Tottenham,2023-03-04,Wolves,Tottenham,H,A,1.248746266834183
+2022-2023_Liverpool_Man United,2023-03-05,Liverpool,Man United,H,H,0.7669087280890716
+2022-2023_Nott'm Forest_Everton,2023-03-05,Nott'm Forest,Everton,D,H,1.4851558894503636
+2022-2023_Brentford_Fulham,2023-03-06,Brentford,Fulham,H,H,0.6103445146004914
+2022-2023_Bournemouth_Liverpool,2023-03-11,Bournemouth,Liverpool,H,A,2.139577907523967
+2022-2023_Crystal Palace_Man City,2023-03-11,Crystal Palace,Man City,A,A,0.4184129331799611
+2022-2023_Everton_Brentford,2023-03-11,Everton,Brentford,H,A,1.3187038337870252
+2022-2023_Leeds_Brighton,2023-03-11,Leeds,Brighton,D,A,1.403917298851552
+2022-2023_Leicester_Chelsea,2023-03-11,Leicester,Chelsea,A,A,0.9640679002174665
+2022-2023_Tottenham_Nott'm Forest,2023-03-11,Tottenham,Nott'm Forest,H,H,0.4659335146779436
+2022-2023_Fulham_Arsenal,2023-03-12,Fulham,Arsenal,A,A,0.571095896837122
+2022-2023_Man United_Southampton,2023-03-12,Man United,Southampton,D,H,1.5723127856423305
+2022-2023_Newcastle_Wolves,2023-03-12,Newcastle,Wolves,H,H,0.5844545118378257
+2022-2023_West Ham_Aston Villa,2023-03-12,West Ham,Aston Villa,D,H,1.4461286611957467
+2022-2023_Brighton_Crystal Palace,2023-03-15,Brighton,Crystal Palace,H,H,0.6096844248410037
+2022-2023_Southampton_Brentford,2023-03-15,Southampton,Brentford,A,A,0.7893794521428272
+2022-2023_Nott'm Forest_Newcastle,2023-03-17,Nott'm Forest,Newcastle,A,A,0.7822134076991969
+2022-2023_Aston Villa_Bournemouth,2023-03-18,Aston Villa,Bournemouth,H,H,0.6037471770658355
+2022-2023_Brentford_Leicester,2023-03-18,Brentford,Leicester,D,H,1.4560630281099678
+2022-2023_Chelsea_Everton,2023-03-18,Chelsea,Everton,D,H,1.56728066581734
+2022-2023_Southampton_Tottenham,2023-03-18,Southampton,Tottenham,D,A,1.4982772829792046
+2022-2023_Wolves_Leeds,2023-03-18,Wolves,Leeds,A,H,1.293201914948931
+2022-2023_Arsenal_Crystal Palace,2023-03-19,Arsenal,Crystal Palace,H,H,0.337313927077727
+2022-2023_Arsenal_Leeds,2023-04-01,Arsenal,Leeds,H,H,0.32057290356526125
+2022-2023_Bournemouth_Fulham,2023-04-01,Bournemouth,Fulham,H,A,1.0157852830993617
+2022-2023_Brighton_Brentford,2023-04-01,Brighton,Brentford,D,H,1.4327449140664419
+2022-2023_Chelsea_Aston Villa,2023-04-01,Chelsea,Aston Villa,A,H,1.3769534041033287
+2022-2023_Crystal Palace_Leicester,2023-04-01,Crystal Palace,Leicester,H,H,0.8035860531932699
+2022-2023_Man City_Liverpool,2023-04-01,Man City,Liverpool,H,H,0.6500516181779443
+2022-2023_Nott'm Forest_Wolves,2023-04-01,Nott'm Forest,Wolves,D,H,1.385139249824756
+2022-2023_Newcastle_Man United,2023-04-02,Newcastle,Man United,H,H,0.892223584599582
+2022-2023_West Ham_Southampton,2023-04-02,West Ham,Southampton,H,H,0.6542918964153599
+2022-2023_Everton_Tottenham,2023-04-03,Everton,Tottenham,D,A,1.4422432596057855
+2022-2023_Bournemouth_Brighton,2023-04-04,Bournemouth,Brighton,A,A,0.6991082265510974
+2022-2023_Chelsea_Liverpool,2023-04-04,Chelsea,Liverpool,D,A,1.3942757798319365
+2022-2023_Leeds_Nott'm Forest,2023-04-04,Leeds,Nott'm Forest,H,H,0.7392166921227812
+2022-2023_Leicester_Aston Villa,2023-04-04,Leicester,Aston Villa,A,A,0.9089612733143417
+2022-2023_Man United_Brentford,2023-04-05,Man United,Brentford,H,H,0.7178759317551359
+2022-2023_West Ham_Newcastle,2023-04-05,West Ham,Newcastle,A,A,0.841141853294088
+2022-2023_Aston Villa_Nott'm Forest,2023-04-08,Aston Villa,Nott'm Forest,H,H,0.5381706378747495
+2022-2023_Brentford_Newcastle,2023-04-08,Brentford,Newcastle,A,A,0.8941315442077697
+2022-2023_Fulham_West Ham,2023-04-08,Fulham,West Ham,A,H,1.1157296515274215
+2022-2023_Leicester_Bournemouth,2023-04-08,Leicester,Bournemouth,A,H,1.3875988618612864
+2022-2023_Man United_Everton,2023-04-08,Man United,Everton,H,H,0.5116262490341079
+2022-2023_Southampton_Man City,2023-04-08,Southampton,Man City,A,A,0.3059254955071999
+2022-2023_Tottenham_Brighton,2023-04-08,Tottenham,Brighton,H,H,0.7209517761072726
+2022-2023_Wolves_Chelsea,2023-04-08,Wolves,Chelsea,H,A,1.1479525345889325
+2022-2023_Leeds_Crystal Palace,2023-04-09,Leeds,Crystal Palace,A,H,1.2043148096748226
+2022-2023_Liverpool_Arsenal,2023-04-09,Liverpool,Arsenal,D,H,1.3809600091653034
+2022-2023_Aston Villa_Newcastle,2023-04-15,Aston Villa,Newcastle,H,A,1.0124018643659887
+2022-2023_Chelsea_Brighton,2023-04-15,Chelsea,Brighton,A,H,1.1516227842453781
+2022-2023_Everton_Fulham,2023-04-15,Everton,Fulham,A,H,1.261515700686931
+2022-2023_Man City_Leicester,2023-04-15,Man City,Leicester,H,H,0.21955497096310977
+2022-2023_Southampton_Crystal Palace,2023-04-15,Southampton,Crystal Palace,A,A,0.8551990901660178
+2022-2023_Tottenham_Bournemouth,2023-04-15,Tottenham,Bournemouth,A,H,2.0940538409768097
+2022-2023_Wolves_Brentford,2023-04-15,Wolves,Brentford,H,H,0.9734305381676251
+2022-2023_Nott'm Forest_Man United,2023-04-16,Nott'm Forest,Man United,A,A,0.6901311916192687
+2022-2023_West Ham_Arsenal,2023-04-16,West Ham,Arsenal,D,A,1.5469829385528564
+2022-2023_Leeds_Liverpool,2023-04-17,Leeds,Liverpool,A,A,0.5364868212938215
+2022-2023_Arsenal_Southampton,2023-04-21,Arsenal,Southampton,D,H,1.9417714963696262
+2022-2023_Brentford_Aston Villa,2023-04-22,Brentford,Aston Villa,D,A,1.368746365583945
+2022-2023_Crystal Palace_Everton,2023-04-22,Crystal Palace,Everton,D,H,1.4540098157167947
+2022-2023_Fulham_Leeds,2023-04-22,Fulham,Leeds,H,H,0.6622184242329341
+2022-2023_Leicester_Wolves,2023-04-22,Leicester,Wolves,H,H,0.92688920728993
+2022-2023_Liverpool_Nott'm Forest,2023-04-22,Liverpool,Nott'm Forest,H,H,0.31979509779289955
+2022-2023_Bournemouth_West Ham,2023-04-23,Bournemouth,West Ham,A,H,1.0149401516462346
+2022-2023_Newcastle_Tottenham,2023-04-23,Newcastle,Tottenham,H,H,0.7788625496277461
+2022-2023_Aston Villa_Fulham,2023-04-25,Aston Villa,Fulham,H,H,0.5196058762269515
+2022-2023_Leeds_Leicester,2023-04-25,Leeds,Leicester,D,H,1.3039558952000503
+2022-2023_Wolves_Crystal Palace,2023-04-25,Wolves,Crystal Palace,H,H,0.9112469397661548
+2022-2023_Chelsea_Brentford,2023-04-26,Chelsea,Brentford,A,H,1.2792661904708473
+2022-2023_Man City_Arsenal,2023-04-26,Man City,Arsenal,H,H,0.5703873631817332
+2022-2023_Nott'm Forest_Brighton,2023-04-26,Nott'm Forest,Brighton,H,A,1.3247563427807068
+2022-2023_West Ham_Liverpool,2023-04-26,West Ham,Liverpool,A,A,0.6472539379584341
+2022-2023_Everton_Newcastle,2023-04-27,Everton,Newcastle,A,A,0.5726380229514451
+2022-2023_Southampton_Bournemouth,2023-04-27,Southampton,Bournemouth,A,H,1.1236858022368887
+2022-2023_Tottenham_Man United,2023-04-27,Tottenham,Man United,D,H,1.2638669632324273
+2022-2023_Brentford_Nott'm Forest,2023-04-29,Brentford,Nott'm Forest,H,H,0.5886292183880871
+2022-2023_Brighton_Wolves,2023-04-29,Brighton,Wolves,H,H,0.6826580923057146
+2022-2023_Crystal Palace_West Ham,2023-04-29,Crystal Palace,West Ham,H,H,0.7469241302555926
+2022-2023_Bournemouth_Leeds,2023-04-30,Bournemouth,Leeds,H,H,0.73982266893594
+2022-2023_Fulham_Man City,2023-04-30,Fulham,Man City,A,A,0.3393706680953518
+2022-2023_Liverpool_Tottenham,2023-04-30,Liverpool,Tottenham,H,H,0.47413884063953116
+2022-2023_Man United_Aston Villa,2023-04-30,Man United,Aston Villa,H,H,0.6661493533006647
+2022-2023_Newcastle_Southampton,2023-04-30,Newcastle,Southampton,H,H,0.2902306236363322
+2022-2023_Leicester_Everton,2023-05-01,Leicester,Everton,D,H,1.4543326602047197
+2022-2023_Arsenal_Chelsea,2023-05-02,Arsenal,Chelsea,H,H,0.4428544143340768
+2022-2023_Liverpool_Fulham,2023-05-03,Liverpool,Fulham,H,H,0.33217863803360664
+2022-2023_Man City_West Ham,2023-05-03,Man City,West Ham,H,H,0.27304165616264175
+2022-2023_Brighton_Man United,2023-05-04,Brighton,Man United,H,A,0.9778313840663363
+2022-2023_Bournemouth_Chelsea,2023-05-06,Bournemouth,Chelsea,A,H,1.0209544096325363
+2022-2023_Liverpool_Brentford,2023-05-06,Liverpool,Brentford,H,H,0.43452468546385786
+2022-2023_Man City_Leeds,2023-05-06,Man City,Leeds,H,H,0.1614616725758838
+2022-2023_Tottenham_Crystal Palace,2023-05-06,Tottenham,Crystal Palace,H,H,0.730779320768751
+2022-2023_Wolves_Aston Villa,2023-05-06,Wolves,Aston Villa,H,A,1.1302757620457702
+2022-2023_Newcastle_Arsenal,2023-05-07,Newcastle,Arsenal,A,H,1.0835941387846562
+2022-2023_West Ham_Man United,2023-05-07,West Ham,Man United,H,A,1.2482023957795239
+2022-2023_Brighton_Everton,2023-05-08,Brighton,Everton,A,H,1.9013449242735394
+2022-2023_Fulham_Leicester,2023-05-08,Fulham,Leicester,H,H,0.805355982920657
+2022-2023_Nott'm Forest_Southampton,2023-05-08,Nott'm Forest,Southampton,H,H,0.6553649322874165
+2022-2023_Aston Villa_Tottenham,2023-05-13,Aston Villa,Tottenham,H,H,0.828022100590326
+2022-2023_Chelsea_Nott'm Forest,2023-05-13,Chelsea,Nott'm Forest,D,H,1.479763342873759
+2022-2023_Crystal Palace_Bournemouth,2023-05-13,Crystal Palace,Bournemouth,H,H,0.649592190479335
+2022-2023_Leeds_Newcastle,2023-05-13,Leeds,Newcastle,D,A,1.4882334717044419
+2022-2023_Man United_Wolves,2023-05-13,Man United,Wolves,H,H,0.47638514203030236
+2022-2023_Southampton_Fulham,2023-05-13,Southampton,Fulham,A,A,0.905634947789479
+2022-2023_Arsenal_Brighton,2023-05-14,Arsenal,Brighton,A,H,1.7390984572872843
+2022-2023_Brentford_West Ham,2023-05-14,Brentford,West Ham,H,H,0.7316314896629662
+2022-2023_Everton_Man City,2023-05-14,Everton,Man City,A,A,0.35227975224638275
+2022-2023_Leicester_Liverpool,2023-05-15,Leicester,Liverpool,A,A,0.5206704369410324
+2022-2023_Newcastle_Brighton,2023-05-18,Newcastle,Brighton,H,H,0.6281797191956868
+2022-2023_Bournemouth_Man United,2023-05-20,Bournemouth,Man United,A,A,0.6310942898238642
+2022-2023_Fulham_Crystal Palace,2023-05-20,Fulham,Crystal Palace,D,H,1.3996350365589685
+2022-2023_Liverpool_Aston Villa,2023-05-20,Liverpool,Aston Villa,D,H,1.5061431608396907
+2022-2023_Nott'm Forest_Arsenal,2023-05-20,Nott'm Forest,Arsenal,H,A,1.4505299911205096
+2022-2023_Tottenham_Brentford,2023-05-20,Tottenham,Brentford,A,H,1.2639368404100182
+2022-2023_Wolves_Everton,2023-05-20,Wolves,Everton,D,H,1.3773545299504062
+2022-2023_Brighton_Southampton,2023-05-21,Brighton,Southampton,H,H,0.4088463230143615
+2022-2023_Man City_Chelsea,2023-05-21,Man City,Chelsea,H,H,0.28275195372791007
+2022-2023_West Ham_Leeds,2023-05-21,West Ham,Leeds,H,H,0.7091350897773108
+2022-2023_Newcastle_Leicester,2023-05-22,Newcastle,Leicester,D,H,1.6227658974851602
+2022-2023_Brighton_Man City,2023-05-24,Brighton,Man City,D,A,1.501839708213702
+2022-2023_Man United_Chelsea,2023-05-25,Man United,Chelsea,H,H,0.5582379786952674
+2022-2023_Arsenal_Wolves,2023-05-28,Arsenal,Wolves,H,H,0.4215115820148727
+2022-2023_Aston Villa_Brighton,2023-05-28,Aston Villa,Brighton,H,H,0.7985534170841596
+2022-2023_Brentford_Man City,2023-05-28,Brentford,Man City,H,A,1.637122662894583
+2022-2023_Chelsea_Newcastle,2023-05-28,Chelsea,Newcastle,D,A,1.3484069746063836
+2022-2023_Crystal Palace_Nott'm Forest,2023-05-28,Crystal Palace,Nott'm Forest,D,H,1.4187652448280705
+2022-2023_Everton_Bournemouth,2023-05-28,Everton,Bournemouth,H,H,0.7364861063537184
+2022-2023_Leeds_Tottenham,2023-05-28,Leeds,Tottenham,A,A,0.7391566825172867
+2022-2023_Leicester_West Ham,2023-05-28,Leicester,West Ham,H,H,0.9024109619295831
+2022-2023_Man United_Fulham,2023-05-28,Man United,Fulham,H,H,0.48580343871405834
+2022-2023_Southampton_Liverpool,2023-05-28,Southampton,Liverpool,D,A,1.6723528137177337
+2023-2024_Burnley_Man City,2023-08-11,Burnley,Man City,A,A,0.3712756339392048
+2023-2024_Arsenal_Nott'm Forest,2023-08-12,Arsenal,Nott'm Forest,H,H,0.3905236960535149
+2023-2024_Bournemouth_West Ham,2023-08-12,Bournemouth,West Ham,D,H,1.4185101650988754
+2023-2024_Everton_Fulham,2023-08-12,Everton,Fulham,A,H,1.1530041379485492
+2023-2024_Newcastle_Aston Villa,2023-08-12,Newcastle,Aston Villa,H,H,0.6414739642190215
+2023-2024_Sheffield United_Crystal Palace,2023-08-12,Sheffield United,Crystal Palace,A,A,0.751835831387598
+2023-2024_Brentford_Tottenham,2023-08-13,Brentford,Tottenham,D,H,1.4406824812347598
+2023-2024_Chelsea_Liverpool,2023-08-13,Chelsea,Liverpool,D,A,1.447021029830189
+2023-2024_Man United_Wolves,2023-08-14,Man United,Wolves,H,H,0.33785530099722466
+2023-2024_Nott'm Forest_Sheffield United,2023-08-18,Nott'm Forest,Sheffield United,H,H,0.5830296587153744
+2023-2024_Fulham_Brentford,2023-08-19,Fulham,Brentford,A,A,0.9506247752110306
+2023-2024_Liverpool_Bournemouth,2023-08-19,Liverpool,Bournemouth,H,H,0.2879679964137993
+2023-2024_Man City_Newcastle,2023-08-19,Man City,Newcastle,H,H,0.5066481025763097
+2023-2024_Tottenham_Man United,2023-08-19,Tottenham,Man United,H,A,1.0142952727828232
+2023-2024_Wolves_Brighton,2023-08-19,Wolves,Brighton,A,A,0.7762003544507439
+2023-2024_Aston Villa_Everton,2023-08-20,Aston Villa,Everton,H,H,0.622067489767277
+2023-2024_West Ham_Chelsea,2023-08-20,West Ham,Chelsea,H,H,0.883629338255882
+2023-2024_Crystal Palace_Arsenal,2023-08-21,Crystal Palace,Arsenal,A,A,0.6916731393725724
+2023-2024_Arsenal_Fulham,2023-08-26,Arsenal,Fulham,D,H,1.6242428471365458
+2023-2024_Bournemouth_Tottenham,2023-08-26,Bournemouth,Tottenham,A,A,0.6256974833084366
+2023-2024_Brentford_Crystal Palace,2023-08-26,Brentford,Crystal Palace,D,H,1.5029516232877465
+2023-2024_Brighton_West Ham,2023-08-26,Brighton,West Ham,A,H,1.6145085030095796
+2023-2024_Everton_Wolves,2023-08-26,Everton,Wolves,A,H,1.163059489378244
+2023-2024_Man United_Nott'm Forest,2023-08-26,Man United,Nott'm Forest,H,H,0.45391509074562025
+2023-2024_Burnley_Aston Villa,2023-08-27,Burnley,Aston Villa,A,A,0.7118609657032354
+2023-2024_Newcastle_Liverpool,2023-08-27,Newcastle,Liverpool,A,A,0.9525199914132222
+2023-2024_Sheffield United_Man City,2023-08-27,Sheffield United,Man City,A,A,0.27780621237572745
+2023-2024_Brentford_Bournemouth,2023-09-02,Brentford,Bournemouth,D,H,1.6473154985601874
+2023-2024_Brighton_Newcastle,2023-09-02,Brighton,Newcastle,H,H,0.8963402038082876
+2023-2024_Burnley_Tottenham,2023-09-02,Burnley,Tottenham,A,A,0.6223106629532394
+2023-2024_Chelsea_Nott'm Forest,2023-09-02,Chelsea,Nott'm Forest,A,H,1.4263801361123178
+2023-2024_Man City_Fulham,2023-09-02,Man City,Fulham,H,H,0.252212463663683
+2023-2024_Sheffield United_Everton,2023-09-02,Sheffield United,Everton,D,H,1.4131216854863264
+2023-2024_Arsenal_Man United,2023-09-03,Arsenal,Man United,H,H,0.6554409051536155
+2023-2024_Crystal Palace_Wolves,2023-09-03,Crystal Palace,Wolves,H,H,0.5988642902886473
+2023-2024_Liverpool_Aston Villa,2023-09-03,Liverpool,Aston Villa,H,H,0.500970446510825
+2023-2024_Aston Villa_Crystal Palace,2023-09-16,Aston Villa,Crystal Palace,H,H,0.694040886597124
+2023-2024_Man United_Brighton,2023-09-16,Man United,Brighton,A,H,1.2899014512160423
+2023-2024_Newcastle_Brentford,2023-09-16,Newcastle,Brentford,H,H,0.7433989881451067
+2023-2024_Tottenham_Sheffield United,2023-09-16,Tottenham,Sheffield United,H,H,0.3088352090710307
+2023-2024_West Ham_Man City,2023-09-16,West Ham,Man City,A,A,0.473908480171376
+2023-2024_Wolves_Liverpool,2023-09-16,Wolves,Liverpool,A,A,0.45023975488040585
+2023-2024_Bournemouth_Chelsea,2023-09-17,Bournemouth,Chelsea,D,A,1.3890496620101145
+2023-2024_Everton_Arsenal,2023-09-17,Everton,Arsenal,A,A,0.4399643596550024
+2023-2024_Nott'm Forest_Burnley,2023-09-18,Nott'm Forest,Burnley,D,H,1.53644664308243
+2023-2024_Brentford_Everton,2023-09-23,Brentford,Everton,A,H,1.8837821494535916
+2023-2024_Burnley_Man United,2023-09-23,Burnley,Man United,A,A,0.6436489957867506
+2023-2024_Crystal Palace_Fulham,2023-09-23,Crystal Palace,Fulham,D,H,1.4759634088133224
+2023-2024_Man City_Nott'm Forest,2023-09-23,Man City,Nott'm Forest,H,H,0.22317022482564394
+2023-2024_Arsenal_Tottenham,2023-09-24,Arsenal,Tottenham,D,H,1.4211432483561424
+2023-2024_Brighton_Bournemouth,2023-09-24,Brighton,Bournemouth,H,H,0.38615281622829056
+2023-2024_Chelsea_Aston Villa,2023-09-24,Chelsea,Aston Villa,A,H,0.9901282413303932
+2023-2024_Liverpool_West Ham,2023-09-24,Liverpool,West Ham,H,H,0.3805636193587532
+2023-2024_Sheffield United_Newcastle,2023-09-24,Sheffield United,Newcastle,A,A,0.5426806584811523
+2023-2024_Aston Villa_Brighton,2023-09-30,Aston Villa,Brighton,H,H,0.8254851907197832
+2023-2024_Bournemouth_Arsenal,2023-09-30,Bournemouth,Arsenal,A,A,0.45464296880573746
+2023-2024_Everton_Luton,2023-09-30,Everton,Luton,A,H,1.245485835188519
+2023-2024_Man United_Crystal Palace,2023-09-30,Man United,Crystal Palace,A,H,1.6268046540517862
+2023-2024_Newcastle_Burnley,2023-09-30,Newcastle,Burnley,H,H,0.32308316340036114
+2023-2024_Tottenham_Liverpool,2023-09-30,Tottenham,Liverpool,H,A,1.099120540425991
+2023-2024_West Ham_Sheffield United,2023-09-30,West Ham,Sheffield United,H,H,0.4043522013801822
+2023-2024_Wolves_Man City,2023-09-30,Wolves,Man City,H,A,2.2691569269739267
+2023-2024_Nott'm Forest_Brentford,2023-10-01,Nott'm Forest,Brentford,D,A,1.3953418657426282
+2023-2024_Fulham_Chelsea,2023-10-02,Fulham,Chelsea,A,H,1.0691220235734205
+2023-2024_Luton_Burnley,2023-10-03,Luton,Burnley,A,H,1.3688916501410429
+2023-2024_Burnley_Chelsea,2023-10-07,Burnley,Chelsea,A,A,0.8735588015123559
+2023-2024_Crystal Palace_Nott'm Forest,2023-10-07,Crystal Palace,Nott'm Forest,D,H,1.4524665552395972
+2023-2024_Everton_Bournemouth,2023-10-07,Everton,Bournemouth,H,H,0.654290313404292
+2023-2024_Fulham_Sheffield United,2023-10-07,Fulham,Sheffield United,H,H,0.4911509251352549
+2023-2024_Luton_Tottenham,2023-10-07,Luton,Tottenham,A,A,0.6173925051385186
+2023-2024_Man United_Brentford,2023-10-07,Man United,Brentford,H,H,0.657920977795691
+2023-2024_Arsenal_Man City,2023-10-08,Arsenal,Man City,H,A,1.049682559773676
+2023-2024_Brighton_Liverpool,2023-10-08,Brighton,Liverpool,D,A,1.3690928232098065
+2023-2024_West Ham_Newcastle,2023-10-08,West Ham,Newcastle,D,A,1.3795364746162764
+2023-2024_Wolves_Aston Villa,2023-10-08,Wolves,Aston Villa,D,A,1.412298905223852
+2023-2024_Bournemouth_Wolves,2023-10-21,Bournemouth,Wolves,A,A,0.8641847156613427
+2023-2024_Brentford_Burnley,2023-10-21,Brentford,Burnley,H,H,0.5229615346797827
+2023-2024_Chelsea_Arsenal,2023-10-21,Chelsea,Arsenal,D,A,1.4969109633317166
+2023-2024_Liverpool_Everton,2023-10-21,Liverpool,Everton,H,H,0.32165158356981843
+2023-2024_Man City_Brighton,2023-10-21,Man City,Brighton,H,H,0.3771600349690158
+2023-2024_Newcastle_Crystal Palace,2023-10-21,Newcastle,Crystal Palace,H,H,0.4797427544445052
+2023-2024_Nott'm Forest_Luton,2023-10-21,Nott'm Forest,Luton,D,H,1.451266036394509
+2023-2024_Sheffield United_Man United,2023-10-21,Sheffield United,Man United,A,A,0.47854193025211295
+2023-2024_Aston Villa_West Ham,2023-10-22,Aston Villa,West Ham,H,H,0.5620841526430004
+2023-2024_Tottenham_Fulham,2023-10-23,Tottenham,Fulham,H,H,0.4148061137464722
+2023-2024_Crystal Palace_Tottenham,2023-10-27,Crystal Palace,Tottenham,A,A,0.7214365986786262
+2023-2024_Arsenal_Sheffield United,2023-10-28,Arsenal,Sheffield United,H,H,0.16855853522798278
+2023-2024_Bournemouth_Burnley,2023-10-28,Bournemouth,Burnley,H,H,0.8536809718852064
+2023-2024_Chelsea_Brentford,2023-10-28,Chelsea,Brentford,A,H,1.2222706515194877
+2023-2024_Wolves_Newcastle,2023-10-28,Wolves,Newcastle,D,A,1.403902910549024
+2023-2024_Aston Villa_Luton,2023-10-29,Aston Villa,Luton,H,H,0.3896000795600111
+2023-2024_Brighton_Fulham,2023-10-29,Brighton,Fulham,D,H,1.4421907133862388
+2023-2024_Liverpool_Nott'm Forest,2023-10-29,Liverpool,Nott'm Forest,H,H,0.34089329985988476
+2023-2024_Man United_Man City,2023-10-29,Man United,Man City,A,A,0.7032541934930827
+2023-2024_West Ham_Everton,2023-10-29,West Ham,Everton,A,H,1.4255041091720846
+2023-2024_Brentford_West Ham,2023-11-04,Brentford,West Ham,H,H,0.5970728660783479
+2023-2024_Burnley_Crystal Palace,2023-11-04,Burnley,Crystal Palace,A,A,0.8823962144636763
+2023-2024_Everton_Brighton,2023-11-04,Everton,Brighton,D,A,1.487903011234354
+2023-2024_Fulham_Man United,2023-11-04,Fulham,Man United,A,A,0.7972534332782851
+2023-2024_Man City_Bournemouth,2023-11-04,Man City,Bournemouth,H,H,0.17493418782746095
+2023-2024_Newcastle_Arsenal,2023-11-04,Newcastle,Arsenal,H,H,0.9217456523234417
+2023-2024_Sheffield United_Wolves,2023-11-04,Sheffield United,Wolves,H,A,1.605064705113769
+2023-2024_Luton_Liverpool,2023-11-05,Luton,Liverpool,D,A,1.5927306771424121
+2023-2024_Nott'm Forest_Aston Villa,2023-11-05,Nott'm Forest,Aston Villa,H,A,1.433486384754555
+2023-2024_Tottenham_Chelsea,2023-11-06,Tottenham,Chelsea,A,H,1.693800214230293
+2023-2024_Arsenal_Burnley,2023-11-11,Arsenal,Burnley,H,H,0.2122540478062206
+2023-2024_Bournemouth_Newcastle,2023-11-11,Bournemouth,Newcastle,H,A,1.9338089885037162
+2023-2024_Crystal Palace_Everton,2023-11-11,Crystal Palace,Everton,A,H,1.3597942131306404
+2023-2024_Man United_Luton,2023-11-11,Man United,Luton,H,H,0.4394248003156602
+2023-2024_Wolves_Tottenham,2023-11-11,Wolves,Tottenham,H,A,1.1726893982923965
+2023-2024_Aston Villa_Fulham,2023-11-12,Aston Villa,Fulham,H,H,0.44271674542981276
+2023-2024_Brighton_Sheffield United,2023-11-12,Brighton,Sheffield United,D,H,1.6702861941289833
+2023-2024_Chelsea_Man City,2023-11-12,Chelsea,Man City,D,A,1.525971658532084
+2023-2024_Liverpool_Brentford,2023-11-12,Liverpool,Brentford,H,H,0.49169061069480197
+2023-2024_West Ham_Nott'm Forest,2023-11-12,West Ham,Nott'm Forest,H,H,0.7857760171513815
+2023-2024_Brentford_Arsenal,2023-11-25,Brentford,Arsenal,A,A,0.7350908781951154
+2023-2024_Burnley_West Ham,2023-11-25,Burnley,West Ham,A,A,0.7884416671894244
+2023-2024_Luton_Crystal Palace,2023-11-25,Luton,Crystal Palace,H,H,0.9269030345000407
+2023-2024_Man City_Liverpool,2023-11-25,Man City,Liverpool,D,H,1.420831603135053
+2023-2024_Newcastle_Chelsea,2023-11-25,Newcastle,Chelsea,H,H,0.6253221007408905
+2023-2024_Nott'm Forest_Brighton,2023-11-25,Nott'm Forest,Brighton,A,A,0.8745250715569064
+2023-2024_Sheffield United_Bournemouth,2023-11-25,Sheffield United,Bournemouth,A,H,1.051615412444664
+2023-2024_Everton_Man United,2023-11-26,Everton,Man United,A,A,0.7612867338240572
+2023-2024_Tottenham_Aston Villa,2023-11-26,Tottenham,Aston Villa,A,H,1.1763381234065082
+2023-2024_Fulham_Wolves,2023-11-27,Fulham,Wolves,H,H,0.9088984294021614
+2023-2024_Arsenal_Wolves,2023-12-02,Arsenal,Wolves,H,H,0.3373703704640915
+2023-2024_Brentford_Luton,2023-12-02,Brentford,Luton,H,H,0.5525427070772098
+2023-2024_Burnley_Sheffield United,2023-12-02,Burnley,Sheffield United,H,H,0.7352428088725953
+2023-2024_Newcastle_Man United,2023-12-02,Newcastle,Man United,H,H,0.7437461186044896
+2023-2024_Nott'm Forest_Everton,2023-12-02,Nott'm Forest,Everton,A,H,1.264541716302289
+2023-2024_Bournemouth_Aston Villa,2023-12-03,Bournemouth,Aston Villa,D,A,1.4596385392117102
+2023-2024_Chelsea_Brighton,2023-12-03,Chelsea,Brighton,H,H,0.9407727754744639
+2023-2024_Liverpool_Fulham,2023-12-03,Liverpool,Fulham,H,H,0.2816152395025547
+2023-2024_Man City_Tottenham,2023-12-03,Man City,Tottenham,D,H,1.7119734862336227
+2023-2024_West Ham_Crystal Palace,2023-12-03,West Ham,Crystal Palace,D,H,1.4204304823094471
+2023-2024_Luton_Arsenal,2023-12-05,Luton,Arsenal,A,A,0.4510865438179663
+2023-2024_Wolves_Burnley,2023-12-05,Wolves,Burnley,H,H,0.6128739473015695
+2023-2024_Aston Villa_Man City,2023-12-06,Aston Villa,Man City,H,A,1.4527364752280674
+2023-2024_Brighton_Brentford,2023-12-06,Brighton,Brentford,H,H,0.7257374631065262
+2023-2024_Crystal Palace_Bournemouth,2023-12-06,Crystal Palace,Bournemouth,A,H,1.422250498564649
+2023-2024_Fulham_Nott'm Forest,2023-12-06,Fulham,Nott'm Forest,H,H,0.7263900767050038
+2023-2024_Man United_Chelsea,2023-12-06,Man United,Chelsea,H,H,0.586182366985465
+2023-2024_Sheffield United_Liverpool,2023-12-06,Sheffield United,Liverpool,A,A,0.28641225983141
+2023-2024_Everton_Newcastle,2023-12-07,Everton,Newcastle,H,A,1.332477209170797
+2023-2024_Tottenham_West Ham,2023-12-07,Tottenham,West Ham,A,H,1.5445855272042028
+2023-2024_Aston Villa_Arsenal,2023-12-09,Aston Villa,Arsenal,H,A,1.052700911174074
+2023-2024_Brighton_Burnley,2023-12-09,Brighton,Burnley,D,H,1.557184899407621
+2023-2024_Crystal Palace_Liverpool,2023-12-09,Crystal Palace,Liverpool,A,A,0.4984820776706284
+2023-2024_Man United_Bournemouth,2023-12-09,Man United,Bournemouth,A,H,1.9840997626114276
+2023-2024_Sheffield United_Brentford,2023-12-09,Sheffield United,Brentford,H,A,1.4935430134754828
+2023-2024_Wolves_Nott'm Forest,2023-12-09,Wolves,Nott'm Forest,D,H,1.499216497772938
+2023-2024_Everton_Chelsea,2023-12-10,Everton,Chelsea,H,H,0.9173779985134483
+2023-2024_Fulham_West Ham,2023-12-10,Fulham,West Ham,H,H,0.8652057102517346
+2023-2024_Luton_Man City,2023-12-10,Luton,Man City,A,A,0.3539672746394301
+2023-2024_Tottenham_Newcastle,2023-12-10,Tottenham,Newcastle,H,H,0.8811084937908686
+2023-2024_Nott'm Forest_Tottenham,2023-12-15,Nott'm Forest,Tottenham,A,A,0.6569197704823513
+2023-2024_Burnley_Everton,2023-12-16,Burnley,Everton,A,A,0.9026148301500815
+2023-2024_Chelsea_Sheffield United,2023-12-16,Chelsea,Sheffield United,H,H,0.44310630808498097
+2023-2024_Man City_Crystal Palace,2023-12-16,Man City,Crystal Palace,D,H,1.7705237607577489
+2023-2024_Newcastle_Fulham,2023-12-16,Newcastle,Fulham,H,H,0.6896839102149345
+2023-2024_Arsenal_Brighton,2023-12-17,Arsenal,Brighton,H,H,0.5193848674881244
+2023-2024_Brentford_Aston Villa,2023-12-17,Brentford,Aston Villa,A,A,0.8179134062048162
+2023-2024_Liverpool_Man United,2023-12-17,Liverpool,Man United,D,H,1.5275787093232855
+2023-2024_West Ham_Wolves,2023-12-17,West Ham,Wolves,H,H,0.7763947383798219
+2023-2024_Crystal Palace_Brighton,2023-12-21,Crystal Palace,Brighton,D,A,1.4374068137813958
+2023-2024_Aston Villa_Sheffield United,2023-12-22,Aston Villa,Sheffield United,D,H,1.8957510729170994
+2023-2024_Fulham_Burnley,2023-12-23,Fulham,Burnley,A,H,1.6937264398942264
+2023-2024_Liverpool_Arsenal,2023-12-23,Liverpool,Arsenal,D,H,1.434340668359556
+2023-2024_Luton_Newcastle,2023-12-23,Luton,Newcastle,H,A,1.3788723925738517
+2023-2024_Nott'm Forest_Bournemouth,2023-12-23,Nott'm Forest,Bournemouth,A,A,0.9660866885549932
+2023-2024_Tottenham_Everton,2023-12-23,Tottenham,Everton,H,H,0.5450020358158603
+2023-2024_West Ham_Man United,2023-12-23,West Ham,Man United,H,A,1.0858265002883145
+2023-2024_Wolves_Chelsea,2023-12-24,Wolves,Chelsea,H,H,0.9202640143281974
+2023-2024_Bournemouth_Fulham,2023-12-26,Bournemouth,Fulham,H,H,0.7573929892124149
+2023-2024_Burnley_Liverpool,2023-12-26,Burnley,Liverpool,A,A,0.4256602611691907
+2023-2024_Man United_Aston Villa,2023-12-26,Man United,Aston Villa,H,H,0.9406892662756657
+2023-2024_Newcastle_Nott'm Forest,2023-12-26,Newcastle,Nott'm Forest,A,H,1.957383742258068
+2023-2024_Sheffield United_Luton,2023-12-26,Sheffield United,Luton,A,A,0.8602976599267764
+2023-2024_Brentford_Wolves,2023-12-27,Brentford,Wolves,A,H,1.3137189998286223
+2023-2024_Chelsea_Crystal Palace,2023-12-27,Chelsea,Crystal Palace,H,H,0.7124879695373261
+2023-2024_Everton_Man City,2023-12-27,Everton,Man City,A,A,0.5597093943941961
+2023-2024_Arsenal_West Ham,2023-12-28,Arsenal,West Ham,A,H,1.9352895494238058
+2023-2024_Brighton_Tottenham,2023-12-28,Brighton,Tottenham,H,A,1.0075061050609908
+2023-2024_Aston Villa_Burnley,2023-12-30,Aston Villa,Burnley,H,H,0.3617404169840178
+2023-2024_Crystal Palace_Brentford,2023-12-30,Crystal Palace,Brentford,H,H,0.8561144535401943
+2023-2024_Luton_Chelsea,2023-12-30,Luton,Chelsea,A,A,0.9751460366811349
+2023-2024_Man City_Sheffield United,2023-12-30,Man City,Sheffield United,H,H,0.19382837261026525
+2023-2024_Nott'm Forest_Man United,2023-12-30,Nott'm Forest,Man United,H,A,1.3413560323854663
+2023-2024_Wolves_Everton,2023-12-30,Wolves,Everton,H,H,0.797037330990571
+2023-2024_Fulham_Arsenal,2023-12-31,Fulham,Arsenal,H,A,1.441162632091321
+2023-2024_Tottenham_Bournemouth,2023-12-31,Tottenham,Bournemouth,H,H,0.5938861790730798
+2023-2024_Liverpool_Newcastle,2024-01-01,Liverpool,Newcastle,H,H,0.4123450214235997
+2023-2024_West Ham_Brighton,2024-01-02,West Ham,Brighton,D,H,1.4009612075357725
+2023-2024_Burnley_Luton,2024-01-12,Burnley,Luton,D,H,1.434815066695304
+2023-2024_Chelsea_Fulham,2024-01-13,Chelsea,Fulham,H,H,0.6227053795813905
+2023-2024_Newcastle_Man City,2024-01-13,Newcastle,Man City,A,A,0.6316771251269179
+2023-2024_Everton_Aston Villa,2024-01-14,Everton,Aston Villa,D,A,1.4366741571307582
+2023-2024_Man United_Tottenham,2024-01-14,Man United,Tottenham,D,H,1.3741425282030757
+2023-2024_Arsenal_Crystal Palace,2024-01-20,Arsenal,Crystal Palace,H,H,0.44716263039518395
+2023-2024_Brentford_Nott'm Forest,2024-01-20,Brentford,Nott'm Forest,H,H,0.781093640484833
+2023-2024_Bournemouth_Liverpool,2024-01-21,Bournemouth,Liverpool,A,A,0.5493002605807764
+2023-2024_Sheffield United_West Ham,2024-01-21,Sheffield United,West Ham,D,A,1.47008999768165
+2023-2024_Brighton_Wolves,2024-01-22,Brighton,Wolves,D,H,1.4549079063419694
+2023-2024_Aston Villa_Newcastle,2024-01-30,Aston Villa,Newcastle,A,H,1.416627051909826
+2023-2024_Crystal Palace_Sheffield United,2024-01-30,Crystal Palace,Sheffield United,H,H,0.5372457656053538
+2023-2024_Fulham_Everton,2024-01-30,Fulham,Everton,D,H,1.380114764334451
+2023-2024_Luton_Brighton,2024-01-30,Luton,Brighton,H,A,1.1333531922031532
+2023-2024_Nott'm Forest_Arsenal,2024-01-30,Nott'm Forest,Arsenal,A,A,0.5539255187169329
+2023-2024_Liverpool_Chelsea,2024-01-31,Liverpool,Chelsea,H,H,0.38854178186268723
+2023-2024_Man City_Burnley,2024-01-31,Man City,Burnley,H,H,0.20749028610983175
+2023-2024_Tottenham_Brentford,2024-01-31,Tottenham,Brentford,H,H,0.47003310011055377
+2023-2024_West Ham_Bournemouth,2024-02-01,West Ham,Bournemouth,D,H,1.55813107636434
+2023-2024_Wolves_Man United,2024-02-01,Wolves,Man United,A,H,0.9821468443514451
+2023-2024_Brighton_Crystal Palace,2024-02-03,Brighton,Crystal Palace,H,H,0.5884061676921485
+2023-2024_Burnley_Fulham,2024-02-03,Burnley,Fulham,D,H,1.3964843937893063
+2023-2024_Everton_Tottenham,2024-02-03,Everton,Tottenham,D,A,1.5006980553493212
+2023-2024_Newcastle_Luton,2024-02-03,Newcastle,Luton,D,H,1.415135721828075
+2023-2024_Sheffield United_Aston Villa,2024-02-03,Sheffield United,Aston Villa,A,A,0.5280680290711246
+2023-2024_Arsenal_Liverpool,2024-02-04,Arsenal,Liverpool,H,A,1.0267376389830882
+2023-2024_Bournemouth_Nott'm Forest,2024-02-04,Bournemouth,Nott'm Forest,D,H,1.3899974441946865
+2023-2024_Chelsea_Wolves,2024-02-04,Chelsea,Wolves,A,H,1.1984983193564185
+2023-2024_Man United_West Ham,2024-02-04,Man United,West Ham,H,H,0.6865515309390873
+2023-2024_Brentford_Man City,2024-02-05,Brentford,Man City,A,A,0.43437980346645316
+2023-2024_Fulham_Bournemouth,2024-02-10,Fulham,Bournemouth,H,H,0.7888274305801405
+2023-2024_Liverpool_Burnley,2024-02-10,Liverpool,Burnley,H,H,0.21828847382105349
+2023-2024_Luton_Sheffield United,2024-02-10,Luton,Sheffield United,A,H,1.885909454013699
+2023-2024_Man City_Everton,2024-02-10,Man City,Everton,H,H,0.26427439735902797
+2023-2024_Nott'm Forest_Newcastle,2024-02-10,Nott'm Forest,Newcastle,A,A,0.8101034416204658
+2023-2024_Tottenham_Brighton,2024-02-10,Tottenham,Brighton,H,H,0.6636330587088344
+2023-2024_Wolves_Brentford,2024-02-10,Wolves,Brentford,A,H,1.4871069867670275
+2023-2024_Aston Villa_Man United,2024-02-11,Aston Villa,Man United,A,H,1.165865499573983
+2023-2024_West Ham_Arsenal,2024-02-11,West Ham,Arsenal,A,A,0.6680104641468321
+2023-2024_Crystal Palace_Chelsea,2024-02-12,Crystal Palace,Chelsea,A,H,0.9988511716159155
+2023-2024_Brentford_Liverpool,2024-02-17,Brentford,Liverpool,A,A,0.5122961827032514
+2023-2024_Burnley_Arsenal,2024-02-17,Burnley,Arsenal,A,A,0.34440534901393444
+2023-2024_Fulham_Aston Villa,2024-02-17,Fulham,Aston Villa,A,A,0.7861792502534954
+2023-2024_Man City_Chelsea,2024-02-17,Man City,Chelsea,D,H,1.8142666560021974
+2023-2024_Newcastle_Bournemouth,2024-02-17,Newcastle,Bournemouth,D,H,1.540782654072691
+2023-2024_Nott'm Forest_West Ham,2024-02-17,Nott'm Forest,West Ham,H,H,0.892322395422129
+2023-2024_Tottenham_Wolves,2024-02-17,Tottenham,Wolves,A,H,1.6929647341861032
+2023-2024_Luton_Man United,2024-02-18,Luton,Man United,A,A,0.6702430155348323
+2023-2024_Sheffield United_Brighton,2024-02-18,Sheffield United,Brighton,A,A,0.6342448681575686
+2023-2024_Everton_Crystal Palace,2024-02-19,Everton,Crystal Palace,D,H,1.5555996344846656
+2023-2024_Man City_Brentford,2024-02-20,Man City,Brentford,H,H,0.2755230297054854
+2023-2024_Liverpool_Luton,2024-02-21,Liverpool,Luton,H,H,0.2676083853916768
+2023-2024_Arsenal_Newcastle,2024-02-24,Arsenal,Newcastle,H,H,0.3919523197592644
+2023-2024_Aston Villa_Nott'm Forest,2024-02-24,Aston Villa,Nott'm Forest,H,H,0.44288763849110785
+2023-2024_Bournemouth_Man City,2024-02-24,Bournemouth,Man City,A,A,0.3783303635295941
+2023-2024_Brighton_Everton,2024-02-24,Brighton,Everton,D,H,1.4705767586926812
+2023-2024_Crystal Palace_Burnley,2024-02-24,Crystal Palace,Burnley,H,H,0.628499356968167
+2023-2024_Man United_Fulham,2024-02-24,Man United,Fulham,A,H,1.9769764352544874
+2023-2024_Wolves_Sheffield United,2024-02-25,Wolves,Sheffield United,H,H,0.3894456721605804
+2023-2024_West Ham_Brentford,2024-02-26,West Ham,Brentford,H,H,0.8171744707430384
+2023-2024_Brentford_Chelsea,2024-03-02,Brentford,Chelsea,D,H,1.2909797144606638
+2023-2024_Everton_West Ham,2024-03-02,Everton,West Ham,A,H,1.1811223899806398
+2023-2024_Fulham_Brighton,2024-03-02,Fulham,Brighton,H,A,1.0147236345227633
+2023-2024_Luton_Aston Villa,2024-03-02,Luton,Aston Villa,A,A,0.6386463784465777
+2023-2024_Newcastle_Wolves,2024-03-02,Newcastle,Wolves,H,H,0.6432235728589
+2023-2024_Nott'm Forest_Liverpool,2024-03-02,Nott'm Forest,Liverpool,A,A,0.4118746731593038
+2023-2024_Tottenham_Crystal Palace,2024-03-02,Tottenham,Crystal Palace,H,H,0.46644115735870983
+2023-2024_Burnley_Bournemouth,2024-03-03,Burnley,Bournemouth,A,A,0.8425451611322363
+2023-2024_Man City_Man United,2024-03-03,Man City,Man United,H,H,0.46766488726681743
+2023-2024_Sheffield United_Arsenal,2024-03-04,Sheffield United,Arsenal,A,A,0.261243847916263
+2023-2024_Arsenal_Brentford,2024-03-09,Arsenal,Brentford,H,H,0.23471114890295194
+2023-2024_Bournemouth_Sheffield United,2024-03-09,Bournemouth,Sheffield United,D,H,1.751381199500318
+2023-2024_Crystal Palace_Luton,2024-03-09,Crystal Palace,Luton,D,H,1.4718930161548613
+2023-2024_Man United_Everton,2024-03-09,Man United,Everton,H,H,0.478957075112314
+2023-2024_Wolves_Fulham,2024-03-09,Wolves,Fulham,H,H,0.8341214257870934
+2023-2024_Aston Villa_Tottenham,2024-03-10,Aston Villa,Tottenham,A,H,1.311096927060697
+2023-2024_Brighton_Nott'm Forest,2024-03-10,Brighton,Nott'm Forest,H,H,0.49712889779168545
+2023-2024_Liverpool_Man City,2024-03-10,Liverpool,Man City,D,H,1.4013315086709397
+2023-2024_West Ham_Burnley,2024-03-10,West Ham,Burnley,D,H,1.5735491142960427
+2023-2024_Chelsea_Newcastle,2024-03-11,Chelsea,Newcastle,H,H,0.9460574584206645
+2023-2024_Bournemouth_Luton,2024-03-13,Bournemouth,Luton,H,H,0.63713428361301
+2023-2024_Burnley_Brentford,2024-03-16,Burnley,Brentford,H,A,1.2037197744872918
+2023-2024_Fulham_Tottenham,2024-03-16,Fulham,Tottenham,H,A,1.2242024403864593
+2023-2024_Luton_Nott'm Forest,2024-03-16,Luton,Nott'm Forest,D,H,1.3453089651440788
+2023-2024_West Ham_Aston Villa,2024-03-17,West Ham,Aston Villa,D,A,1.4076358536691405
+2023-2024_Aston Villa_Wolves,2024-03-30,Aston Villa,Wolves,H,H,0.5717072592125819
+2023-2024_Bournemouth_Everton,2024-03-30,Bournemouth,Everton,H,H,0.6833278608696148
+2023-2024_Brentford_Man United,2024-03-30,Brentford,Man United,D,A,1.4452709035658664
+2023-2024_Chelsea_Burnley,2024-03-30,Chelsea,Burnley,D,H,1.6701140897854465
+2023-2024_Newcastle_West Ham,2024-03-30,Newcastle,West Ham,H,H,0.696637674958489
+2023-2024_Nott'm Forest_Crystal Palace,2024-03-30,Nott'm Forest,Crystal Palace,D,H,1.415485855908314
+2023-2024_Sheffield United_Fulham,2024-03-30,Sheffield United,Fulham,D,A,1.3943235463319479
+2023-2024_Tottenham_Luton,2024-03-30,Tottenham,Luton,H,H,0.3897514184249543
+2023-2024_Liverpool_Brighton,2024-03-31,Liverpool,Brighton,H,H,0.3922598811204946
+2023-2024_Man City_Arsenal,2024-03-31,Man City,Arsenal,D,H,1.3586232165430467
+2023-2024_Bournemouth_Crystal Palace,2024-04-02,Bournemouth,Crystal Palace,H,H,0.7524787072929738
+2023-2024_Burnley_Wolves,2024-04-02,Burnley,Wolves,D,A,1.4307376056370098
+2023-2024_Newcastle_Everton,2024-04-02,Newcastle,Everton,D,H,1.4896962910617848
+2023-2024_Nott'm Forest_Fulham,2024-04-02,Nott'm Forest,Fulham,H,A,1.0664583869500324
+2023-2024_West Ham_Tottenham,2024-04-02,West Ham,Tottenham,D,A,1.4122808978541965
+2023-2024_Arsenal_Luton,2024-04-03,Arsenal,Luton,H,H,0.22127696183878137
+2023-2024_Brentford_Brighton,2024-04-03,Brentford,Brighton,D,A,1.3993153451265348
+2023-2024_Man City_Aston Villa,2024-04-03,Man City,Aston Villa,H,H,0.4367742126224491
+2023-2024_Chelsea_Man United,2024-04-04,Chelsea,Man United,H,H,0.9121076052987515
+2023-2024_Liverpool_Sheffield United,2024-04-04,Liverpool,Sheffield United,H,H,0.15687655908757334
+2023-2024_Aston Villa_Brentford,2024-04-06,Aston Villa,Brentford,D,H,1.4158389369938114
+2023-2024_Brighton_Arsenal,2024-04-06,Brighton,Arsenal,A,A,0.5701282470821608
+2023-2024_Crystal Palace_Man City,2024-04-06,Crystal Palace,Man City,A,A,0.3879527983787035
+2023-2024_Everton_Burnley,2024-04-06,Everton,Burnley,H,H,0.6642251043144228
+2023-2024_Fulham_Newcastle,2024-04-06,Fulham,Newcastle,A,A,0.9433609618206987
+2023-2024_Luton_Bournemouth,2024-04-06,Luton,Bournemouth,H,A,1.057715681489713
+2023-2024_Wolves_West Ham,2024-04-06,Wolves,West Ham,A,H,1.06591803660935
+2023-2024_Man United_Liverpool,2024-04-07,Man United,Liverpool,D,A,1.4226182691703677
+2023-2024_Sheffield United_Chelsea,2024-04-07,Sheffield United,Chelsea,D,A,1.495584721486692
+2023-2024_Tottenham_Nott'm Forest,2024-04-07,Tottenham,Nott'm Forest,H,H,0.4414980747306454
+2023-2024_Bournemouth_Man United,2024-04-13,Bournemouth,Man United,D,A,1.445337963331617
+2023-2024_Brentford_Sheffield United,2024-04-13,Brentford,Sheffield United,H,H,0.456526166186816
+2023-2024_Burnley_Brighton,2024-04-13,Burnley,Brighton,D,A,1.4660936919377086
+2023-2024_Man City_Luton,2024-04-13,Man City,Luton,H,H,0.20713458081027133
+2023-2024_Newcastle_Tottenham,2024-04-13,Newcastle,Tottenham,H,H,0.859468557752483
+2023-2024_Nott'm Forest_Wolves,2024-04-13,Nott'm Forest,Wolves,D,H,1.4338566996177184
+2023-2024_Arsenal_Aston Villa,2024-04-14,Arsenal,Aston Villa,A,H,1.9680178682571883
+2023-2024_Liverpool_Crystal Palace,2024-04-14,Liverpool,Crystal Palace,A,H,2.5608771056003308
+2023-2024_West Ham_Fulham,2024-04-14,West Ham,Fulham,A,H,1.4287203055812177
+2023-2024_Chelsea_Everton,2024-04-15,Chelsea,Everton,H,H,0.5481115879974092
+2023-2024_Luton_Brentford,2024-04-20,Luton,Brentford,A,A,0.9111885424533932
+2023-2024_Sheffield United_Burnley,2024-04-20,Sheffield United,Burnley,A,H,1.0589930205129217
+2023-2024_Wolves_Arsenal,2024-04-20,Wolves,Arsenal,A,A,0.5872754437613409
+2023-2024_Aston Villa_Bournemouth,2024-04-21,Aston Villa,Bournemouth,H,H,0.507399223644559
+2023-2024_Crystal Palace_West Ham,2024-04-21,Crystal Palace,West Ham,H,H,0.9026107498035415
+2023-2024_Everton_Nott'm Forest,2024-04-21,Everton,Nott'm Forest,H,H,0.8661139024943748
+2023-2024_Fulham_Liverpool,2024-04-21,Fulham,Liverpool,A,A,0.573902012933209
+2023-2024_Arsenal_Chelsea,2024-04-23,Arsenal,Chelsea,H,H,0.5278292085194626
+2023-2024_Crystal Palace_Newcastle,2024-04-24,Crystal Palace,Newcastle,H,A,1.1880151552336071
+2023-2024_Everton_Liverpool,2024-04-24,Everton,Liverpool,H,A,1.7861126714763413
+2023-2024_Man United_Sheffield United,2024-04-24,Man United,Sheffield United,H,H,0.2663514123335002
+2023-2024_Wolves_Bournemouth,2024-04-24,Wolves,Bournemouth,A,H,1.2227721329635368
+2023-2024_Brighton_Man City,2024-04-25,Brighton,Man City,A,A,0.4446993377510612
+2023-2024_Aston Villa_Chelsea,2024-04-27,Aston Villa,Chelsea,D,H,1.4915416253814318
+2023-2024_Everton_Brentford,2024-04-27,Everton,Brentford,H,H,0.9713885109151748
+2023-2024_Fulham_Crystal Palace,2024-04-27,Fulham,Crystal Palace,D,H,1.430729535010012
+2023-2024_Man United_Burnley,2024-04-27,Man United,Burnley,D,H,1.5092154315069128
+2023-2024_Newcastle_Sheffield United,2024-04-27,Newcastle,Sheffield United,H,H,0.28630602145268713
+2023-2024_West Ham_Liverpool,2024-04-27,West Ham,Liverpool,D,A,1.503538288554247
+2023-2024_Wolves_Luton,2024-04-27,Wolves,Luton,H,H,0.5543260507914757
+2023-2024_Bournemouth_Brighton,2024-04-28,Bournemouth,Brighton,H,H,0.8174194478626682
+2023-2024_Nott'm Forest_Man City,2024-04-28,Nott'm Forest,Man City,A,A,0.2864566409826042
+2023-2024_Tottenham_Arsenal,2024-04-28,Tottenham,Arsenal,A,A,0.682374925960858
+2023-2024_Chelsea_Tottenham,2024-05-02,Chelsea,Tottenham,H,H,0.8128668586974057
+2023-2024_Luton_Everton,2024-05-03,Luton,Everton,D,A,1.3671350197911198
+2023-2024_Arsenal_Bournemouth,2024-05-04,Arsenal,Bournemouth,H,H,0.3265359684044604
+2023-2024_Brentford_Fulham,2024-05-04,Brentford,Fulham,D,H,1.4838981063503394
+2023-2024_Burnley_Newcastle,2024-05-04,Burnley,Newcastle,A,A,0.6468140460823082
+2023-2024_Man City_Wolves,2024-05-04,Man City,Wolves,H,H,0.21676604690005447
+2023-2024_Sheffield United_Nott'm Forest,2024-05-04,Sheffield United,Nott'm Forest,A,A,0.8454257220827899
+2023-2024_Brighton_Aston Villa,2024-05-05,Brighton,Aston Villa,H,A,1.2336462657599543
+2023-2024_Chelsea_West Ham,2024-05-05,Chelsea,West Ham,H,H,0.5978413776833569
+2023-2024_Liverpool_Tottenham,2024-05-05,Liverpool,Tottenham,H,H,0.4749201500482342
+2023-2024_Crystal Palace_Man United,2024-05-06,Crystal Palace,Man United,H,A,1.0761734089867994
+2023-2024_Bournemouth_Brentford,2024-05-11,Bournemouth,Brentford,A,H,1.1244611651936067
+2023-2024_Everton_Sheffield United,2024-05-11,Everton,Sheffield United,H,H,0.3734157583983426
+2023-2024_Fulham_Man City,2024-05-11,Fulham,Man City,A,A,0.32462420105705614
+2023-2024_Newcastle_Brighton,2024-05-11,Newcastle,Brighton,D,H,1.6367001382078576
+2023-2024_Nott'm Forest_Chelsea,2024-05-11,Nott'm Forest,Chelsea,A,A,0.6621060249386678
+2023-2024_Tottenham_Burnley,2024-05-11,Tottenham,Burnley,H,H,0.5033531330258387
+2023-2024_West Ham_Luton,2024-05-11,West Ham,Luton,H,H,0.6009613796275971
+2023-2024_Wolves_Crystal Palace,2024-05-11,Wolves,Crystal Palace,A,A,0.9309360022730062
+2023-2024_Man United_Arsenal,2024-05-12,Man United,Arsenal,A,A,0.7039728065544835
+2023-2024_Aston Villa_Liverpool,2024-05-13,Aston Villa,Liverpool,D,A,1.4379738083521467
+2023-2024_Tottenham_Man City,2024-05-14,Tottenham,Man City,A,A,0.435412391937895
+2023-2024_Brighton_Chelsea,2024-05-15,Brighton,Chelsea,A,A,0.9284246537841966
+2023-2024_Man United_Newcastle,2024-05-15,Man United,Newcastle,H,H,0.9721583221741874
+2023-2024_Arsenal_Everton,2024-05-19,Arsenal,Everton,H,H,0.3274764432900791
+2023-2024_Brentford_Newcastle,2024-05-19,Brentford,Newcastle,A,A,0.9141309351896715
+2023-2024_Brighton_Man United,2024-05-19,Brighton,Man United,A,A,0.9200152353819354
+2023-2024_Burnley_Nott'm Forest,2024-05-19,Burnley,Nott'm Forest,A,H,1.11837309553746
+2023-2024_Chelsea_Bournemouth,2024-05-19,Chelsea,Bournemouth,H,H,0.4674038163419531
+2023-2024_Crystal Palace_Aston Villa,2024-05-19,Crystal Palace,Aston Villa,H,H,0.9144298613643486
+2023-2024_Liverpool_Wolves,2024-05-19,Liverpool,Wolves,H,H,0.3014599391723244
+2023-2024_Luton_Fulham,2024-05-19,Luton,Fulham,A,A,0.9081013557139801
+2023-2024_Man City_West Ham,2024-05-19,Man City,West Ham,H,H,0.19412530834409158
+2023-2024_Sheffield United_Tottenham,2024-05-19,Sheffield United,Tottenham,A,A,0.47964904070328573
