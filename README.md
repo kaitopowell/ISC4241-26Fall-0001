@@ -65,3 +65,19 @@ This is a hypothetical archived matchup. It does not forecast current fixtures; 
 | tests/ | Leakage, chronology, class order, data-integrity and numerical checks |
 
 The dataset is an archived snapshot, not live 2026 data. The newest **complete cached season** is 2023–24. Check source reuse terms before redistributing independently; this repository's saved source does not establish a new data license. The old `proj4flask.py`, database dependencies and pickle files are not part of the evaluated pipeline. Do not present their old accuracy as a comparable result.
+
+## Follow-up: recognizing draws (five-member team)
+
+Read [the new results](reports/draw_refinement/RESULTS.md), [the follow-up notebook](Draw_Recognition_Followup.ipynb), or open [the offline follow-up report](reports/draw_refinement/report.html). This preserves the original experiment and uses **10 outer × 3 inner chronological folds** to tune models and draw decision rules. The already-opened 2023–24 season is now development data; the later partial 2024–25 snapshot supplies a separate final check.
+
+The draw-aware forest caught 10 of 57 draws and reached 51.4% accuracy versus a same-row reference of 50.0%. However, nested validation lost accuracy, no configuration met both declared development goals, and the later accuracy-difference interval includes zero. It is a draw-sensitive alternative, **not a demonstrated accuracy upgrade**. See the report for the class-metric trade-off and partial-season limitations. The presentation plan now assigns work to five members, with Kiro explaining the main technical section.
+
+The follow-up protocol is in [PLAN.md](experiments/draw_refinement/PLAN.md). To verify reproducibility without overwriting either frozen experiment:
+
+```bash
+source .venv/bin/activate
+python -m pytest -q
+python scripts/reproduce_draw.py
+```
+
+For a genuinely new experiment with a new untouched holdout, the module has separate `--stage develop` and `--stage test` commands. Its manifest deliberately refuses re-development after evaluation. Do not remove that protection to fish for a better result on the same holdout. The reproduction script instead runs the identical frozen procedure in a disposable directory and compares its saved outputs.

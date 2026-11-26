@@ -15,3 +15,9 @@ This local NumPy/BLAS execution emitted divide-by-zero/overflow/invalid RuntimeW
 ## Scope
 
 The experiment is complete; final slides still belong to the team members, as requested in the supplied project notes. The presentation outline and images support those slides. The legacy Flask/database application has not been converted into a live forecasting service. There is no independent verification of every historical score against an external provider, nor a new current-season data feed.
+
+## Draw-recognition follow-up
+
+The additional four tests cover unchanged probability values under the draw decision rule, nested chronological boundaries, a separate later holdout, enforced selection constraints/fallback reporting and predictor allowlisting. Thirteen tests pass in total. The small synthetic decision-rule test triggers sklearn's warning that a predicted class is absent from that toy example's true labels; this is intentional and does not occur in the three-class evaluation cohorts.
+
+The follow-up notebook was executed successfully. A disposable-directory reproduction reran the entire nested search and later evaluation; all six audited tables (nested summary/predictions, outer splits, final metrics/predictions and VIF) matched within numerical tolerance. Original v1 results and source files remained unchanged. The follow-up trade-off and confusion figures were visually inspected.

@@ -1,0 +1,12 @@
+{
+  "comparison": "draw-aware minus reference; positive favors draw-aware",
+  "accuracy_95": [
+    -0.03090411840411834,
+    0.06092595066346058
+  ],
+  "macro_f1_95": [
+    0.03157936375519045,
+    0.14020005200176736
+  ],
+  "limitation": "Paired week-block percentile intervals, conditional on fitted models; cross-week/team dependence and partial-season bias remain."
+}

@@ -1,0 +1,21 @@
+{
+  "fingerprint": "12ad89f68ea1ed2282d1012f1690c0fa62be4e4acf820539fbd49a92cb766cd5",
+  "selected_model": "forest_d4",
+  "multiplier": 1.0,
+  "constraints_unmet": true,
+  "development_n": 1065,
+  "test_n": 214,
+  "test_start": "2024-08-16",
+  "test_end": "2025-01-20",
+  "features": [
+    "gf_diff",
+    "ga_diff",
+    "win_diff",
+    "rest_diff",
+    "elo_diff",
+    "abs_elo_gap",
+    "total_gf",
+    "total_ga"
+  ],
+  "primary_objective": "macro F1, subject to inner accuracy within 2pp of reference and draw recall >=10%; fallback unconstrained macro F1"
+}
