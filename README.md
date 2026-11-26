@@ -1,51 +1,59 @@
-# Premier League Match Outcome Prediction
+# Predicting Premier League Home Wins
 
-UCF Data Science I · ISC 4241 · Fall 2026
+UCF Data Science I · ISC 4241 · Fall 2026 - final project (clean redo, branch `course-project-redo`)
 
-## Research question
+**Question:** Using only information available before kickoff, can we predict whether the home team wins? Does a refined logistic regression do as well as decision trees and random forests?
 
-Can a random forest predict Premier League match outcomes better than multinomial logistic regression using the same information available before kickoff?
+| 2024-25 held-out season (366 matches) | Accuracy | AUC |
+|---|---:|---:|
+| Always "not a home win" (majority) | 58.7% | 0.50 |
+| Baseline logistic: original 5-game form features | 62.6% | 0.63 |
+| **Selected: refined logistic regression (7 predictors, L2)** | **65.6%** | **0.71** |
+| Best random forest (comparator, not selected) | 66.9% | 0.71 |
+| Bookmakers (benchmark only, never a model input) | 66.4% | 0.73 |
 
-Each row represents one completed league match. The target has three classes: **home win, draw, and away win**. The home and away assignments are part of the matchup.
+In 10-fold chronological CV (2016-17 to 2023-24), the selected model scored 66.2%, against 61.6% for the baseline logistic and 55.3% for the majority guess. It tied the best forest (66.4%) and had the best log loss and AUC of all 31 configurations.
 
-## 1. Collect and explore the data
+**Start here:** [Home_Win_Prediction.ipynb](Home_Win_Prediction.ipynb) (executed) · [reports/report.html](reports/report.html) (offline report with every figure) · [docs/RESULTS.md](docs/RESULTS.md) (findings and presentation talking points)
 
-- Use [TheSportsDB season endpoint](https://www.thesportsdb.com/documentation) to collect historical Premier League matches. Record the seasons, retrieval date, and fields used.
-- Verify that each selected season has complete fixture coverage before calculating team form. The documented free season endpoint lists a result limit. Check actual counts from the export.
-- Plot class counts by season and inspect the score distribution. Use these plots to explain class imbalance and how the data changes over time.
+## What the project does
 
-## 2. Clean the data and build features
+1. **Data** - 11 complete Premier League seasons (2014-15 to 2024-25, 4,180 matches) from Football-Data.co.uk, validated season by season ([provenance](data/football_data/provenance.json)).
+2. **Leak-free features** - Elo rating, 5- and 20-match form, shots and shots on target, venue-specific form, rest days, and a no-crowd (COVID) indicator. All are computed from earlier dates only, and tests prove it.
+3. **Models** - majority baseline; **baseline logistic regression** (the original project's 5-game form); full, VIF-pruned, target-aware VIF-pruned, lasso (L1) and compact logistic models; decision trees; random forests.
+4. **10-fold chronological cross-validation** - expanding window, date-aligned. Pruning and scaling are refit inside every fold.
+5. **Collinearity** - correlation heatmap and VIF. `gd20 = gf20 - ga20` is exactly collinear (VIF = inf), and classic VIF pruning wrongly dropped Elo.
+6. **Diagnostic plots, then refinement** - binned residuals (vs fitted and vs predictors), leverage and Cook's distance, residuals by season, train vs validation gap. Each finding led to a specific change; see `soccer/refine.py`.
+7. **One test** - the choice was locked (with a code and data fingerprint) before 2024-25 was scored. There is a paired week-block bootstrap CI for every comparison.
 
-- Keep completed Premier League matches. Check match IDs for duplicates and investigate conflicting records. Parse kickoff dates and scores and check that team IDs are consistent.
-- Log row counts before and after each cleaning step, including exclusions for missing scores, invalid dates, and insufficient team history. Verify unusually large scorelines against the match record and retain confirmed results.
-- Calculate points per match and average goal difference over each team's previous five completed league matches. Start with home-minus-away differences. Use a match for modeling once both teams have five prior matches in the verified data and report how many rows this excludes.
-- Derive the label from the current match's final score. Build inputs only from information available before kickoff. Check for redundant features such as goals for, goals against, and goal difference calculated over the same window.
+The team brief's three-way home/draw/away version is reported as a secondary result: 52.7% accuracy, macro F1 0.39, against the bookmakers' 54.4%. Draws are never the most likely outcome, so draw recall is 0 for us and for the bookmakers. That ceiling is why the binary target is the main analysis.
 
-## 3. Train and compare
+## Reproduce
 
-| Approach | Why use it? |
-| --- | --- |
-| Most-common-outcome baseline | Shows how well we can do by always predicting the most frequent outcome in the training data. |
-| Multinomial logistic regression | Provides a simple, interpretable model for three outcomes. |
-| Random forest classifier | Tests whether nonlinear relationships and interactions improve predictions. |
+```bash
+python3 -m venv .venv && source .venv/bin/activate
+pip install -r requirements.txt
+python -m pytest -q
+python -m soccer.run --stage develop    # initial grid + diagnostics
+python -m soccer.run --stage refine     # diagnostic-driven candidates, locks the choice
+python -m soccer.run --stage test       # single evaluation on 2024-25
+python scripts/build_report.py          # figures + reports/report.html
+python scripts/make_notebook.py         # executes Home_Win_Prediction.ipynb
+```
 
-1. Split chronologically by season. Use earlier seasons for training, the next complete season for validation, and the newest complete season for testing.
-2. Fit any preprocessing on training data and choose model settings on validation data. Start with a small set of random forest depths and minimum leaf sizes.
-3. Refit each model and its preprocessing on training plus validation with the chosen settings. Evaluate on the held-out test season. Earlier completed matches in that season can update rolling features for later fixtures while model parameters stay fixed.
+`--stage test` refuses to run if any modelling code or data changed after the lock.
 
-## 4. Evaluate and present
+## Layout
 
-- Report accuracy and macro F1 on the same test fixtures for every approach. Macro F1 gives equal weight to all three classes.
-- Show a confusion matrix and discuss draw recall. Walk through one actual prediction and explain a mistake or a limitation.
-- State what the results support. The project tests whether the forest improves on simpler approaches and how consistently it handles all three outcomes.
+| Path | Contents |
+|---|---|
+| `soccer/data.py` | load and validate the CSVs |
+| `soccer/features.py` | leak-free Elo and rolling features |
+| `soccer/models.py` | candidates, VIF, chronological folds, metrics |
+| `soccer/refine.py` | refinements, each justified by a diagnostic |
+| `soccer/run.py` | develop, refine and test stages, bootstrap, three-way task |
+| `soccer/plots.py` | all figures |
+| `reports/` | CV tables, VIF tables, influence, lock, test results, figures, HTML report |
+| `tests/test_pipeline.py` | leakage (current, future and same-day), chronology, VIF, odds exclusion |
 
-## Presentation plan
-
-| Section | Time |
-| --- | ---: |
-| Research question, dataset, and exploration | 2 min |
-| Cleaning, outliers, and one example feature row | 3 min |
-| Model choices, season split, and refitting | 3 min |
-| Results, mistakes, and limitations | 3 min |
-
-Each group member makes and presents their own slides. Be ready to explain what you did, why you did it, and what the evidence shows. Keep the talk within 12 minutes, submit the slides before the scheduled presentation, and have every group member attend.
+Legacy files from the original project (Flask app, LIGA MX and BESTANOTHER notebooks, `static/`, `templates/`) are untouched. They are not part of the evaluated pipeline.

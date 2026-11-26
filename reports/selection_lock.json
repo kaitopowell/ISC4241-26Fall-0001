@@ -1,0 +1,17 @@
+{
+  "selected": "logit_compact_C0.03",
+  "family": "logistic",
+  "rule": "max pooled 10-fold chronological OOF accuracy; ties (<=0.25 pt) -> lower log loss",
+  "features": [
+    "elo_diff",
+    "shots20_diff",
+    "shots_against20_diff",
+    "venue_ppg_diff",
+    "gf5_diff",
+    "ga5_diff",
+    "no_crowd"
+  ],
+  "development": "2016-2017 .. 2023-2024 (2924 matches)",
+  "test": "2024-2025",
+  "fingerprint": "79a911ebddf574134b96a8bd8f76554f9a63f4a09d17a196c5ecf377b3ea42b3"
+}
