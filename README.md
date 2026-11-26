@@ -1,51 +1,67 @@
-# Premier League Match Outcome Prediction
+# Premier League results: a class-aligned supervised-learning project
 
-UCF Data Science I · ISC 4241 · Fall 2026
+**Question:** Can a random forest predict home/draw/away outcomes better than multinomial logistic regression using only information available before a match?
 
-## Research question
+Start with [the measured results](reports/RESULTS.md), [the executed notebook](Final_Project.ipynb), or download/open [the standalone HTML report](reports/final_report.html). The HTML contains its figures and works offline. This branch replaces the assessed analysis with a reproducible historical experiment; the original notebooks and Flask site remain as legacy material.
 
-Can a random forest predict Premier League match outcomes better than multinomial logistic regression using the same information available before kickoff?
+## What is included
 
-Each row represents one completed league match. The target has three classes: **home win, draw, and away win**. The home and away assignments are part of the matchup.
+- Audited extraction of three complete TheSportsDB seasons already cached in the original notebook; no API credentials or database needed.
+- Pre-match five-game form and Elo, with tests against current-result, future-result and same-day leakage.
+- Majority and class-prior baselines; initial/refined multinomial logistic regression; tuned decision trees and random forests; class-weight and no-Elo comparisons (19 configurations).
+- Ten expanding chronological folds, train-only scaling/VIF selection and a held-out 2023–24 season.
+- Full correlation heatmap, before/after VIF, class distributions, train/validation gaps, calibration, probability residuals, ROC/PR, confusion matrices, error examples and approximate block-bootstrap uncertainty.
+- A historical matchup demonstration, course alignment notes, and a timed team presentation plan with Kiro owning the technical section.
 
-## 1. Collect and explore the data
+## Reproduce from repository root
 
-- Use [TheSportsDB season endpoint](https://www.thesportsdb.com/documentation) to collect historical Premier League matches. Record the seasons, retrieval date, and fields used.
-- Verify that each selected season has complete fixture coverage before calculating team form. The documented free season endpoint lists a result limit. Check actual counts from the export.
-- Plot class counts by season and inspect the score distribution. Use these plots to explain class imbalance and how the data changes over time.
+Python 3.9.6 was used; exact package versions are pinned. Python 3.10–3.12 may work but were not tested. Allow several minutes for the model comparisons and figures.
 
-## 2. Clean the data and build features
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+python -m pip install -r requirements-analysis.txt
+python -m pytest -q
+python -m analysis.run --stage develop
+# Inspect development diagnostics and the frozen selection before first test evaluation.
+python -m analysis.run --stage test
+python scripts/build_deliverables.py
+python scripts/verify_results.py
+```
 
-- Keep completed Premier League matches. Check match IDs for duplicates and investigate conflicting records. Parse kickoff dates and scores and check that team IDs are consistent.
-- Log row counts before and after each cleaning step, including exclusions for missing scores, invalid dates, and insufficient team history. Verify unusually large scorelines against the match record and retain confirmed results.
-- Calculate points per match and average goal difference over each team's previous five completed league matches. Start with home-minus-away differences. Use a match for modeling once both teams have five prior matches in the verified data and report how many rows this excludes.
-- Derive the label from the current match's final score. Build inputs only from information available before kickoff. Check for redundant features such as goals for, goals against, and goal difference calculated over the same window.
+Committed reports are the completed experiment. A fresh clone needs the development command to recreate its local fitted bundle (excluded from Git). Re-evaluation of the exact same experiment checks that held-out metrics match the saved values. A code/data fingerprint prevents overwriting the test results with a changed experiment. **Do not delete the test manifest to tune against this season.** New modeling ideas require a new untouched evaluation period. Reproducing existing results is not a new independent test.
 
-## 3. Train and compare
+To execute the review notebook after regenerating it:
 
-| Approach | Why use it? |
-| --- | --- |
-| Most-common-outcome baseline | Shows how well we can do by always predicting the most frequent outcome in the training data. |
-| Multinomial logistic regression | Provides a simple, interpretable model for three outcomes. |
-| Random forest classifier | Tests whether nonlinear relationships and interactions improve predictions. |
+```bash
+python -m ipykernel install --prefix .venv --name isc-project --display-name 'Python (ISC project)'
+JUPYTER_PATH="$PWD/.venv/share/jupyter" python scripts/execute_notebook.py
+```
 
-1. Split chronologically by season. Use earlier seasons for training, the next complete season for validation, and the newest complete season for testing.
-2. Fit any preprocessing on training data and choose model settings on validation data. Start with a small set of random forest depths and minimum leaf sizes.
-3. Refit each model and its preprocessing on training plus validation with the chosen settings. Evaluate on the held-out test season. Earlier completed matches in that season can update rolling features for later fixtures while model parameters stay fixed.
+Historical prediction example:
 
-## 4. Evaluate and present
+```bash
+python -m analysis.predict --home Arsenal --away Chelsea --date 2024-05-20
+```
 
-- Report accuracy and macro F1 on the same test fixtures for every approach. Macro F1 gives equal weight to all three classes.
-- Show a confusion matrix and discuss draw recall. Walk through one actual prediction and explain a mistake or a limitation.
-- State what the results support. The project tests whether the forest improves on simpler approaches and how consistently it handles all three outcomes.
+This is a hypothetical archived matchup. It does not forecast current fixtures; dates beyond the snapshot's supported horizon are rejected. The fitted model stays trained through 2022–23, while past results update the pre-match history.
 
-## Presentation plan
+## Read and present
 
-| Section | Time |
-| --- | ---: |
-| Research question, dataset, and exploration | 2 min |
-| Cleaning, outliers, and one example feature row | 3 min |
-| Model choices, season split, and refitting | 3 min |
-| Results, mistakes, and limitations | 3 min |
+| File | Purpose |
+|---|---|
+| [Final_Project.ipynb](Final_Project.ipynb) | Executed walkthrough, figures, tables and example |
+| [reports/RESULTS.md](reports/RESULTS.md) | Actual findings and diagnostic decisions |
+| [reports/final_report.html](reports/final_report.html) | Portable report with embedded figures |
+| [docs/METHODOLOGY.md](docs/METHODOLOGY.md) | Cleaning, assumptions, leakage, metrics and limitations |
+| [docs/COURSE_ALIGNMENT.md](docs/COURSE_ALIGNMENT.md) | Connections to the available lecture materials |
+| [docs/TEAM_PRESENTATION.md](docs/TEAM_PRESENTATION.md) | Roles, 11-minute outline and questions to rehearse |
+| [docs/VALIDATION.md](docs/VALIDATION.md) | Executed checks and numerical warning investigation |
+| [docs/FEATURE_GUIDE.md](docs/FEATURE_GUIDE.md) | Definitions, equations and worked example |
+| [reports/selection_lock.json](reports/selection_lock.json) | CV choice, cutoffs, versions and fingerprint |
+| [data/raw/provenance.json](data/raw/provenance.json) | Source notebook checksum and extraction cells |
+| reports/*.csv | Row-level audit, fold results, VIF and saved predictions |
+| analysis/ | Extraction, feature engineering, validation, plots and prediction |
+| tests/ | Leakage, chronology, class order, data-integrity and numerical checks |
 
-Each group member makes and presents their own slides. Be ready to explain what you did, why you did it, and what the evidence shows. Keep the talk within 12 minutes, submit the slides before the scheduled presentation, and have every group member attend.
+The dataset is an archived snapshot, not live 2026 data. The newest **complete cached season** is 2023–24. Check source reuse terms before redistributing independently; this repository's saved source does not establish a new data license. The old `proj4flask.py`, database dependencies and pickle files are not part of the evaluated pipeline. Do not present their old accuracy as a comparable result.

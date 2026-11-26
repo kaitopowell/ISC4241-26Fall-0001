@@ -1,0 +1,430 @@
+match_id,date,home,away,outcome,fold,p_A,p_D,p_H
+1154099,2022-04-20,Everton,Leicester,D,1,0.0,0.0,1.0
+1154170,2022-04-20,Chelsea,Arsenal,A,1,0.0,0.0,1.0
+1154222,2022-04-20,Manchester City,Brighton,H,1,0.0,0.0,1.0
+1154223,2022-04-20,Newcastle,Crystal Palace,H,1,0.0,0.0,1.0
+1154219,2022-04-21,Burnley,Southampton,H,1,0.0,0.0,1.0
+1154258,2022-04-23,Arsenal,Manchester United,H,1,0.0,0.0,1.0
+1154259,2022-04-23,Brentford,Tottenham,D,1,0.0,0.0,1.0
+1154264,2022-04-23,Leicester,Aston Villa,D,1,0.0,0.0,1.0
+1154266,2022-04-23,Manchester City,Watford,H,1,0.0,0.0,1.0
+1154267,2022-04-23,Norwich,Newcastle,A,1,0.0,0.0,1.0
+1154260,2022-04-24,Brighton,Southampton,D,1,0.0,0.0,1.0
+1154261,2022-04-24,Burnley,Wolves,H,1,0.0,0.0,1.0
+1154262,2022-04-24,Chelsea,West Ham,H,1,0.0,0.0,1.0
+1154265,2022-04-24,Liverpool,Everton,H,1,0.0,0.0,1.0
+1154263,2022-04-25,Crystal Palace,Leeds,D,1,0.0,0.0,1.0
+1154291,2022-04-28,Manchester United,Chelsea,D,1,0.0,0.0,1.0
+1154268,2022-04-30,Aston Villa,Norwich,H,1,0.0,0.0,1.0
+1154270,2022-04-30,Leeds,Manchester City,A,1,0.0,0.0,1.0
+1154272,2022-04-30,Newcastle,Liverpool,A,1,0.0,0.0,1.0
+1154273,2022-04-30,Southampton,Crystal Palace,A,1,0.0,0.0,1.0
+1154275,2022-04-30,Watford,Burnley,A,1,0.0,0.0,1.0
+1154277,2022-04-30,Wolves,Brighton,A,1,0.0,0.0,1.0
+1154269,2022-05-01,Everton,Chelsea,H,1,0.0,0.0,1.0
+1154274,2022-05-01,Tottenham,Leicester,H,1,0.0,0.0,1.0
+1154276,2022-05-01,West Ham,Arsenal,A,1,0.0,0.0,1.0
+1154271,2022-05-02,Manchester United,Brentford,H,1,0.0,0.0,1.0
+1154279,2022-05-07,Brentford,Southampton,H,1,0.0,0.0,1.0
+1154280,2022-05-07,Brighton,Manchester United,H,1,0.0,0.0,1.0
+1154281,2022-05-07,Burnley,Aston Villa,A,1,0.0,0.0,1.0
+1154282,2022-05-07,Chelsea,Wolves,D,1,0.0,0.0,1.0
+1154283,2022-05-07,Crystal Palace,Watford,H,1,0.0,0.0,1.0
+1154285,2022-05-07,Liverpool,Tottenham,D,1,0.0,0.0,1.0
+1154278,2022-05-08,Arsenal,Leeds,H,1,0.0,0.0,1.0
+1154284,2022-05-08,Leicester,Everton,A,1,0.0,0.0,1.0
+1154286,2022-05-08,Manchester City,Newcastle,H,1,0.0,0.0,1.0
+1154287,2022-05-08,Norwich,West Ham,A,1,0.0,0.0,1.0
+1154248,2022-05-10,Aston Villa,Liverpool,A,1,0.0,0.0,1.0
+1154134,2022-05-11,Leicester,Norwich,H,1,0.0,0.0,1.0
+1154226,2022-05-11,Watford,Everton,D,1,0.0,0.0,1.0
+1154250,2022-05-11,Leeds,Chelsea,A,1,0.0,0.0,1.0
+1154257,2022-05-11,Wolves,Manchester City,A,1,0.0,0.0,1.0
+1154145,2022-05-12,Tottenham,Arsenal,H,1,0.0,0.0,1.0
+1154288,2022-05-15,Aston Villa,Crystal Palace,D,2,0.0,0.0,1.0
+1154289,2022-05-15,Everton,Brentford,A,2,0.0,0.0,1.0
+1154290,2022-05-15,Leeds,Brighton,D,2,0.0,0.0,1.0
+1154294,2022-05-15,Tottenham,Burnley,H,2,0.0,0.0,1.0
+1154295,2022-05-15,Watford,Leicester,A,2,0.0,0.0,1.0
+1154296,2022-05-15,West Ham,Manchester City,D,2,0.0,0.0,1.0
+1154297,2022-05-15,Wolves,Norwich,D,2,0.0,0.0,1.0
+1154292,2022-05-16,Newcastle,Arsenal,H,2,0.0,0.0,1.0
+1154293,2022-05-17,Southampton,Liverpool,A,2,0.0,0.0,1.0
+1154098,2022-05-19,Aston Villa,Burnley,D,2,0.0,0.0,1.0
+1154191,2022-05-19,Chelsea,Leicester,D,2,0.0,0.0,1.0
+1154249,2022-05-19,Everton,Crystal Palace,H,2,0.0,0.0,1.0
+1154298,2022-05-22,Arsenal,Everton,H,2,0.0,0.0,1.0
+1154299,2022-05-22,Brentford,Leeds,A,2,0.0,0.0,1.0
+1154300,2022-05-22,Brighton,West Ham,H,2,0.0,0.0,1.0
+1154301,2022-05-22,Burnley,Newcastle,A,2,0.0,0.0,1.0
+1154302,2022-05-22,Chelsea,Watford,H,2,0.0,0.0,1.0
+1154303,2022-05-22,Crystal Palace,Manchester United,H,2,0.0,0.0,1.0
+1154304,2022-05-22,Leicester,Southampton,H,2,0.0,0.0,1.0
+1154305,2022-05-22,Liverpool,Wolves,H,2,0.0,0.0,1.0
+1154306,2022-05-22,Manchester City,Aston Villa,H,2,0.0,0.0,1.0
+1154307,2022-05-22,Norwich,Tottenham,A,2,0.0,0.0,1.0
+1570706,2022-08-05,Crystal Palace,Arsenal,A,2,0.0,0.0,1.0
+1570709,2022-08-06,Leeds,Wolves,H,2,0.0,0.0,1.0
+1570712,2022-08-06,Tottenham,Southampton,H,2,0.0,0.0,1.0
+1570713,2022-08-06,Everton,Chelsea,A,2,0.0,0.0,1.0
+1570710,2022-08-07,Leicester,Brentford,D,2,0.0,0.0,1.0
+1570714,2022-08-07,Manchester United,Brighton,A,2,0.0,0.0,1.0
+1570715,2022-08-07,West Ham,Manchester City,A,2,0.0,0.0,1.0
+1570716,2022-08-13,Arsenal,Leicester,H,2,0.0,0.0,1.0
+1570717,2022-08-13,Aston Villa,Everton,H,2,0.0,0.0,1.0
+1570718,2022-08-13,Brentford,Manchester United,H,2,0.0,0.0,1.0
+1570719,2022-08-13,Brighton,Newcastle,D,2,0.0,0.0,1.0
+1570724,2022-08-13,Southampton,Leeds,D,2,0.0,0.0,1.0
+1570720,2022-08-14,Chelsea,Tottenham,D,2,0.0,0.0,1.0
+1570721,2022-08-15,Liverpool,Crystal Palace,D,2,0.0,0.0,1.0
+1570727,2022-08-20,Crystal Palace,Aston Villa,H,2,0.0,0.0,1.0
+1570731,2022-08-20,Leicester,Southampton,A,2,0.0,0.0,1.0
+1570734,2022-08-20,Tottenham,Wolves,H,2,0.0,0.0,1.0
+1570730,2022-08-21,Leeds,Chelsea,H,2,0.0,0.0,1.0
+1570733,2022-08-21,Newcastle,Manchester City,D,2,0.0,0.0,1.0
+1570735,2022-08-21,West Ham,Brighton,A,2,0.0,0.0,1.0
+1570732,2022-08-22,Manchester United,Liverpool,H,2,0.0,0.0,1.0
+1570738,2022-08-27,Brentford,Everton,D,3,0.0,0.0,1.0
+1570739,2022-08-27,Brighton,Leeds,H,3,0.0,0.0,1.0
+1570740,2022-08-27,Chelsea,Leicester,H,3,0.0,0.0,1.0
+1570742,2022-08-27,Manchester City,Crystal Palace,H,3,0.0,0.0,1.0
+1570744,2022-08-27,Southampton,Manchester United,A,3,0.0,0.0,1.0
+1570737,2022-08-28,Aston Villa,West Ham,A,3,0.0,0.0,1.0
+1570745,2022-08-28,Wolves,Newcastle,D,3,0.0,0.0,1.0
+1570749,2022-08-30,Leeds,Everton,D,3,0.0,0.0,1.0
+1570752,2022-08-30,Crystal Palace,Brentford,D,3,0.0,0.0,1.0
+1570753,2022-08-30,Southampton,Chelsea,H,3,0.0,0.0,1.0
+1570747,2022-08-31,Arsenal,Aston Villa,H,3,0.0,0.0,1.0
+1570751,2022-08-31,West Ham,Tottenham,D,3,0.0,0.0,1.0
+1570754,2022-08-31,Liverpool,Newcastle,H,3,0.0,0.0,1.0
+1570750,2022-09-01,Leicester,Manchester United,A,3,0.0,0.0,1.0
+1570756,2022-09-03,Aston Villa,Manchester City,D,3,0.0,0.0,1.0
+1570757,2022-09-03,Brentford,Leeds,H,3,0.0,0.0,1.0
+1570759,2022-09-03,Chelsea,West Ham,H,3,0.0,0.0,1.0
+1570760,2022-09-03,Everton,Liverpool,D,3,0.0,0.0,1.0
+1570762,2022-09-03,Newcastle,Crystal Palace,D,3,0.0,0.0,1.0
+1570764,2022-09-03,Tottenham,Fulham,H,3,0.0,0.0,1.0
+1570765,2022-09-03,Wolves,Southampton,H,3,0.0,0.0,1.0
+1571092,2022-09-03,Nottingham Forest,Bournemouth,A,3,0.0,0.0,1.0
+1570758,2022-09-04,Brighton,Leicester,H,3,0.0,0.0,1.0
+1570761,2022-09-04,Manchester United,Arsenal,H,3,0.0,0.0,1.0
+1570776,2022-09-16,Aston Villa,Southampton,H,3,0.0,0.0,1.0
+1571094,2022-09-16,Nottingham Forest,Fulham,A,3,0.0,0.0,1.0
+1570782,2022-09-17,Newcastle,Bournemouth,D,3,0.0,0.0,1.0
+1570784,2022-09-17,Tottenham,Leicester,H,3,0.0,0.0,1.0
+1570785,2022-09-17,Wolves,Manchester City,A,3,0.0,0.0,1.0
+1570777,2022-09-18,Brentford,Arsenal,A,3,0.0,0.0,1.0
+1570780,2022-09-18,Everton,West Ham,H,3,0.0,0.0,1.0
+1570786,2022-10-01,Bournemouth,Brentford,D,3,0.0,0.0,1.0
+1570787,2022-10-01,Arsenal,Tottenham,H,3,0.0,0.0,1.0
+1570788,2022-10-01,Crystal Palace,Chelsea,A,3,0.0,0.0,1.0
+1570789,2022-10-01,Fulham,Newcastle,A,3,0.0,0.0,1.0
+1570792,2022-10-01,Liverpool,Brighton,D,3,0.0,0.0,1.0
+1570794,2022-10-01,Southampton,Everton,A,3,0.0,0.0,1.0
+1570795,2022-10-01,West Ham,Wolves,H,3,0.0,0.0,1.0
+1570790,2022-10-02,Leeds,Aston Villa,D,3,0.0,0.0,1.0
+1570793,2022-10-02,Manchester City,Manchester United,H,3,0.0,0.0,1.0
+1571095,2022-10-03,Leicester,Nottingham Forest,H,3,0.0,0.0,1.0
+1570796,2022-10-08,Bournemouth,Leicester,H,3,0.0,0.0,1.0
+1570798,2022-10-08,Brighton,Tottenham,A,3,0.0,0.0,1.0
+1570799,2022-10-08,Chelsea,Wolves,H,3,0.0,0.0,1.0
+1570802,2022-10-08,Manchester City,Southampton,H,3,0.0,0.0,1.0
+1570803,2022-10-08,Newcastle,Brentford,H,3,0.0,0.0,1.0
+1570797,2022-10-09,Arsenal,Liverpool,H,4,0.0,0.0,1.0
+1570800,2022-10-09,Crystal Palace,Leeds,H,4,0.0,0.0,1.0
+1570801,2022-10-09,Everton,Manchester United,A,4,0.0,0.0,1.0
+1570805,2022-10-09,West Ham,Fulham,H,4,0.0,0.0,1.0
+1571096,2022-10-10,Nottingham Forest,Aston Villa,D,4,0.0,0.0,1.0
+1570807,2022-10-14,Brentford,Brighton,H,4,0.0,0.0,1.0
+1570808,2022-10-15,Fulham,Bournemouth,D,4,0.0,0.0,1.0
+1570810,2022-10-15,Leicester,Crystal Palace,D,4,0.0,0.0,1.0
+1570814,2022-10-15,Tottenham,Everton,H,4,0.0,0.0,1.0
+1571097,2022-10-15,Wolves,Nottingham Forest,H,4,0.0,0.0,1.0
+1570806,2022-10-16,Aston Villa,Chelsea,A,4,0.0,0.0,1.0
+1570809,2022-10-16,Leeds,Arsenal,A,4,0.0,0.0,1.0
+1570811,2022-10-16,Liverpool,Manchester City,H,4,0.0,0.0,1.0
+1570812,2022-10-16,Manchester United,Newcastle,D,4,0.0,0.0,1.0
+1570813,2022-10-16,Southampton,West Ham,D,4,0.0,0.0,1.0
+1570822,2022-10-18,Crystal Palace,Wolves,H,4,0.0,0.0,1.0
+1571098,2022-10-18,Brighton,Nottingham Forest,D,4,0.0,0.0,1.0
+1570816,2022-10-19,Bournemouth,Southampton,A,4,0.0,0.0,1.0
+1570818,2022-10-19,Brentford,Chelsea,D,4,0.0,0.0,1.0
+1570823,2022-10-19,Newcastle,Everton,H,4,0.0,0.0,1.0
+1570824,2022-10-19,Liverpool,West Ham,H,4,0.0,0.0,1.0
+1570825,2022-10-19,Manchester United,Tottenham,H,4,0.0,0.0,1.0
+1570820,2022-10-20,Fulham,Aston Villa,H,4,0.0,0.0,1.0
+1570821,2022-10-20,Leicester,Leeds,H,4,0.0,0.0,1.0
+1570827,2022-10-22,Chelsea,Manchester United,D,4,0.0,0.0,1.0
+1570828,2022-10-22,Everton,Crystal Palace,H,4,0.0,0.0,1.0
+1570830,2022-10-22,Manchester City,Brighton,H,4,0.0,0.0,1.0
+1571099,2022-10-22,Nottingham Forest,Liverpool,H,4,0.0,0.0,1.0
+1570826,2022-10-23,Aston Villa,Brentford,H,4,0.0,0.0,1.0
+1570829,2022-10-23,Leeds,Fulham,A,4,0.0,0.0,1.0
+1570832,2022-10-23,Southampton,Arsenal,D,4,0.0,0.0,1.0
+1570833,2022-10-23,Tottenham,Newcastle,A,4,0.0,0.0,1.0
+1570835,2022-10-23,Wolves,Leicester,A,4,0.0,0.0,1.0
+1570834,2022-10-24,West Ham,Bournemouth,H,4,0.0,0.0,1.0
+1570836,2022-10-29,Bournemouth,Tottenham,A,4,0.0,0.0,1.0
+1570838,2022-10-29,Brentford,Wolves,D,4,0.0,0.0,1.0
+1570839,2022-10-29,Brighton,Chelsea,H,4,0.0,0.0,1.0
+1570840,2022-10-29,Crystal Palace,Southampton,H,4,0.0,0.0,1.0
+1570841,2022-10-29,Fulham,Everton,D,4,0.0,0.0,1.0
+1570842,2022-10-29,Leicester,Manchester City,A,4,0.0,0.0,1.0
+1570843,2022-10-29,Liverpool,Leeds,A,4,0.0,0.0,1.0
+1570845,2022-10-29,Newcastle,Aston Villa,H,4,0.0,0.0,1.0
+1570844,2022-10-30,Manchester United,West Ham,H,4,0.0,0.0,1.0
+1571100,2022-10-30,Arsenal,Nottingham Forest,H,4,0.0,0.0,1.0
+1570848,2022-11-05,Everton,Leicester,A,4,0.0,0.0,1.0
+1570849,2022-11-05,Leeds,Bournemouth,H,4,0.0,0.0,1.0
+1570850,2022-11-05,Manchester City,Fulham,H,4,0.0,0.0,1.0
+1570855,2022-11-05,Wolves,Brighton,A,4,0.0,0.0,1.0
+1571101,2022-11-05,Nottingham Forest,Brentford,D,4,0.0,0.0,1.0
+1570846,2022-11-06,Aston Villa,Manchester United,H,5,0.0,0.0,1.0
+1570847,2022-11-06,Chelsea,Arsenal,A,5,0.0,0.0,1.0
+1570852,2022-11-06,Southampton,Newcastle,A,5,0.0,0.0,1.0
+1570853,2022-11-06,Tottenham,Liverpool,A,5,0.0,0.0,1.0
+1570854,2022-11-06,West Ham,Crystal Palace,A,5,0.0,0.0,1.0
+1570856,2022-11-12,Bournemouth,Everton,H,5,0.0,0.0,1.0
+1570859,2022-11-12,Liverpool,Southampton,H,5,0.0,0.0,1.0
+1570860,2022-11-12,Manchester City,Brentford,A,5,0.0,0.0,1.0
+1570861,2022-11-12,Newcastle,Chelsea,H,5,0.0,0.0,1.0
+1570863,2022-11-12,Tottenham,Leeds,H,5,0.0,0.0,1.0
+1570864,2022-11-12,West Ham,Leicester,A,5,0.0,0.0,1.0
+1570865,2022-11-12,Wolves,Arsenal,A,5,0.0,0.0,1.0
+1571102,2022-11-12,Nottingham Forest,Crystal Palace,H,5,0.0,0.0,1.0
+1570857,2022-11-13,Brighton,Aston Villa,A,5,0.0,0.0,1.0
+1570858,2022-11-13,Fulham,Manchester United,A,5,0.0,0.0,1.0
+1570866,2022-12-26,Arsenal,West Ham,H,5,0.0,0.0,1.0
+1570867,2022-12-26,Aston Villa,Liverpool,A,5,0.0,0.0,1.0
+1570868,2022-12-26,Brentford,Tottenham,D,5,0.0,0.0,1.0
+1570870,2022-12-26,Crystal Palace,Fulham,A,5,0.0,0.0,1.0
+1570871,2022-12-26,Everton,Wolves,A,5,0.0,0.0,1.0
+1570873,2022-12-26,Leicester,Newcastle,A,5,0.0,0.0,1.0
+1570875,2022-12-26,Southampton,Brighton,A,5,0.0,0.0,1.0
+1570869,2022-12-27,Chelsea,Bournemouth,H,5,0.0,0.0,1.0
+1571103,2022-12-27,Manchester United,Nottingham Forest,H,5,0.0,0.0,1.0
+1570872,2022-12-28,Leeds,Manchester City,A,5,0.0,0.0,1.0
+1570879,2022-12-30,Liverpool,Leicester,H,5,0.0,0.0,1.0
+1570884,2022-12-30,West Ham,Brentford,A,5,0.0,0.0,1.0
+1570876,2022-12-31,Bournemouth,Crystal Palace,A,5,0.0,0.0,1.0
+1570877,2022-12-31,Brighton,Arsenal,A,5,0.0,0.0,1.0
+1570878,2022-12-31,Fulham,Southampton,H,5,0.0,0.0,1.0
+1570880,2022-12-31,Manchester City,Everton,D,5,0.0,0.0,1.0
+1570881,2022-12-31,Newcastle,Leeds,D,5,0.0,0.0,1.0
+1570885,2022-12-31,Wolves,Manchester United,A,5,0.0,0.0,1.0
+1570883,2023-01-01,Tottenham,Aston Villa,A,5,0.0,0.0,1.0
+1571104,2023-01-01,Nottingham Forest,Chelsea,D,5,0.0,0.0,1.0
+1570888,2023-01-02,Brentford,Liverpool,H,5,0.0,0.0,1.0
+1570886,2023-01-03,Arsenal,Newcastle,D,5,0.0,0.0,1.0
+1570891,2023-01-03,Everton,Brighton,A,5,0.0,0.0,1.0
+1570893,2023-01-03,Leicester,Fulham,A,5,0.0,0.0,1.0
+1570894,2023-01-03,Manchester United,Bournemouth,H,5,0.0,0.0,1.0
+1570887,2023-01-04,Aston Villa,Wolves,D,5,0.0,0.0,1.0
+1570890,2023-01-04,Crystal Palace,Tottenham,A,5,0.0,0.0,1.0
+1570892,2023-01-04,Leeds,West Ham,D,5,0.0,0.0,1.0
+1571105,2023-01-04,Southampton,Nottingham Forest,A,5,0.0,0.0,1.0
+1570889,2023-01-05,Chelsea,Manchester City,A,5,0.0,0.0,1.0
+1570769,2023-01-12,Fulham,Chelsea,H,5,0.0,0.0,1.0
+1570896,2023-01-13,Aston Villa,Leeds,H,6,0.0,0.0,1.0
+1570897,2023-01-14,Brentford,Bournemouth,H,6,0.0,0.0,1.0
+1570898,2023-01-14,Brighton,Liverpool,H,6,0.0,0.0,1.0
+1570900,2023-01-14,Everton,Southampton,A,6,0.0,0.0,1.0
+1570901,2023-01-14,Manchester United,Manchester City,H,6,0.0,0.0,1.0
+1570905,2023-01-14,Wolves,West Ham,H,6,0.0,0.0,1.0
+1571106,2023-01-14,Nottingham Forest,Leicester,H,6,0.0,0.0,1.0
+1570899,2023-01-15,Chelsea,Crystal Palace,H,6,0.0,0.0,1.0
+1570902,2023-01-15,Newcastle,Fulham,H,6,0.0,0.0,1.0
+1570904,2023-01-15,Tottenham,Arsenal,A,6,0.0,0.0,1.0
+1570768,2023-01-18,Crystal Palace,Manchester United,D,6,0.0,0.0,1.0
+1570773,2023-01-19,Manchester City,Tottenham,H,6,0.0,0.0,1.0
+1570908,2023-01-21,Crystal Palace,Newcastle,D,6,0.0,0.0,1.0
+1570911,2023-01-21,Leicester,Brighton,D,6,0.0,0.0,1.0
+1570912,2023-01-21,Liverpool,Chelsea,D,6,0.0,0.0,1.0
+1570914,2023-01-21,Southampton,Aston Villa,A,6,0.0,0.0,1.0
+1570915,2023-01-21,West Ham,Everton,H,6,0.0,0.0,1.0
+1571107,2023-01-21,Bournemouth,Nottingham Forest,D,6,0.0,0.0,1.0
+1570907,2023-01-22,Arsenal,Manchester United,H,6,0.0,0.0,1.0
+1570910,2023-01-22,Leeds,Brentford,D,6,0.0,0.0,1.0
+1570913,2023-01-22,Manchester City,Wolves,H,6,0.0,0.0,1.0
+1570909,2023-01-23,Fulham,Tottenham,A,6,0.0,0.0,1.0
+1570919,2023-02-03,Chelsea,Fulham,D,6,0.0,0.0,1.0
+1570916,2023-02-04,Aston Villa,Leicester,A,6,0.0,0.0,1.0
+1570917,2023-02-04,Brentford,Southampton,H,6,0.0,0.0,1.0
+1570918,2023-02-04,Brighton,Bournemouth,H,6,0.0,0.0,1.0
+1570920,2023-02-04,Everton,Arsenal,H,6,0.0,0.0,1.0
+1570921,2023-02-04,Manchester United,Crystal Palace,H,6,0.0,0.0,1.0
+1570922,2023-02-04,Newcastle,West Ham,D,6,0.0,0.0,1.0
+1570925,2023-02-04,Wolves,Liverpool,H,6,0.0,0.0,1.0
+1570924,2023-02-05,Tottenham,Manchester City,H,6,0.0,0.0,1.0
+1571108,2023-02-05,Nottingham Forest,Leeds,H,6,0.0,0.0,1.0
+1570781,2023-02-08,Manchester United,Leeds,D,6,0.0,0.0,1.0
+1570926,2023-02-11,Bournemouth,Newcastle,D,6,0.0,0.0,1.0
+1570927,2023-02-11,Arsenal,Brentford,D,6,0.0,0.0,1.0
+1570928,2023-02-11,Crystal Palace,Brighton,D,6,0.0,0.0,1.0
+1570931,2023-02-11,Leicester,Tottenham,H,6,0.0,0.0,1.0
+1570934,2023-02-11,Southampton,Wolves,A,6,0.0,0.0,1.0
+1570935,2023-02-11,West Ham,Chelsea,D,6,0.0,0.0,1.0
+1571109,2023-02-11,Fulham,Nottingham Forest,H,6,0.0,0.0,1.0
+1570930,2023-02-12,Leeds,Manchester United,A,6,0.0,0.0,1.0
+1570933,2023-02-12,Manchester City,Aston Villa,H,6,0.0,0.0,1.0
+1570932,2023-02-13,Liverpool,Everton,H,7,0.0,0.0,1.0
+1570817,2023-02-15,Arsenal,Manchester City,A,7,0.0,0.0,1.0
+1570936,2023-02-18,Aston Villa,Arsenal,A,7,0.0,0.0,1.0
+1570937,2023-02-18,Brentford,Crystal Palace,D,7,0.0,0.0,1.0
+1570938,2023-02-18,Brighton,Fulham,A,7,0.0,0.0,1.0
+1570939,2023-02-18,Chelsea,Southampton,A,7,0.0,0.0,1.0
+1570940,2023-02-18,Everton,Leeds,H,7,0.0,0.0,1.0
+1570942,2023-02-18,Newcastle,Liverpool,A,7,0.0,0.0,1.0
+1570945,2023-02-18,Wolves,Bournemouth,A,7,0.0,0.0,1.0
+1571110,2023-02-18,Nottingham Forest,Manchester City,D,7,0.0,0.0,1.0
+1570941,2023-02-19,Manchester United,Leicester,H,7,0.0,0.0,1.0
+1570944,2023-02-19,Tottenham,West Ham,H,7,0.0,0.0,1.0
+1570949,2023-02-24,Fulham,Wolves,D,7,0.0,0.0,1.0
+1570946,2023-02-25,Bournemouth,Manchester City,A,7,0.0,0.0,1.0
+1570947,2023-02-25,Crystal Palace,Liverpool,D,7,0.0,0.0,1.0
+1570948,2023-02-25,Everton,Aston Villa,A,7,0.0,0.0,1.0
+1570950,2023-02-25,Leeds,Southampton,H,7,0.0,0.0,1.0
+1570951,2023-02-25,Leicester,Arsenal,A,7,0.0,0.0,1.0
+1571111,2023-02-25,West Ham,Nottingham Forest,H,7,0.0,0.0,1.0
+1570954,2023-02-26,Tottenham,Chelsea,H,7,0.0,0.0,1.0
+1570767,2023-03-01,Arsenal,Everton,H,7,0.0,0.0,1.0
+1570772,2023-03-01,Liverpool,Wolves,H,7,0.0,0.0,1.0
+1570956,2023-03-04,Arsenal,Bournemouth,H,7,0.0,0.0,1.0
+1570957,2023-03-04,Aston Villa,Crystal Palace,H,7,0.0,0.0,1.0
+1570959,2023-03-04,Brighton,West Ham,H,7,0.0,0.0,1.0
+1570960,2023-03-04,Chelsea,Leeds,H,7,0.0,0.0,1.0
+1570962,2023-03-04,Manchester City,Newcastle,H,7,0.0,0.0,1.0
+1570964,2023-03-04,Southampton,Leicester,H,7,0.0,0.0,1.0
+1570965,2023-03-04,Wolves,Tottenham,H,7,0.0,0.0,1.0
+1570961,2023-03-05,Liverpool,Manchester United,H,7,0.0,0.0,1.0
+1571112,2023-03-05,Nottingham Forest,Everton,D,7,0.0,0.0,1.0
+1570958,2023-03-06,Brentford,Fulham,H,7,0.0,0.0,1.0
+1570966,2023-03-11,Bournemouth,Liverpool,H,7,0.0,0.0,1.0
+1570967,2023-03-11,Crystal Palace,Manchester City,A,7,0.0,0.0,1.0
+1570968,2023-03-11,Everton,Brentford,H,7,0.0,0.0,1.0
+1570970,2023-03-11,Leeds,Brighton,D,7,0.0,0.0,1.0
+1570971,2023-03-11,Leicester,Chelsea,A,7,0.0,0.0,1.0
+1571113,2023-03-11,Tottenham,Nottingham Forest,H,7,0.0,0.0,1.0
+1570969,2023-03-12,Fulham,Arsenal,A,7,0.0,0.0,1.0
+1570972,2023-03-12,Manchester United,Southampton,D,7,0.0,0.0,1.0
+1570973,2023-03-12,Newcastle,Wolves,H,7,0.0,0.0,1.0
+1570975,2023-03-12,West Ham,Aston Villa,D,7,0.0,0.0,1.0
+1570774,2023-03-15,Southampton,Brentford,A,8,0.0,0.0,1.0
+1570778,2023-03-15,Brighton,Crystal Palace,H,8,0.0,0.0,1.0
+1571114,2023-03-17,Nottingham Forest,Newcastle,A,8,0.0,0.0,1.0
+1570977,2023-03-18,Aston Villa,Bournemouth,H,8,0.0,0.0,1.0
+1570978,2023-03-18,Brentford,Leicester,D,8,0.0,0.0,1.0
+1570980,2023-03-18,Chelsea,Everton,D,8,0.0,0.0,1.0
+1570984,2023-03-18,Southampton,Tottenham,D,8,0.0,0.0,1.0
+1570985,2023-03-18,Wolves,Leeds,A,8,0.0,0.0,1.0
+1570976,2023-03-19,Arsenal,Crystal Palace,H,8,0.0,0.0,1.0
+1570986,2023-04-01,Bournemouth,Fulham,H,8,0.0,0.0,1.0
+1570987,2023-04-01,Arsenal,Leeds,H,8,0.0,0.0,1.0
+1570988,2023-04-01,Brighton,Brentford,D,8,0.0,0.0,1.0
+1570989,2023-04-01,Chelsea,Aston Villa,A,8,0.0,0.0,1.0
+1570990,2023-04-01,Crystal Palace,Leicester,H,8,0.0,0.0,1.0
+1570992,2023-04-01,Manchester City,Liverpool,H,8,0.0,0.0,1.0
+1571115,2023-04-01,Nottingham Forest,Wolves,D,8,0.0,0.0,1.0
+1570993,2023-04-02,Newcastle,Manchester United,H,8,0.0,0.0,1.0
+1570995,2023-04-02,West Ham,Southampton,H,8,0.0,0.0,1.0
+1570991,2023-04-03,Everton,Tottenham,D,8,0.0,0.0,1.0
+1570766,2023-04-04,Bournemouth,Brighton,A,8,0.0,0.0,1.0
+1570771,2023-04-04,Leicester,Aston Villa,A,8,0.0,0.0,1.0
+1570779,2023-04-04,Chelsea,Liverpool,D,8,0.0,0.0,1.0
+1571093,2023-04-04,Leeds,Nottingham Forest,H,8,0.0,0.0,1.0
+1570775,2023-04-05,West Ham,Newcastle,A,8,0.0,0.0,1.0
+1570952,2023-04-05,Manchester United,Brentford,H,8,0.0,0.0,1.0
+1570997,2023-04-08,Brentford,Newcastle,A,8,0.0,0.0,1.0
+1570998,2023-04-08,Fulham,West Ham,A,8,0.0,0.0,1.0
+1571000,2023-04-08,Leicester,Bournemouth,A,8,0.0,0.0,1.0
+1571002,2023-04-08,Manchester United,Everton,H,8,0.0,0.0,1.0
+1571003,2023-04-08,Southampton,Manchester City,A,8,0.0,0.0,1.0
+1571004,2023-04-08,Tottenham,Brighton,H,8,0.0,0.0,1.0
+1571005,2023-04-08,Wolves,Chelsea,H,8,0.0,0.0,1.0
+1571116,2023-04-08,Aston Villa,Nottingham Forest,H,8,0.0,0.0,1.0
+1570999,2023-04-09,Leeds,Crystal Palace,A,8,0.0,0.0,1.0
+1571001,2023-04-09,Liverpool,Arsenal,D,8,0.0,0.0,1.0
+1571006,2023-04-15,Aston Villa,Newcastle,H,8,0.0,0.0,1.0
+1571007,2023-04-15,Chelsea,Brighton,A,8,0.0,0.0,1.0
+1571008,2023-04-15,Everton,Fulham,A,8,0.0,0.0,1.0
+1571010,2023-04-15,Manchester City,Leicester,H,8,0.0,0.0,1.0
+1571012,2023-04-15,Southampton,Crystal Palace,A,8,0.0,0.0,1.0
+1571013,2023-04-15,Tottenham,Bournemouth,A,8,0.0,0.0,1.0
+1571015,2023-04-15,Wolves,Brentford,H,8,0.0,0.0,1.0
+1571014,2023-04-16,West Ham,Arsenal,D,8,0.0,0.0,1.0
+1571117,2023-04-16,Nottingham Forest,Manchester United,A,8,0.0,0.0,1.0
+1571009,2023-04-17,Leeds,Liverpool,A,9,0.0,0.0,1.0
+1571017,2023-04-21,Arsenal,Southampton,D,9,0.0,0.0,1.0
+1571018,2023-04-22,Brentford,Aston Villa,D,9,0.0,0.0,1.0
+1571020,2023-04-22,Crystal Palace,Everton,D,9,0.0,0.0,1.0
+1571021,2023-04-22,Fulham,Leeds,H,9,0.0,0.0,1.0
+1571022,2023-04-22,Leicester,Wolves,H,9,0.0,0.0,1.0
+1571118,2023-04-22,Liverpool,Nottingham Forest,H,9,0.0,0.0,1.0
+1571016,2023-04-23,Bournemouth,West Ham,A,9,0.0,0.0,1.0
+1571025,2023-04-23,Newcastle,Tottenham,H,9,0.0,0.0,1.0
+1571027,2023-04-25,Leeds,Leicester,D,9,0.0,0.0,1.0
+1571031,2023-04-25,Wolves,Crystal Palace,H,9,0.0,0.0,1.0
+1571032,2023-04-25,Aston Villa,Fulham,H,9,0.0,0.0,1.0
+1571030,2023-04-26,West Ham,Liverpool,A,9,0.0,0.0,1.0
+1571033,2023-04-26,Chelsea,Brentford,A,9,0.0,0.0,1.0
+1571035,2023-04-26,Manchester City,Arsenal,H,9,0.0,0.0,1.0
+1571119,2023-04-26,Nottingham Forest,Brighton,H,9,0.0,0.0,1.0
+1571026,2023-04-27,Everton,Newcastle,A,9,0.0,0.0,1.0
+1571029,2023-04-27,Tottenham,Manchester United,D,9,0.0,0.0,1.0
+1571034,2023-04-27,Southampton,Bournemouth,A,9,0.0,0.0,1.0
+1571039,2023-04-29,Brighton,Wolves,H,9,0.0,0.0,1.0
+1571040,2023-04-29,Crystal Palace,West Ham,H,9,0.0,0.0,1.0
+1571120,2023-04-29,Brentford,Nottingham Forest,H,9,0.0,0.0,1.0
+1571036,2023-04-30,Bournemouth,Leeds,H,9,0.0,0.0,1.0
+1571041,2023-04-30,Fulham,Manchester City,A,9,0.0,0.0,1.0
+1571043,2023-04-30,Liverpool,Tottenham,H,9,0.0,0.0,1.0
+1571044,2023-04-30,Manchester United,Aston Villa,H,9,0.0,0.0,1.0
+1571045,2023-04-30,Newcastle,Southampton,H,9,0.0,0.0,1.0
+1571042,2023-05-01,Leicester,Everton,D,9,0.0,0.0,1.0
+1571037,2023-05-02,Arsenal,Chelsea,H,9,0.0,0.0,1.0
+1570981,2023-05-03,Liverpool,Fulham,H,9,0.0,0.0,1.0
+1570982,2023-05-03,Manchester City,West Ham,H,9,0.0,0.0,1.0
+1570979,2023-05-04,Brighton,Manchester United,H,9,0.0,0.0,1.0
+1571046,2023-05-06,Bournemouth,Chelsea,A,10,0.0,0.0,1.0
+1571049,2023-05-06,Liverpool,Brentford,H,10,0.0,0.0,1.0
+1571050,2023-05-06,Manchester City,Leeds,H,10,0.0,0.0,1.0
+1571053,2023-05-06,Tottenham,Crystal Palace,H,10,0.0,0.0,1.0
+1571055,2023-05-06,Wolves,Aston Villa,H,10,0.0,0.0,1.0
+1571051,2023-05-07,Newcastle,Arsenal,A,10,0.0,0.0,1.0
+1571054,2023-05-07,West Ham,Manchester United,H,10,0.0,0.0,1.0
+1571047,2023-05-08,Brighton,Everton,A,10,0.0,0.0,1.0
+1571048,2023-05-08,Fulham,Leicester,H,10,0.0,0.0,1.0
+1571121,2023-05-08,Nottingham Forest,Southampton,H,10,0.0,0.0,1.0
+1571057,2023-05-13,Aston Villa,Tottenham,H,10,0.0,0.0,1.0
+1571060,2023-05-13,Crystal Palace,Bournemouth,H,10,0.0,0.0,1.0
+1571062,2023-05-13,Leeds,Newcastle,D,10,0.0,0.0,1.0
+1571064,2023-05-13,Manchester United,Wolves,H,10,0.0,0.0,1.0
+1571065,2023-05-13,Southampton,Fulham,A,10,0.0,0.0,1.0
+1571122,2023-05-13,Chelsea,Nottingham Forest,D,10,0.0,0.0,1.0
+1571056,2023-05-14,Arsenal,Brighton,A,10,0.0,0.0,1.0
+1571058,2023-05-14,Brentford,West Ham,H,10,0.0,0.0,1.0
+1571061,2023-05-14,Everton,Manchester City,A,10,0.0,0.0,1.0
+1571063,2023-05-15,Leicester,Liverpool,A,10,0.0,0.0,1.0
+1570953,2023-05-18,Newcastle,Brighton,H,10,0.0,0.0,1.0
+1571066,2023-05-20,Bournemouth,Manchester United,A,10,0.0,0.0,1.0
+1571068,2023-05-20,Fulham,Crystal Palace,D,10,0.0,0.0,1.0
+1571069,2023-05-20,Liverpool,Aston Villa,D,10,0.0,0.0,1.0
+1571073,2023-05-20,Tottenham,Brentford,A,10,0.0,0.0,1.0
+1571075,2023-05-20,Wolves,Everton,D,10,0.0,0.0,1.0
+1571123,2023-05-20,Nottingham Forest,Arsenal,H,10,0.0,0.0,1.0
+1571067,2023-05-21,Brighton,Southampton,H,10,0.0,0.0,1.0
+1571070,2023-05-21,Manchester City,Chelsea,H,10,0.0,0.0,1.0
+1571074,2023-05-21,West Ham,Leeds,H,10,0.0,0.0,1.0
+1571071,2023-05-22,Newcastle,Leicester,D,10,0.0,0.0,1.0
+1571019,2023-05-24,Brighton,Manchester City,D,10,0.0,0.0,1.0
+1571024,2023-05-25,Manchester United,Chelsea,H,10,0.0,0.0,1.0
+1571076,2023-05-28,Arsenal,Wolves,H,10,0.0,0.0,1.0
+1571077,2023-05-28,Aston Villa,Brighton,H,10,0.0,0.0,1.0
+1571078,2023-05-28,Brentford,Manchester City,H,10,0.0,0.0,1.0
+1571079,2023-05-28,Chelsea,Newcastle,D,10,0.0,0.0,1.0
+1571081,2023-05-28,Everton,Bournemouth,H,10,0.0,0.0,1.0
+1571082,2023-05-28,Leeds,Tottenham,A,10,0.0,0.0,1.0
+1571083,2023-05-28,Leicester,West Ham,H,10,0.0,0.0,1.0
+1571084,2023-05-28,Manchester United,Fulham,H,10,0.0,0.0,1.0
+1571085,2023-05-28,Southampton,Liverpool,D,10,0.0,0.0,1.0
+1571124,2023-05-28,Crystal Palace,Nottingham Forest,D,10,0.0,0.0,1.0

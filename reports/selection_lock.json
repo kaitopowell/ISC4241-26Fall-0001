@@ -1,0 +1,113 @@
+{
+  "selected_model": "logistic_refined_C0.01",
+  "refined_logistic": "logistic_refined_C0.01",
+  "champions": [
+    "logistic_refined_C0.01",
+    "forest_d8_leaf25",
+    "logistic_initial",
+    "tree_d2_leaf40",
+    "logistic_balanced",
+    "logistic_no_elo",
+    "prior",
+    "majority"
+  ],
+  "primary_metric": "pooled chronological OOF multiclass log loss (lower is better)",
+  "selection_note": "CV reused for tuning/selection, not an unbiased nested-CV performance estimate. Test season provides final assessment.",
+  "test_season": "2023-2024",
+  "development_rows": 695,
+  "test_rows": 370,
+  "folds": [
+    {
+      "fold": 1,
+      "train_n": 266,
+      "validation_n": 42,
+      "train_end": "2022-04-19",
+      "validation_start": "2022-04-20",
+      "validation_end": "2022-05-12"
+    },
+    {
+      "fold": 2,
+      "train_n": 308,
+      "validation_n": 43,
+      "train_end": "2022-05-12",
+      "validation_start": "2022-05-15",
+      "validation_end": "2022-08-22"
+    },
+    {
+      "fold": 3,
+      "train_n": 351,
+      "validation_n": 46,
+      "train_end": "2022-08-22",
+      "validation_start": "2022-08-27",
+      "validation_end": "2022-10-08"
+    },
+    {
+      "fold": 4,
+      "train_n": 397,
+      "validation_n": 49,
+      "train_end": "2022-10-08",
+      "validation_start": "2022-10-09",
+      "validation_end": "2022-11-05"
+    },
+    {
+      "fold": 5,
+      "train_n": 446,
+      "validation_n": 46,
+      "train_end": "2022-11-05",
+      "validation_start": "2022-11-06",
+      "validation_end": "2023-01-12"
+    },
+    {
+      "fold": 6,
+      "train_n": 492,
+      "validation_n": 42,
+      "train_end": "2023-01-12",
+      "validation_start": "2023-01-13",
+      "validation_end": "2023-02-12"
+    },
+    {
+      "fold": 7,
+      "train_n": 534,
+      "validation_n": 42,
+      "train_end": "2023-02-12",
+      "validation_start": "2023-02-13",
+      "validation_end": "2023-03-12"
+    },
+    {
+      "fold": 8,
+      "train_n": 576,
+      "validation_n": 44,
+      "train_end": "2023-03-12",
+      "validation_start": "2023-03-15",
+      "validation_end": "2023-04-16"
+    },
+    {
+      "fold": 9,
+      "train_n": 620,
+      "validation_n": 32,
+      "train_end": "2023-04-16",
+      "validation_start": "2023-04-17",
+      "validation_end": "2023-05-04"
+    },
+    {
+      "fold": 10,
+      "train_n": 652,
+      "validation_n": 43,
+      "train_end": "2023-05-04",
+      "validation_start": "2023-05-06",
+      "validation_end": "2023-05-28"
+    }
+  ],
+  "refined_features": [
+    "gf_diff",
+    "ga_diff",
+    "win_diff",
+    "rest_diff",
+    "elo_diff"
+  ],
+  "fingerprint": "b90b9e09cfd7471cc7d0043d9d2e2b928a5a059d5645393b953ccd68191ab2dc",
+  "python": "3.9.6",
+  "sklearn": "1.6.1",
+  "elo": "Supplemental feature: start 1500, K=20, home offset=60; fixed before validation, not tuned. Includes no-Elo ablation.",
+  "seed": 42
+}

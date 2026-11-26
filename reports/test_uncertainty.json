@@ -1,0 +1,9 @@
+{
+  "comparison": "selected minus prior mean log loss; negative favors selected",
+  "estimate": -0.1070329932790663,
+  "week_block_percentile_95": [
+    -0.1453439099153472,
+    -0.06883347122522873
+  ],
+  "limitation": "Approximate interval; week blocks may retain cross-week/team dependence. Conditional on these fitted models."
+}

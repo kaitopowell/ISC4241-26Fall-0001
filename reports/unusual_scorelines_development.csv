@@ -1,0 +1,34 @@
+match_id,league_id,season,date,home_id,away_id,home,away,hg,ag,status,outcome
+1153944,4328,2021-2022,2021-08-21,133613,133608,Manchester City,Norwich,5,0,Match Finished,H
+1153952,4328,2021-2022,2021-08-28,133613,133604,Manchester City,Arsenal,5,0,Match Finished,H
+1154007,4328,2021-2022,2021-10-16,133624,133602,Watford,Liverpool,0,5,Match Finished,A
+1154011,4328,2021-2022,2021-10-23,133610,133608,Chelsea,Norwich,7,0,Match Finished,H
+1154013,4328,2021-2022,2021-10-23,133615,133624,Everton,Watford,2,5,Match Finished,A
+1154015,4328,2021-2022,2021-10-24,133612,133602,Manchester United,Liverpool,0,5,Match Finished,A
+1154097,4328,2021-2022,2021-12-14,133613,133635,Manchester City,Leeds,7,0,Match Finished,H
+1154112,4328,2021-2022,2021-12-26,133613,133626,Manchester City,Leicester,6,3,Match Finished,H
+1154114,4328,2021-2022,2021-12-26,133608,133604,Norwich,Arsenal,0,5,Match Finished,A
+1154111,4328,2021-2022,2022-02-23,133602,133635,Liverpool,Leeds,6,0,Match Finished,H
+1154205,4328,2021-2022,2022-03-07,133616,133615,Tottenham,Everton,5,0,Match Finished,H
+1154246,4328,2021-2022,2022-04-09,134778,133610,Southampton,Chelsea,0,6,Match Finished,A
+1154286,4328,2021-2022,2022-05-08,133613,134777,Manchester City,Newcastle,5,0,Match Finished,H
+1154307,4328,2021-2022,2022-05-22,133608,133616,Norwich,Tottenham,0,5,Match Finished,A
+1570741,4328,2022-2023,2022-08-27,133602,134301,Liverpool,Bournemouth,9,0,Match Finished,H
+1571091,4328,2022-2023,2022-08-31,133613,133720,Manchester City,Nottingham Forest,6,0,Match Finished,H
+1570757,4328,2022-2023,2022-09-03,134355,133635,Brentford,Leeds,5,2,Match Finished,H
+1570758,4328,2022-2023,2022-09-04,133619,133626,Brighton,Leicester,5,2,Match Finished,H
+1570784,4328,2022-2023,2022-09-17,133616,133626,Tottenham,Leicester,6,2,Match Finished,H
+1570793,4328,2022-2023,2022-10-02,133613,133612,Manchester City,Manchester United,6,3,Match Finished,H
+1571100,4328,2022-2023,2022-10-30,133604,133720,Arsenal,Nottingham Forest,5,0,Match Finished,H
+1570849,4328,2022-2023,2022-11-05,133635,134301,Leeds,Bournemouth,4,3,Match Finished,H
+1570863,4328,2022-2023,2022-11-12,133616,133635,Tottenham,Leeds,4,3,Match Finished,H
+1570961,4328,2022-2023,2023-03-05,133602,133612,Liverpool,Manchester United,7,0,Match Finished,H
+1571009,4328,2022-2023,2023-04-17,133635,133602,Leeds,Liverpool,1,6,Match Finished,A
+1571025,4328,2022-2023,2023-04-23,134777,133616,Newcastle,Tottenham,6,1,Match Finished,H
+1571039,4328,2022-2023,2023-04-29,133619,133599,Brighton,Wolves,6,0,Match Finished,H
+1571040,4328,2022-2023,2023-04-29,133632,133636,Crystal Palace,West Ham,4,3,Match Finished,H
+1571043,4328,2022-2023,2023-04-30,133602,133616,Liverpool,Tottenham,4,3,Match Finished,H
+1571048,4328,2022-2023,2023-05-08,133600,133626,Fulham,Leicester,5,3,Match Finished,H
+1571121,4328,2022-2023,2023-05-08,133720,134778,Nottingham Forest,Southampton,4,3,Match Finished,H
+1571076,4328,2022-2023,2023-05-28,133604,133599,Arsenal,Wolves,5,0,Match Finished,H
+1571085,4328,2022-2023,2023-05-28,134778,133602,Southampton,Liverpool,4,4,Match Finished,D

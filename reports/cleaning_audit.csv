@@ -1,0 +1,8 @@
+step,remaining,removed
+cached records,1520,0
+Premier League only,1520,0
+remove identical repeated match IDs,1520,0
+completed matches only,1359,161
+"valid dates, teams and scores",1359,0
+valid opponents and integer nonnegative scores,1359,0
+complete 380-match seasons only,1140,219

@@ -1,0 +1,371 @@
+match_id,date,home,away,outcome,p_A,p_D,p_H,predicted
+1818395,2023-08-11,Burnley,Manchester City,A,0.0,0.0,1.0,H
+1818396,2023-08-12,Arsenal,Nottingham Forest,H,0.0,0.0,1.0,H
+1818397,2023-08-12,Bournemouth,West Ham,D,0.0,0.0,1.0,H
+1818399,2023-08-12,Everton,Fulham,A,0.0,0.0,1.0,H
+1818401,2023-08-12,Newcastle,Aston Villa,H,0.0,0.0,1.0,H
+1818402,2023-08-13,Brentford,Tottenham,D,0.0,0.0,1.0,H
+1818403,2023-08-13,Chelsea,Liverpool,D,0.0,0.0,1.0,H
+1818404,2023-08-14,Manchester United,Wolves,H,0.0,0.0,1.0,H
+1818407,2023-08-19,Fulham,Brentford,A,0.0,0.0,1.0,H
+1818408,2023-08-19,Liverpool,Bournemouth,H,0.0,0.0,1.0,H
+1818410,2023-08-19,Manchester City,Newcastle,H,0.0,0.0,1.0,H
+1818412,2023-08-19,Tottenham,Manchester United,H,0.0,0.0,1.0,H
+1818414,2023-08-19,Wolves,Brighton,A,0.0,0.0,1.0,H
+1818405,2023-08-20,Aston Villa,Everton,H,0.0,0.0,1.0,H
+1818413,2023-08-20,West Ham,Chelsea,H,0.0,0.0,1.0,H
+1818406,2023-08-21,Crystal Palace,Arsenal,A,0.0,0.0,1.0,H
+1818415,2023-08-26,Bournemouth,Tottenham,A,0.0,0.0,1.0,H
+1818416,2023-08-26,Arsenal,Fulham,D,0.0,0.0,1.0,H
+1818417,2023-08-26,Brentford,Crystal Palace,D,0.0,0.0,1.0,H
+1818418,2023-08-26,Brighton,West Ham,A,0.0,0.0,1.0,H
+1818421,2023-08-26,Everton,Wolves,A,0.0,0.0,1.0,H
+1818422,2023-08-26,Manchester United,Nottingham Forest,H,0.0,0.0,1.0,H
+1818419,2023-08-27,Burnley,Aston Villa,A,0.0,0.0,1.0,H
+1818423,2023-08-27,Newcastle,Liverpool,A,0.0,0.0,1.0,H
+1818426,2023-09-02,Brentford,Bournemouth,D,0.0,0.0,1.0,H
+1818427,2023-09-02,Brighton,Newcastle,H,0.0,0.0,1.0,H
+1818428,2023-09-02,Burnley,Tottenham,A,0.0,0.0,1.0,H
+1818429,2023-09-02,Chelsea,Nottingham Forest,A,0.0,0.0,1.0,H
+1818433,2023-09-02,Manchester City,Fulham,H,0.0,0.0,1.0,H
+1818425,2023-09-03,Arsenal,Manchester United,H,0.0,0.0,1.0,H
+1818430,2023-09-03,Crystal Palace,Wolves,H,0.0,0.0,1.0,H
+1818431,2023-09-03,Liverpool,Aston Villa,H,0.0,0.0,1.0,H
+1818436,2023-09-16,Aston Villa,Crystal Palace,H,0.0,0.0,1.0,H
+1818439,2023-09-16,Manchester United,Brighton,A,0.0,0.0,1.0,H
+1818440,2023-09-16,Newcastle,Brentford,H,0.0,0.0,1.0,H
+1818443,2023-09-16,West Ham,Manchester City,A,0.0,0.0,1.0,H
+1818444,2023-09-16,Wolves,Liverpool,A,0.0,0.0,1.0,H
+1818435,2023-09-17,Bournemouth,Chelsea,D,0.0,0.0,1.0,H
+1818437,2023-09-17,Everton,Arsenal,A,0.0,0.0,1.0,H
+1818441,2023-09-18,Nottingham Forest,Burnley,D,0.0,0.0,1.0,H
+1818446,2023-09-23,Brentford,Everton,A,0.0,0.0,1.0,H
+1818448,2023-09-23,Burnley,Manchester United,A,0.0,0.0,1.0,H
+1818450,2023-09-23,Crystal Palace,Fulham,D,0.0,0.0,1.0,H
+1818453,2023-09-23,Manchester City,Nottingham Forest,H,0.0,0.0,1.0,H
+1818445,2023-09-24,Arsenal,Tottenham,D,0.0,0.0,1.0,H
+1818447,2023-09-24,Brighton,Bournemouth,H,0.0,0.0,1.0,H
+1818449,2023-09-24,Chelsea,Aston Villa,A,0.0,0.0,1.0,H
+1818451,2023-09-24,Liverpool,West Ham,H,0.0,0.0,1.0,H
+1818454,2023-09-24,Sheffield United,Newcastle,A,0.0,0.0,1.0,H
+1818455,2023-09-30,Bournemouth,Arsenal,A,0.0,0.0,1.0,H
+1818456,2023-09-30,Aston Villa,Brighton,H,0.0,0.0,1.0,H
+1818457,2023-09-30,Everton,Luton,A,0.0,0.0,1.0,H
+1818459,2023-09-30,Manchester United,Crystal Palace,A,0.0,0.0,1.0,H
+1818460,2023-09-30,Newcastle,Burnley,H,0.0,0.0,1.0,H
+1818462,2023-09-30,Tottenham,Liverpool,H,0.0,0.0,1.0,H
+1818463,2023-09-30,West Ham,Sheffield United,H,0.0,0.0,1.0,H
+1818464,2023-09-30,Wolves,Manchester City,H,0.0,0.0,1.0,H
+1818461,2023-10-01,Nottingham Forest,Brentford,D,0.0,0.0,1.0,H
+1818458,2023-10-02,Fulham,Chelsea,A,0.0,0.0,1.0,H
+1818409,2023-10-03,Luton,Burnley,A,0.0,0.0,1.0,H
+1818467,2023-10-07,Burnley,Chelsea,A,0.0,0.0,1.0,H
+1818468,2023-10-07,Crystal Palace,Nottingham Forest,D,0.0,0.0,1.0,H
+1818469,2023-10-07,Everton,Bournemouth,H,0.0,0.0,1.0,H
+1818470,2023-10-07,Fulham,Sheffield United,H,0.0,0.0,1.0,H
+1818471,2023-10-07,Luton,Tottenham,A,0.0,0.0,1.0,H
+1818472,2023-10-07,Manchester United,Brentford,H,0.0,0.0,1.0,H
+1818465,2023-10-08,Arsenal,Manchester City,H,0.0,0.0,1.0,H
+1818466,2023-10-08,Brighton,Liverpool,D,0.0,0.0,1.0,H
+1818473,2023-10-08,West Ham,Newcastle,D,0.0,0.0,1.0,H
+1818474,2023-10-08,Wolves,Aston Villa,D,0.0,0.0,1.0,H
+1818475,2023-10-21,Bournemouth,Wolves,A,0.0,0.0,1.0,H
+1818477,2023-10-21,Brentford,Burnley,H,0.0,0.0,1.0,H
+1818478,2023-10-21,Chelsea,Arsenal,D,0.0,0.0,1.0,H
+1818479,2023-10-21,Liverpool,Everton,H,0.0,0.0,1.0,H
+1818480,2023-10-21,Manchester City,Brighton,H,0.0,0.0,1.0,H
+1818481,2023-10-21,Newcastle,Crystal Palace,H,0.0,0.0,1.0,H
+1818482,2023-10-21,Nottingham Forest,Luton,D,0.0,0.0,1.0,H
+1818483,2023-10-21,Sheffield United,Manchester United,A,0.0,0.0,1.0,H
+1818476,2023-10-22,Aston Villa,West Ham,H,0.0,0.0,1.0,H
+1818484,2023-10-23,Tottenham,Fulham,H,0.0,0.0,1.0,H
+1818490,2023-10-27,Crystal Palace,Tottenham,A,0.0,0.0,1.0,H
+1818485,2023-10-28,Bournemouth,Burnley,H,0.0,0.0,1.0,H
+1818486,2023-10-28,Arsenal,Sheffield United,H,0.0,0.0,1.0,H
+1818489,2023-10-28,Chelsea,Brentford,A,0.0,0.0,1.0,H
+1818494,2023-10-28,Wolves,Newcastle,D,0.0,0.0,1.0,H
+1818487,2023-10-29,Aston Villa,Luton,H,0.0,0.0,1.0,H
+1818488,2023-10-29,Brighton,Fulham,D,0.0,0.0,1.0,H
+1818491,2023-10-29,Liverpool,Nottingham Forest,H,0.0,0.0,1.0,H
+1818492,2023-10-29,Manchester United,Manchester City,A,0.0,0.0,1.0,H
+1818493,2023-10-29,West Ham,Everton,A,0.0,0.0,1.0,H
+1818495,2023-11-04,Brentford,West Ham,H,0.0,0.0,1.0,H
+1818496,2023-11-04,Burnley,Crystal Palace,A,0.0,0.0,1.0,H
+1818497,2023-11-04,Everton,Brighton,D,0.0,0.0,1.0,H
+1818498,2023-11-04,Fulham,Manchester United,A,0.0,0.0,1.0,H
+1818500,2023-11-04,Manchester City,Bournemouth,H,0.0,0.0,1.0,H
+1818501,2023-11-04,Newcastle,Arsenal,H,0.0,0.0,1.0,H
+1818503,2023-11-04,Sheffield United,Wolves,H,0.0,0.0,1.0,H
+1818499,2023-11-05,Luton,Liverpool,D,0.0,0.0,1.0,H
+1818502,2023-11-05,Nottingham Forest,Aston Villa,H,0.0,0.0,1.0,H
+1818504,2023-11-06,Tottenham,Chelsea,A,0.0,0.0,1.0,H
+1818505,2023-11-11,Bournemouth,Newcastle,H,0.0,0.0,1.0,H
+1818506,2023-11-11,Arsenal,Burnley,H,0.0,0.0,1.0,H
+1818510,2023-11-11,Crystal Palace,Everton,A,0.0,0.0,1.0,H
+1818512,2023-11-11,Manchester United,Luton,H,0.0,0.0,1.0,H
+1818514,2023-11-11,Wolves,Tottenham,H,0.0,0.0,1.0,H
+1818507,2023-11-12,Aston Villa,Fulham,H,0.0,0.0,1.0,H
+1818508,2023-11-12,Brighton,Sheffield United,D,0.0,0.0,1.0,H
+1818509,2023-11-12,Chelsea,Manchester City,D,0.0,0.0,1.0,H
+1818511,2023-11-12,Liverpool,Brentford,H,0.0,0.0,1.0,H
+1818513,2023-11-12,West Ham,Nottingham Forest,H,0.0,0.0,1.0,H
+1818521,2023-11-25,Brentford,Arsenal,A,0.0,0.0,1.0,H
+1818522,2023-11-25,Burnley,West Ham,A,0.0,0.0,1.0,H
+1818525,2023-11-25,Luton,Crystal Palace,H,0.0,0.0,1.0,H
+1818526,2023-11-25,Manchester City,Liverpool,D,0.0,0.0,1.0,H
+1818527,2023-11-25,Newcastle,Chelsea,H,0.0,0.0,1.0,H
+1818528,2023-11-25,Nottingham Forest,Brighton,A,0.0,0.0,1.0,H
+1818529,2023-11-25,Sheffield United,Bournemouth,A,0.0,0.0,1.0,H
+1818523,2023-11-26,Everton,Manchester United,A,0.0,0.0,1.0,H
+1818530,2023-11-26,Tottenham,Aston Villa,A,0.0,0.0,1.0,H
+1818524,2023-11-27,Fulham,Wolves,H,0.0,0.0,1.0,H
+1818532,2023-12-02,Arsenal,Wolves,H,0.0,0.0,1.0,H
+1818533,2023-12-02,Brentford,Luton,H,0.0,0.0,1.0,H
+1818534,2023-12-02,Burnley,Sheffield United,H,0.0,0.0,1.0,H
+1818538,2023-12-02,Newcastle,Manchester United,H,0.0,0.0,1.0,H
+1818539,2023-12-02,Nottingham Forest,Everton,A,0.0,0.0,1.0,H
+1818531,2023-12-03,Bournemouth,Aston Villa,D,0.0,0.0,1.0,H
+1818535,2023-12-03,Chelsea,Brighton,H,0.0,0.0,1.0,H
+1818536,2023-12-03,Liverpool,Fulham,H,0.0,0.0,1.0,H
+1818537,2023-12-03,Manchester City,Tottenham,D,0.0,0.0,1.0,H
+1818540,2023-12-03,West Ham,Crystal Palace,D,0.0,0.0,1.0,H
+1818545,2023-12-05,Luton,Arsenal,A,0.0,0.0,1.0,H
+1818548,2023-12-05,Wolves,Burnley,H,0.0,0.0,1.0,H
+1818541,2023-12-06,Aston Villa,Manchester City,H,0.0,0.0,1.0,H
+1818542,2023-12-06,Brighton,Brentford,H,0.0,0.0,1.0,H
+1818544,2023-12-06,Fulham,Nottingham Forest,H,0.0,0.0,1.0,H
+1818546,2023-12-06,Sheffield United,Liverpool,A,0.0,0.0,1.0,H
+1818549,2023-12-06,Crystal Palace,Bournemouth,A,0.0,0.0,1.0,H
+1818550,2023-12-06,Manchester United,Chelsea,H,0.0,0.0,1.0,H
+1818543,2023-12-07,Everton,Newcastle,H,0.0,0.0,1.0,H
+1818547,2023-12-07,Tottenham,West Ham,A,0.0,0.0,1.0,H
+1818551,2023-12-09,Aston Villa,Arsenal,H,0.0,0.0,1.0,H
+1818552,2023-12-09,Brighton,Burnley,D,0.0,0.0,1.0,H
+1818553,2023-12-09,Crystal Palace,Liverpool,A,0.0,0.0,1.0,H
+1818557,2023-12-09,Manchester United,Bournemouth,A,0.0,0.0,1.0,H
+1818558,2023-12-09,Sheffield United,Brentford,H,0.0,0.0,1.0,H
+1818560,2023-12-09,Wolves,Nottingham Forest,D,0.0,0.0,1.0,H
+1818554,2023-12-10,Everton,Chelsea,H,0.0,0.0,1.0,H
+1818555,2023-12-10,Fulham,West Ham,H,0.0,0.0,1.0,H
+1818556,2023-12-10,Luton,Manchester City,A,0.0,0.0,1.0,H
+1818559,2023-12-10,Tottenham,Newcastle,H,0.0,0.0,1.0,H
+1818569,2023-12-15,Nottingham Forest,Tottenham,A,0.0,0.0,1.0,H
+1818564,2023-12-16,Burnley,Everton,A,0.0,0.0,1.0,H
+1818565,2023-12-16,Chelsea,Sheffield United,H,0.0,0.0,1.0,H
+1818567,2023-12-16,Manchester City,Crystal Palace,D,0.0,0.0,1.0,H
+1818568,2023-12-16,Newcastle,Fulham,H,0.0,0.0,1.0,H
+1818562,2023-12-17,Arsenal,Brighton,H,0.0,0.0,1.0,H
+1818563,2023-12-17,Brentford,Aston Villa,A,0.0,0.0,1.0,H
+1818566,2023-12-17,Liverpool,Manchester United,D,0.0,0.0,1.0,H
+1818570,2023-12-17,West Ham,Wolves,H,0.0,0.0,1.0,H
+1818572,2023-12-21,Crystal Palace,Brighton,D,0.0,0.0,1.0,H
+1818571,2023-12-22,Aston Villa,Sheffield United,D,0.0,0.0,1.0,H
+1818573,2023-12-23,Fulham,Burnley,A,0.0,0.0,1.0,H
+1818574,2023-12-23,Liverpool,Arsenal,D,0.0,0.0,1.0,H
+1818575,2023-12-23,Luton,Newcastle,H,0.0,0.0,1.0,H
+1818577,2023-12-23,Nottingham Forest,Bournemouth,A,0.0,0.0,1.0,H
+1818578,2023-12-23,Tottenham,Everton,H,0.0,0.0,1.0,H
+1818579,2023-12-23,West Ham,Manchester United,H,0.0,0.0,1.0,H
+1818580,2023-12-24,Wolves,Chelsea,H,0.0,0.0,1.0,H
+1818581,2023-12-26,Bournemouth,Fulham,H,0.0,0.0,1.0,H
+1818585,2023-12-26,Burnley,Liverpool,A,0.0,0.0,1.0,H
+1818588,2023-12-26,Manchester United,Aston Villa,H,0.0,0.0,1.0,H
+1818589,2023-12-26,Newcastle,Nottingham Forest,A,0.0,0.0,1.0,H
+1818590,2023-12-26,Sheffield United,Luton,A,0.0,0.0,1.0,H
+1818583,2023-12-27,Brentford,Wolves,A,0.0,0.0,1.0,H
+1818586,2023-12-27,Chelsea,Crystal Palace,H,0.0,0.0,1.0,H
+1818587,2023-12-27,Everton,Manchester City,A,0.0,0.0,1.0,H
+1818582,2023-12-28,Arsenal,West Ham,A,0.0,0.0,1.0,H
+1818584,2023-12-28,Brighton,Tottenham,H,0.0,0.0,1.0,H
+1818591,2023-12-30,Aston Villa,Burnley,H,0.0,0.0,1.0,H
+1818592,2023-12-30,Crystal Palace,Brentford,H,0.0,0.0,1.0,H
+1818595,2023-12-30,Luton,Chelsea,A,0.0,0.0,1.0,H
+1818596,2023-12-30,Manchester City,Sheffield United,H,0.0,0.0,1.0,H
+1818597,2023-12-30,Nottingham Forest,Manchester United,H,0.0,0.0,1.0,H
+1818600,2023-12-30,Wolves,Everton,H,0.0,0.0,1.0,H
+1818593,2023-12-31,Fulham,Arsenal,H,0.0,0.0,1.0,H
+1818598,2023-12-31,Tottenham,Bournemouth,H,0.0,0.0,1.0,H
+1818594,2024-01-01,Liverpool,Newcastle,H,0.0,0.0,1.0,H
+1818599,2024-01-02,West Ham,Brighton,D,0.0,0.0,1.0,H
+1818605,2024-01-12,Burnley,Luton,D,0.0,0.0,1.0,H
+1818606,2024-01-13,Chelsea,Fulham,H,0.0,0.0,1.0,H
+1818609,2024-01-13,Newcastle,Manchester City,A,0.0,0.0,1.0,H
+1818607,2024-01-14,Everton,Aston Villa,D,0.0,0.0,1.0,H
+1818608,2024-01-14,Manchester United,Tottenham,D,0.0,0.0,1.0,H
+1818602,2024-01-20,Arsenal,Crystal Palace,H,0.0,0.0,1.0,H
+1818603,2024-01-20,Brentford,Nottingham Forest,H,0.0,0.0,1.0,H
+1818601,2024-01-21,Bournemouth,Liverpool,A,0.0,0.0,1.0,H
+1818610,2024-01-21,Sheffield United,West Ham,D,0.0,0.0,1.0,H
+1818604,2024-01-22,Brighton,Wolves,D,0.0,0.0,1.0,H
+1818611,2024-01-30,Aston Villa,Newcastle,A,0.0,0.0,1.0,H
+1818612,2024-01-30,Fulham,Everton,D,0.0,0.0,1.0,H
+1818613,2024-01-30,Luton,Brighton,H,0.0,0.0,1.0,H
+1818614,2024-01-30,Nottingham Forest,Arsenal,A,0.0,0.0,1.0,H
+1818618,2024-01-30,Crystal Palace,Sheffield United,H,0.0,0.0,1.0,H
+1818615,2024-01-31,Tottenham,Brentford,H,0.0,0.0,1.0,H
+1818619,2024-01-31,Liverpool,Chelsea,H,0.0,0.0,1.0,H
+1818620,2024-01-31,Manchester City,Burnley,H,0.0,0.0,1.0,H
+1818616,2024-02-01,West Ham,Bournemouth,D,0.0,0.0,1.0,H
+1818617,2024-02-01,Wolves,Manchester United,A,0.0,0.0,1.0,H
+1818624,2024-02-03,Brighton,Crystal Palace,H,0.0,0.0,1.0,H
+1818625,2024-02-03,Burnley,Fulham,D,0.0,0.0,1.0,H
+1818627,2024-02-03,Everton,Tottenham,D,0.0,0.0,1.0,H
+1818629,2024-02-03,Newcastle,Luton,D,0.0,0.0,1.0,H
+1818630,2024-02-03,Sheffield United,Aston Villa,A,0.0,0.0,1.0,H
+1818621,2024-02-04,Bournemouth,Nottingham Forest,D,0.0,0.0,1.0,H
+1818622,2024-02-04,Arsenal,Liverpool,H,0.0,0.0,1.0,H
+1818626,2024-02-04,Chelsea,Wolves,A,0.0,0.0,1.0,H
+1818628,2024-02-04,Manchester United,West Ham,H,0.0,0.0,1.0,H
+1818623,2024-02-05,Brentford,Manchester City,A,0.0,0.0,1.0,H
+1818633,2024-02-10,Fulham,Bournemouth,H,0.0,0.0,1.0,H
+1818634,2024-02-10,Liverpool,Burnley,H,0.0,0.0,1.0,H
+1818635,2024-02-10,Luton,Sheffield United,A,0.0,0.0,1.0,H
+1818636,2024-02-10,Manchester City,Everton,H,0.0,0.0,1.0,H
+1818637,2024-02-10,Nottingham Forest,Newcastle,A,0.0,0.0,1.0,H
+1818638,2024-02-10,Tottenham,Brighton,H,0.0,0.0,1.0,H
+1818640,2024-02-10,Wolves,Brentford,A,0.0,0.0,1.0,H
+1818631,2024-02-11,Aston Villa,Manchester United,A,0.0,0.0,1.0,H
+1818639,2024-02-11,West Ham,Arsenal,A,0.0,0.0,1.0,H
+1818632,2024-02-12,Crystal Palace,Chelsea,A,0.0,0.0,1.0,H
+1818641,2024-02-17,Brentford,Liverpool,A,0.0,0.0,1.0,H
+1818642,2024-02-17,Burnley,Arsenal,A,0.0,0.0,1.0,H
+1818644,2024-02-17,Fulham,Aston Villa,A,0.0,0.0,1.0,H
+1818646,2024-02-17,Manchester City,Chelsea,D,0.0,0.0,1.0,H
+1818647,2024-02-17,Newcastle,Bournemouth,D,0.0,0.0,1.0,H
+1818648,2024-02-17,Nottingham Forest,West Ham,H,0.0,0.0,1.0,H
+1818650,2024-02-17,Tottenham,Wolves,A,0.0,0.0,1.0,H
+1818645,2024-02-18,Luton,Manchester United,A,0.0,0.0,1.0,H
+1818649,2024-02-18,Sheffield United,Brighton,A,0.0,0.0,1.0,H
+1818643,2024-02-19,Everton,Crystal Palace,D,0.0,0.0,1.0,H
+1818576,2024-02-20,Manchester City,Brentford,H,0.0,0.0,1.0,H
+1818657,2024-02-21,Liverpool,Luton,H,0.0,0.0,1.0,H
+1818651,2024-02-24,Bournemouth,Manchester City,A,0.0,0.0,1.0,H
+1818652,2024-02-24,Arsenal,Newcastle,H,0.0,0.0,1.0,H
+1818653,2024-02-24,Aston Villa,Nottingham Forest,H,0.0,0.0,1.0,H
+1818654,2024-02-24,Brighton,Everton,D,0.0,0.0,1.0,H
+1818656,2024-02-24,Crystal Palace,Burnley,H,0.0,0.0,1.0,H
+1818658,2024-02-24,Manchester United,Fulham,A,0.0,0.0,1.0,H
+1818660,2024-02-25,Wolves,Sheffield United,H,0.0,0.0,1.0,H
+1818659,2024-02-26,West Ham,Brentford,H,0.0,0.0,1.0,H
+1818661,2024-03-02,Brentford,Chelsea,D,0.0,0.0,1.0,H
+1818663,2024-03-02,Everton,West Ham,A,0.0,0.0,1.0,H
+1818664,2024-03-02,Fulham,Brighton,H,0.0,0.0,1.0,H
+1818665,2024-03-02,Luton,Aston Villa,A,0.0,0.0,1.0,H
+1818667,2024-03-02,Newcastle,Wolves,H,0.0,0.0,1.0,H
+1818668,2024-03-02,Nottingham Forest,Liverpool,A,0.0,0.0,1.0,H
+1818670,2024-03-02,Tottenham,Crystal Palace,H,0.0,0.0,1.0,H
+1818662,2024-03-03,Burnley,Bournemouth,A,0.0,0.0,1.0,H
+1818666,2024-03-03,Manchester City,Manchester United,H,0.0,0.0,1.0,H
+1818669,2024-03-04,Sheffield United,Arsenal,A,0.0,0.0,1.0,H
+1818671,2024-03-09,Bournemouth,Sheffield United,D,0.0,0.0,1.0,H
+1818672,2024-03-09,Arsenal,Brentford,H,0.0,0.0,1.0,H
+1818676,2024-03-09,Crystal Palace,Luton,D,0.0,0.0,1.0,H
+1818678,2024-03-09,Manchester United,Everton,H,0.0,0.0,1.0,H
+1818680,2024-03-09,Wolves,Fulham,H,0.0,0.0,1.0,H
+1818673,2024-03-10,Aston Villa,Tottenham,A,0.0,0.0,1.0,H
+1818674,2024-03-10,Brighton,Nottingham Forest,H,0.0,0.0,1.0,H
+1818677,2024-03-10,Liverpool,Manchester City,D,0.0,0.0,1.0,H
+1818679,2024-03-10,West Ham,Burnley,D,0.0,0.0,1.0,H
+1818675,2024-03-11,Chelsea,Newcastle,H,0.0,0.0,1.0,H
+1818561,2024-03-13,Bournemouth,Luton,H,0.0,0.0,1.0,H
+1818683,2024-03-16,Burnley,Brentford,H,0.0,0.0,1.0,H
+1818686,2024-03-16,Fulham,Tottenham,H,0.0,0.0,1.0,H
+1818687,2024-03-16,Luton,Nottingham Forest,D,0.0,0.0,1.0,H
+1818689,2024-03-17,West Ham,Aston Villa,D,0.0,0.0,1.0,H
+1818691,2024-03-30,Bournemouth,Everton,H,0.0,0.0,1.0,H
+1818692,2024-03-30,Aston Villa,Wolves,H,0.0,0.0,1.0,H
+1818693,2024-03-30,Brentford,Manchester United,D,0.0,0.0,1.0,H
+1818694,2024-03-30,Chelsea,Burnley,D,0.0,0.0,1.0,H
+1818697,2024-03-30,Newcastle,West Ham,H,0.0,0.0,1.0,H
+1818698,2024-03-30,Nottingham Forest,Crystal Palace,D,0.0,0.0,1.0,H
+1818699,2024-03-30,Sheffield United,Fulham,D,0.0,0.0,1.0,H
+1818700,2024-03-30,Tottenham,Luton,H,0.0,0.0,1.0,H
+1818695,2024-03-31,Liverpool,Brighton,H,0.0,0.0,1.0,H
+1818696,2024-03-31,Manchester City,Arsenal,D,0.0,0.0,1.0,H
+1818701,2024-04-02,Bournemouth,Crystal Palace,H,0.0,0.0,1.0,H
+1818704,2024-04-02,Burnley,Wolves,D,0.0,0.0,1.0,H
+1818705,2024-04-02,Nottingham Forest,Fulham,H,0.0,0.0,1.0,H
+1818706,2024-04-02,West Ham,Tottenham,D,0.0,0.0,1.0,H
+1818708,2024-04-02,Newcastle,Everton,D,0.0,0.0,1.0,H
+1818702,2024-04-03,Arsenal,Luton,H,0.0,0.0,1.0,H
+1818703,2024-04-03,Brentford,Brighton,D,0.0,0.0,1.0,H
+1818710,2024-04-03,Manchester City,Aston Villa,H,0.0,0.0,1.0,H
+1818707,2024-04-04,Chelsea,Manchester United,H,0.0,0.0,1.0,H
+1818709,2024-04-04,Liverpool,Sheffield United,H,0.0,0.0,1.0,H
+1818711,2024-04-06,Aston Villa,Brentford,D,0.0,0.0,1.0,H
+1818712,2024-04-06,Brighton,Arsenal,A,0.0,0.0,1.0,H
+1818713,2024-04-06,Crystal Palace,Manchester City,A,0.0,0.0,1.0,H
+1818714,2024-04-06,Everton,Burnley,H,0.0,0.0,1.0,H
+1818715,2024-04-06,Fulham,Newcastle,A,0.0,0.0,1.0,H
+1818716,2024-04-06,Luton,Bournemouth,H,0.0,0.0,1.0,H
+1818720,2024-04-06,Wolves,West Ham,A,0.0,0.0,1.0,H
+1818717,2024-04-07,Manchester United,Liverpool,D,0.0,0.0,1.0,H
+1818718,2024-04-07,Sheffield United,Chelsea,D,0.0,0.0,1.0,H
+1818719,2024-04-07,Tottenham,Nottingham Forest,H,0.0,0.0,1.0,H
+1818721,2024-04-13,Bournemouth,Manchester United,D,0.0,0.0,1.0,H
+1818723,2024-04-13,Brentford,Sheffield United,H,0.0,0.0,1.0,H
+1818724,2024-04-13,Burnley,Brighton,D,0.0,0.0,1.0,H
+1818727,2024-04-13,Manchester City,Luton,H,0.0,0.0,1.0,H
+1818728,2024-04-13,Newcastle,Tottenham,H,0.0,0.0,1.0,H
+1818729,2024-04-13,Nottingham Forest,Wolves,D,0.0,0.0,1.0,H
+1818722,2024-04-14,Arsenal,Aston Villa,A,0.0,0.0,1.0,H
+1818726,2024-04-14,Liverpool,Crystal Palace,A,0.0,0.0,1.0,H
+1818730,2024-04-14,West Ham,Fulham,A,0.0,0.0,1.0,H
+1818725,2024-04-15,Chelsea,Everton,H,0.0,0.0,1.0,H
+1818736,2024-04-20,Luton,Brentford,A,0.0,0.0,1.0,H
+1818738,2024-04-20,Sheffield United,Burnley,A,0.0,0.0,1.0,H
+1818740,2024-04-20,Wolves,Arsenal,A,0.0,0.0,1.0,H
+1818731,2024-04-21,Aston Villa,Bournemouth,H,0.0,0.0,1.0,H
+1818733,2024-04-21,Crystal Palace,West Ham,H,0.0,0.0,1.0,H
+1818734,2024-04-21,Everton,Nottingham Forest,H,0.0,0.0,1.0,H
+1818735,2024-04-21,Fulham,Liverpool,A,0.0,0.0,1.0,H
+1818681,2024-04-23,Arsenal,Chelsea,H,0.0,0.0,1.0,H
+1818684,2024-04-24,Crystal Palace,Newcastle,H,0.0,0.0,1.0,H
+1818685,2024-04-24,Everton,Liverpool,H,0.0,0.0,1.0,H
+1818688,2024-04-24,Manchester United,Sheffield United,H,0.0,0.0,1.0,H
+1818690,2024-04-24,Wolves,Bournemouth,A,0.0,0.0,1.0,H
+1818682,2024-04-25,Brighton,Manchester City,A,0.0,0.0,1.0,H
+1818742,2024-04-27,Aston Villa,Chelsea,D,0.0,0.0,1.0,H
+1818743,2024-04-27,Everton,Brentford,H,0.0,0.0,1.0,H
+1818744,2024-04-27,Fulham,Crystal Palace,D,0.0,0.0,1.0,H
+1818745,2024-04-27,Manchester United,Burnley,D,0.0,0.0,1.0,H
+1818746,2024-04-27,Newcastle,Sheffield United,H,0.0,0.0,1.0,H
+1818749,2024-04-27,West Ham,Liverpool,D,0.0,0.0,1.0,H
+1818750,2024-04-27,Wolves,Luton,H,0.0,0.0,1.0,H
+1818741,2024-04-28,Bournemouth,Brighton,H,0.0,0.0,1.0,H
+1818747,2024-04-28,Nottingham Forest,Manchester City,A,0.0,0.0,1.0,H
+1818748,2024-04-28,Tottenham,Arsenal,A,0.0,0.0,1.0,H
+1818655,2024-05-02,Chelsea,Tottenham,H,0.0,0.0,1.0,H
+1818758,2024-05-03,Luton,Everton,D,0.0,0.0,1.0,H
+1818751,2024-05-04,Arsenal,Bournemouth,H,0.0,0.0,1.0,H
+1818752,2024-05-04,Brentford,Fulham,D,0.0,0.0,1.0,H
+1818754,2024-05-04,Burnley,Newcastle,A,0.0,0.0,1.0,H
+1818759,2024-05-04,Manchester City,Wolves,H,0.0,0.0,1.0,H
+1818760,2024-05-04,Sheffield United,Nottingham Forest,A,0.0,0.0,1.0,H
+1818753,2024-05-05,Brighton,Aston Villa,H,0.0,0.0,1.0,H
+1818755,2024-05-05,Chelsea,West Ham,H,0.0,0.0,1.0,H
+1818757,2024-05-05,Liverpool,Tottenham,H,0.0,0.0,1.0,H
+1818756,2024-05-06,Crystal Palace,Manchester United,H,0.0,0.0,1.0,H
+1818761,2024-05-11,Bournemouth,Brentford,A,0.0,0.0,1.0,H
+1818763,2024-05-11,Everton,Sheffield United,H,0.0,0.0,1.0,H
+1818764,2024-05-11,Fulham,Manchester City,A,0.0,0.0,1.0,H
+1818766,2024-05-11,Newcastle,Brighton,D,0.0,0.0,1.0,H
+1818767,2024-05-11,Nottingham Forest,Chelsea,A,0.0,0.0,1.0,H
+1818768,2024-05-11,Tottenham,Burnley,H,0.0,0.0,1.0,H
+1818769,2024-05-11,West Ham,Luton,H,0.0,0.0,1.0,H
+1818770,2024-05-11,Wolves,Crystal Palace,A,0.0,0.0,1.0,H
+1818765,2024-05-12,Manchester United,Arsenal,A,0.0,0.0,1.0,H
+1818762,2024-05-13,Aston Villa,Liverpool,D,0.0,0.0,1.0,H
+1818739,2024-05-14,Tottenham,Manchester City,A,0.0,0.0,1.0,H
+1818732,2024-05-15,Brighton,Chelsea,A,0.0,0.0,1.0,H
+1818737,2024-05-15,Manchester United,Newcastle,H,0.0,0.0,1.0,H
+1818771,2024-05-19,Arsenal,Everton,H,0.0,0.0,1.0,H
+1818772,2024-05-19,Brentford,Newcastle,A,0.0,0.0,1.0,H
+1818773,2024-05-19,Brighton,Manchester United,A,0.0,0.0,1.0,H
+1818774,2024-05-19,Burnley,Nottingham Forest,A,0.0,0.0,1.0,H
+1818775,2024-05-19,Chelsea,Bournemouth,H,0.0,0.0,1.0,H
+1818776,2024-05-19,Crystal Palace,Aston Villa,H,0.0,0.0,1.0,H
+1818777,2024-05-19,Liverpool,Wolves,H,0.0,0.0,1.0,H
+1818778,2024-05-19,Luton,Fulham,A,0.0,0.0,1.0,H
+1818779,2024-05-19,Manchester City,West Ham,H,0.0,0.0,1.0,H
+1818780,2024-05-19,Sheffield United,Tottenham,A,0.0,0.0,1.0,H
