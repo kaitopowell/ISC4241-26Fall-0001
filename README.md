@@ -14,7 +14,7 @@ UCF Data Science I · ISC 4241 · Fall 2026 - final project (clean redo, branch 
 
 In 10-fold chronological CV (2016-17 to 2023-24), the selected model scored 66.2%, against 61.6% for the baseline logistic and 55.3% for the majority guess. It tied the best forest (66.4%) and had the best log loss and AUC of all 31 configurations.
 
-**Start here:** [Home_Win_Prediction.ipynb](Home_Win_Prediction.ipynb) (executed) · [reports/report.html](reports/report.html) (offline report with every figure) · [docs/RESULTS.md](docs/RESULTS.md) (findings and presentation talking points)
+**Start here:** [Home_Win_Prediction.ipynb](Home_Win_Prediction.ipynb) (executed) · [reports/report.html](reports/report.html) (offline report with every figure) · [docs/RESULTS.md](docs/RESULTS.md) (findings and presentation talking points) · [docs/FITTED_MODEL.md](docs/FITTED_MODEL.md) (the fitted equation)
 
 ## What the project does
 
