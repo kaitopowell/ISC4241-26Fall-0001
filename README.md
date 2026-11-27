@@ -1,6 +1,6 @@
 # Predicting Premier League Home Wins
 
-UCF Data Science I · ISC 4241 · Fall 2026 - final project (clean redo, branch `course-project-redo`)
+UCF Data Science I · ISC 4241 · Fall 2026 - final project (clean redo, branch `home-win-prediction`)
 
 **Question:** Using only information available before kickoff, can we predict whether the home team wins? Does a refined logistic regression do as well as decision trees and random forests?
 
